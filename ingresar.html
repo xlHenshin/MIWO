@@ -45,7 +45,9 @@
                 id="celularLogin"
                 name="celular"
                 placeholder="Ingresa tu número de celular"
+                oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"
                 type="number"
+                maxlength="10"
               ></input>
             </div>
             <div class="single-tab-1 border-0-2px-bittersweet">
@@ -54,11 +56,15 @@
                 id="claveLogin"
                 name="clave"
                 placeholder="Clave MIWO"
-                type="number"
+                type="password"
+                inputmode="numeric"
+                maxlength="4"
               ></input>
             </div>
           </div>
-          <div class="group-1736"><div class="ingresar-1 valign-text-middle">Ingresar</div></div>
+          <div class="group-1736" id="ingresarLogin">
+            <div class="ingresar-1 valign-text-middle">Ingresar</div>
+          </div>
           <div class="group-1737">
             <p class="an-no-eres-parte-de-miwo">¿Aún no eres parte de Miwo?</p>
             <div class="regstrate niveaugrotesk-medium-smashed-pumpkin-16px">Regístrate</div>
@@ -68,4 +74,6 @@
       </div>
     </div>
   </body>
+
+  <script src="./js/ingresar.js"></script>
 </html>
