@@ -13,6 +13,8 @@ rgba(249, 107, 57, 1);
 rgba(255, 121, 121, 1);
   --blue: 
 rgba(255, 255, 255, 1);
+--haiti: #170f2d;
+--red: #e50000;
 
   --font-size-s: 14px;
   --font-size-m2: 15px;
@@ -20,6 +22,7 @@ rgba(255, 255, 255, 1);
   --font-size-l3: 36px;
   --font-size-xl2: 20px;
   --font-size-xxl2: 24px;
+  --font-size-xxxxl: 32px;
 
   --font-family-niveau_grotesk-bold: "Niveau Grotesk-Bold";
   --font-family-niveau_grotesk-light: "Niveau Grotesk-Light";
@@ -28,7 +31,13 @@ rgba(255, 255, 255, 1);
   --font-family-poppins: "Poppins";
 }
 
-
+.niveaugrotesk-regular-normal-haiti-15px {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
 
 .border-0-2px-bittersweet {
   border-width: 0.2px;
