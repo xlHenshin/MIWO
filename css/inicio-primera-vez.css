@@ -231,7 +231,7 @@
 .inicio-primera-vez .ingresar {
   color: var(--blue);
   font-family: var(--font-family-niveau_grotesk-medium);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xl2);
   font-weight: 500;
   height: 56px;
   letter-spacing: 0;
@@ -251,7 +251,7 @@
 .inicio-primera-vez .regstrate {
   color: var(--miwo10);
   font-family: var(--font-family-niveau_grotesk-medium);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xl2);
   font-weight: 500;
   height: 56px;
   letter-spacing: 0;
@@ -264,7 +264,7 @@
 .inicio-primera-vez .title {
   color: var(--miwo10);
   font-family: var(--font-family-niveau_grotesk-bold);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-l3);
   font-weight: 700;
   left: 450px;
   letter-spacing: 0;
@@ -276,7 +276,7 @@
 .inicio-primera-vez .tu-banca-mvil-de-confianza {
   color: #791dd5;
   font-family: var(--font-family-niveau_grotesk-bold);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xl2);
   font-weight: 700;
   left: 450px;
   letter-spacing: 0;

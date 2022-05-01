@@ -1,0 +1,217 @@
+/* screen - ingresar */
+
+.ingresar {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  width: 428px;
+}
+
+.ingresar .overlap-group {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ed73680d11097cff23a2d/img/mask-group@1x.svg);
+  background-size: 100% 100%;
+  height: 926px;
+  position: relative;
+  width: 428px;
+}
+
+.ingresar .mask-group {
+  height: 926px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.ingresar .group-1005 {
+  align-items: flex-start;
+  display: flex;
+  height: 38px;
+  left: 136px;
+  min-width: 157px;
+  position: absolute;
+  top: 142px;
+}
+
+.ingresar .vector {
+  height: 37px;
+  margin-top: 0.05px;
+  width: 45px;
+}
+
+.ingresar .vector-1 {
+  height: 37px;
+  margin-left: 7px;
+  margin-top: 0.01px;
+  width: 8px;
+}
+
+.ingresar .vector-2 {
+  height: 37px;
+  margin-left: 7px;
+  margin-top: -0.04px;
+  width: 50px;
+}
+
+.ingresar .vector-3 {
+  height: 38px;
+  margin-left: 5px;
+  width: 35px;
+}
+
+.ingresar .title {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xxl2);
+  font-weight: 700;
+  left: 72px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 387px;
+  width: 305px;
+}
+
+.ingresar .group-1734 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 55px;
+  min-height: 129px;
+  position: absolute;
+  top: 438px;
+  width: 319px;
+}
+
+.ingresar .single-tab {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px #0038ff1a;
+  display: flex;
+  overflow: hidden;
+  width: 319px;
+}
+
+.ingresar .text {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  height: 58px;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: center;
+  width: 68px;
+}
+
+.ingresar .input {
+  background-color: transparent;
+  border: 0;
+  height: 58px;
+  letter-spacing: 0;
+  line-height: 18px;
+  padding: 0;
+  width: 235px;
+}
+
+.ingresar .input::placeholder {
+  color: #73798299;
+}
+
+.ingresar .single-tab-1 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px #0038ff1a;
+  display: flex;
+  margin-top: 13px;
+  overflow: hidden;
+  padding: 0 16px;
+  width: 319px;
+}
+
+.ingresar .input-1 {
+  background-color: transparent;
+  border: 0;
+  height: 58px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 52px;
+  padding: 0;
+  width: 235px;
+}
+
+.ingresar .input-1::placeholder {
+  color: #73798299;
+}
+
+.ingresar .group-1736 {
+  align-items: flex-start;
+  outline: 2px solid #747A83;
+  border-radius: 2rem;
+  border-radius: 9px;
+  display: flex;
+  height: 50px;
+  left: 137px;
+  min-width: 154px;
+  padding: 0 13px;
+  position: absolute;
+  top: 633px;
+}
+
+.ingresar .ingresar-1 {
+  color: #747A83;
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl2);
+  font-weight: 500;
+  height: 50px;
+  letter-spacing: 0;
+  margin-top: -1px;
+  text-align: center;
+  width: 127px;
+}
+
+.ingresar .group-1737 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 95px;
+  min-height: 46px;
+  position: absolute;
+  top: 750px;
+  width: 238px;
+}
+
+.ingresar .an-no-eres-parte-de-miwo {
+  color: var(--silver);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-l2);
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 19px;
+  text-align: center;
+  width: 238px;
+}
+
+.ingresar .regstrate {
+  letter-spacing: 0;
+  line-height: 25.0px;
+  margin-top: 2px;
+  min-height: 25px;
+  text-align: center;
+  white-space: nowrap;
+  width: 70px;
+}
+
+.ingresar .recupera-tu-cuenta {
+  color: var(--silver);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-m2);
+  font-weight: 500;
+  left: 150px;
+  letter-spacing: 0;
+  position: absolute;
+  text-decoration: underline;
+  top: 826px;
+  width: 128px;
+}
