@@ -1,0 +1,11 @@
+:root { 
+  --black: #000000;
+  --blue: #ffffff;
+  --miwo10: #f96b39;
+ 
+  --font-size-l: 36px;
+  --font-size-xl: 20px;
+ 
+  --font-family-niveau_grotesk-bold: "Niveau Grotesk-Bold", Helvetica;
+  --font-family-niveau_grotesk-medium: "Niveau Grotesk-Medium", Helvetica;
+}
