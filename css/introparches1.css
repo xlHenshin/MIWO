@@ -1,0 +1,81 @@
+/* screen - introparches1 */
+
+.introparches1 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  overflow: hidden;
+  width: 428px;
+}
+
+.introparches1 .overlap-group {
+  height: 926px;
+  margin-left: -142px;
+  position: relative;
+  width: 570px;
+}
+
+.introparches1 .mask-group {
+  height: 926px;
+  left: 142px;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.introparches1 .title {
+  left: 145px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 223px;
+  width: 378px;
+}
+
+.introparches1 .con {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 115px;
+  width: 428px;
+}
+
+.introparches1 .nos-encantara-que-c {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xxl2);
+  font-weight: 700;
+  left: 187px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 653px;
+  width: 321px;
+}
+
+.introparches1 .group-1568 {
+  height: 62px;
+  left: 183px;
+  position: absolute;
+  top: 160px;
+  width: 231px;
+}
+
+.introparches1 .group-1730 {
+  cursor: pointer;
+  height: 66px;
+  left: 356px;
+  position: absolute;
+  top: 789px;
+  width: 180px;
+}
+
+.introparches1 .group-1731 {
+  height: 66px;
+  left: 177px;
+  position: absolute;
+  top: 789px;
+  width: 180px;
+}
