@@ -1,0 +1,197 @@
+/* screen - registro */
+
+.registro {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  width: 428px;
+}
+
+.registro .overlap-group1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626f1f90418bcbc285c80448/img/mask-group-5@1x.svg);
+  background-size: 100% 100%;
+  height: 926px;
+  position: relative;
+  width: 428px;
+}
+
+.registro .mask-group {
+  height: 926px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.registro .group-1005 {
+  align-items: flex-start;
+  display: flex;
+  height: 38px;
+  left: 136px;
+  min-width: 157px;
+  position: absolute;
+  top: 142px;
+}
+
+.registro .vector {
+  height: 37px;
+  margin-top: 0.05px;
+  width: 45px;
+}
+
+.registro .vector-1 {
+  height: 37px;
+  margin-left: 7px;
+  margin-top: 0.01px;
+  width: 8px;
+}
+
+.registro .vector-2 {
+  height: 37px;
+  margin-left: 7px;
+  margin-top: -0.04px;
+  width: 50px;
+}
+
+.registro .vector-3 {
+  height: 38px;
+  margin-left: 5px;
+  width: 35px;
+}
+
+.registro .group-1736 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 95px;
+  min-height: 46px;
+  position: absolute;
+  top: 766px;
+  width: 242px;
+}
+
+.registro .ya-tienes-cuenta-miwo {
+  letter-spacing: 0;
+  margin-right: 4.0px;
+  min-height: 19px;
+  text-align: center;
+  width: 238px;
+}
+
+.registro .ingresa {
+  letter-spacing: 0;
+  line-height: 25.0px;
+  margin-right: 4.0px;
+  margin-top: 2px;
+  min-height: 25px;
+  text-align: center;
+  white-space: nowrap;
+  width: 70px;
+}
+
+.registro .title {
+  left: 72px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 378px;
+  width: 305px;
+}
+
+.registro .para-empezar-necesi {
+  color: transparent;
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  left: 72px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 427px;
+  width: 261px;
+}
+
+.registro .span1 {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-weight: 700;
+}
+
+.registro .document {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 55px;
+  min-height: 165px;
+  position: absolute;
+  top: 561px;
+  width: 319px;
+}
+
+.registro .single-tab {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 5px;
+  display: flex;
+  overflow: hidden;
+  padding: 0 16px;
+  width: 319px;
+}
+
+.registro .input {
+  background-color: transparent;
+  border: 0;
+  height: 58px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 20px;
+  padding: 0;
+  width: 267px;
+}
+
+.registro .input::placeholder {
+  color: #73798299;
+}
+
+.registro .overlap-group {
+  align-items: flex-start;
+  border: 2px solid var(--rolling-stone);
+  border-radius: 9px;
+  display: flex;
+  margin-right: 1.0px;
+  margin-top: 57px;
+  min-width: 154px;
+  padding: 0 12px;
+}
+
+.registro .continuar {
+  height: 50px;
+  letter-spacing: 0;
+  margin-top: -2px;
+  text-align: center;
+  width: 127px;
+}
+
+.registro .group-1737 {
+  align-items: flex-start;
+  display: flex;
+  height: 129px;
+  left: 55px;
+  min-width: 319px;
+  position: absolute;
+  top: 490px;
+}
+
+.registro .single-tab-1 {
+  align-items: flex-end;
+  background-color: var(--blue);
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px #0038ff1a;
+  display: flex;
+  height: 58px;
+  overflow: hidden;
+  padding: 9px 24.4px;
+  width: 319px;
+}
+
+.registro .single-tab-2 {
+  height: 38px;
+  width: 268px;
+}
