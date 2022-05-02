@@ -1,0 +1,95 @@
+/* screen - introparches5 */
+
+.introparches5 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  height: 926px;
+  width: 428px;
+}
+
+.introparches5 .overlap-group {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626fea00ab60d794aa942326/img/mask-group-5@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 926px;
+  padding: 32.4px 0;
+  width: 428px;
+}
+
+.introparches5 .group-1789 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 14px;
+  min-width: 352px;
+}
+
+.introparches5 .rectangle-622 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: var(--white-3);
+  border-radius: 5px;
+  height: 5px;
+  width: 81px;
+}
+
+.introparches5 .rectangle-63 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: var(--blue);
+  border-radius: 5px;
+  height: 5px;
+  margin-left: 10px;
+  width: 81px;
+}
+
+.introparches5 .title {
+  letter-spacing: 0;
+  margin-right: 4.0px;
+  margin-top: 74px;
+  min-height: 37px;
+  text-shadow: 0px 4px 4px #00000040;
+  width: 330px;
+}
+
+.introparches5 .span1 {
+  color: #ffc225;
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xxxxl2);
+  font-weight: 700;
+}
+
+.introparches5 .group-1896 {
+  align-items: flex-end;
+  align-self: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626f44a5bc77bbcf6fd70a4d/img/rectangle-825@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 47px;
+  margin-top: 285px;
+  min-width: 53px;
+  padding: 15.0px 21.7px;
+}
+
+.introparches5 .group-1895 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626f44a5bc77bbcf6fd70a4d/img/vector-130@2x.svg);
+  background-size: 100% 100%;
+  height: 17px;
+  width: 9px;
+}
+
+.introparches5 .el-dinero-de-los-par {
+  letter-spacing: 0;
+  margin-left: 4.0px;
+  margin-top: 217px;
+  min-height: 104px;
+  width: 338px;
+}
+
+.introparches5 .group-1730 {
+  height: 66px;
+  margin-top: 13px;
+  width: 180px;
+}
