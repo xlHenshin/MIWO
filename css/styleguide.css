@@ -31,6 +31,13 @@ rgba(255, 255, 255, 1);
   --font-family-niveau_grotesk-regular: "Niveau Grotesk-Regular";
   --font-family-poppins: "Poppins";
 }
+
+.border-1px-purple-heart {
+  border-width: 1px;
+  border-style: solid;
+  border-color: var(--purple-heart);
+}
+
 .niveaugrotesk-bold-black-15px {
   color: var(--black);
   font-family: var(--font-family-niveau_grotesk-bold);

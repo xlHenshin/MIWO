@@ -1,0 +1,148 @@
+/* screen - registro6 */
+
+.registro6 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.registro6 .group-1689 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 38px;
+  margin-top: 64px;
+  min-width: 87px;
+}
+
+.registro6 .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.registro6 .place {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 55px;
+}
+
+.registro6 .upadlock {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-left: 66px;
+  margin-top: 67px;
+  padding: 0 4px;
+  width: 24px;
+}
+
+.registro6 .vector-1 {
+  height: 20px;
+  width: 16px;
+}
+
+.registro6 .title {
+  letter-spacing: 0;
+  margin-left: 70px;
+  margin-top: 26px;
+  min-height: 28px;
+}
+
+.registro6 .para-poder-acceder-y {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 1.08px;
+  margin-top: 10px;
+  min-height: 51px;
+  transform: rotate(-0.02deg);
+  width: 287px;
+}
+
+.registro6 .clave {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0.54px;
+  margin-top: 64px;
+  min-height: 570px;
+  padding: 0 110.0px;
+  width: 428px;
+}
+
+.registro6 .ingresa-tu-nueva-clave {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-l2);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-right: 1.09px;
+  min-height: 19px;
+  min-width: 154px;
+}
+
+.registro6 .group-1310 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  margin-top: 39px;
+  min-width: 207px;
+}
+
+.registro6 .ellipse-124 {
+  background-color: var(--blue);
+  border-radius: 8.5px;
+  height: 17px;
+  width: 17px;
+}
+
+.registro6 .ellipse-125 {
+  background-color: var(--blue);
+  border-radius: 8.5px;
+  height: 17px;
+  margin-left: 46px;
+  width: 17px;
+}
+
+.registro6 .ellipse-126 {
+  background-color: var(--blue);
+  border-radius: 8.5px;
+  height: 17px;
+  margin-left: 45px;
+  width: 17px;
+}
+
+.registro6 .ellipse-127 {
+  background-color: var(--blue);
+  border-radius: 8.5px;
+  height: 17px;
+  margin-left: 48px;
+  width: 17px;
+}
+
+.registro6 .overlap-group {
+  align-items: flex-start;
+  border: 2px solid var(--rolling-stone);
+
+  border-radius: 9px;
+  display: flex;
+  margin-right: 1.09px;
+  margin-top: 60px;
+  min-width: 154px;
+  padding: 0 11.5px;
+}
+
+.registro6 .continuar {
+  height: 50px;
+  letter-spacing: 0;
+  margin-top: -1.77px;
+  text-align: center;
+  width: 127px;
+}
