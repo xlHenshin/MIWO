@@ -1,0 +1,152 @@
+/* screen - modalfinregistro */
+
+.modalfinregistro {
+  align-items: flex-start;
+  display: flex;
+  height: 512px;
+  width: 390px;
+}
+
+.modalfinregistro .frame-1418 {
+  align-items: center;
+  background-color: var(--blue);
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  min-height: 512px;
+  padding: 34px 21px;
+  width: 390px;
+}
+
+.modalfinregistro .group-1568 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 0.94px;
+  margin-top: 5px;
+  min-width: 161px;
+}
+
+.modalfinregistro .vector {
+  height: 38px;
+  margin-top: 0.05px;
+  width: 46px;
+}
+
+.modalfinregistro .vector-1 {
+  height: 38px;
+  margin-left: 7px;
+  margin-top: 0.01px;
+  width: 8px;
+}
+
+.modalfinregistro .vector-2 {
+  height: 38px;
+  margin-left: 6px;
+  margin-top: -0.04px;
+  width: 52px;
+}
+
+.modalfinregistro .vector-3 {
+  height: 39px;
+  margin-left: 5px;
+  width: 36px;
+}
+
+.modalfinregistro .trminos-y-condiciones {
+  letter-spacing: 0;
+  margin-right: 1.0px;
+  margin-top: 5px;
+  min-height: 19px;
+  min-width: 159px;
+}
+
+.modalfinregistro .como-usuario-de-miwo-acepto-que {
+  color: #7c7c7d;
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: 26px;
+  min-height: 14px;
+  min-width: 190px;
+}
+
+.modalfinregistro .overlap-group1 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: #8953fc12;
+  border-radius: 15px;
+  box-shadow: 0px 4px 10px #f96b3930;
+  display: flex;
+  height: 219px;
+  margin-top: 9px;
+  min-width: 347px;
+  padding: 11px 27px;
+}
+
+.modalfinregistro .frame-1419::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.modalfinregistro .frame-1419 {
+  align-items: flex-end;
+  display: flex;
+  height: 178px;
+  overflow: hidden;
+  overflow-y: scroll;
+  width: 280px;
+}
+
+.modalfinregistro .cuando-abra-mi-cuent {
+  letter-spacing: 0;
+  margin-bottom: -208px;
+  margin-left: 4px;
+  min-height: 386px;
+  text-align: justify;
+  width: 276px;
+}
+
+.modalfinregistro .flex-row {
+  align-items: center;
+  display: flex;
+  margin-left: 11.0px;
+  margin-top: 16px;
+  min-width: 263px;
+}
+
+.modalfinregistro .he-ledo-y-aceptado-los-trminos {
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  min-height: 19px;
+  min-width: 225px;
+}
+
+.modalfinregistro .rectangle-378 {
+  height: 37px;
+  margin-left: 1px;
+  width: 37px;
+}
+
+.modalfinregistro .overlap-group {
+  align-items: flex-start;
+  border: 2px solid var(--rolling-stone);
+
+  border-radius: 9px;
+  display: flex;
+  height: 40px;
+  margin-top: 15px;
+  min-width: 220px;
+  padding: 8px 30px;
+}
+
+.modalfinregistro .continuar {
+  color: var(--rolling-stone);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xl2);
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 21px;
+  text-align: center;
+  width: 157px;
+}

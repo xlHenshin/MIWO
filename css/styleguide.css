@@ -16,6 +16,8 @@ rgba(255, 255, 255, 1);
 --haiti: #170f2d;
 --red: #e50000;
 --purple-heart: #791dd5;
+--shark: 
+rgba(36, 36, 38, 1);
 
   --font-size-s: 14px;
   --font-size-m2: 15px;
@@ -166,4 +168,28 @@ rgba(255, 255, 255, 1);
 
 .border-0-2px-bittersweet {
   border: 0.2px solid var(--bittersweet);
+}
+
+.niveaugrotesk-regular-normal-purple-heart-16px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-l2);
+  font-weight: 400;
+  font-style: normal;
+}
+
+.niveaugrotesk-light-shark-15px {
+  color: var(--shark);
+  font-family: var(--font-family-niveau_grotesk-light);
+  font-size: var(--font-size-m2);
+  font-weight: 300;
+  font-style: normal;
+}
+
+.niveaugrotesk-medium-shark-15px {
+  color: var(--shark);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-m2);
+  font-weight: 500;
+  font-style: normal;
 }
