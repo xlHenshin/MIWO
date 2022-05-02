@@ -159,3 +159,11 @@ rgba(255, 255, 255, 1);
   font-style: normal;
   font-weight: 500;
 }
+
+.border-2px-rolling-stone {
+  border: 2px solid var(--rolling-stone);
+}
+
+.border-0-2px-bittersweet {
+  border: 0.2px solid var(--bittersweet);
+}
