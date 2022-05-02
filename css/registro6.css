@@ -130,7 +130,6 @@
 .registro6 .overlap-group {
   align-items: flex-start;
   border: 2px solid var(--rolling-stone);
-
   border-radius: 9px;
   display: flex;
   margin-right: 1.09px;

@@ -19,6 +19,13 @@
   src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskRegular.otf");
 }
 
+@font-face {
+  font-family: "Niveau Grotesk-Light";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskLight.otf");
+}
+
 .screen a {
   display: contents;
   text-decoration: none;
