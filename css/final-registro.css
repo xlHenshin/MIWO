@@ -1,0 +1,117 @@
+/* screen - final-registro */
+
+.final-registro {
+  align-items: center;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  padding: 64px 35.0px;
+  width: 428px;
+}
+
+.final-registro .group-1689 {
+  align-items: flex-start;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 3.0px;
+  min-width: 87px;
+}
+
+.final-registro .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.final-registro .place {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 55px;
+}
+
+.final-registro .group-1739 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-top: 42px;
+  min-width: 357px;
+}
+
+.final-registro .overlap-group {
+  height: 357px;
+  position: relative;
+  width: 357px;
+}
+
+.final-registro .rectangle-611 {
+  background-color: var(--miwo10);
+  border-radius: 32px;
+  height: 334px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 357px;
+}
+
+.final-registro .group-1737 {
+  align-items: flex-start;
+  display: flex;
+  height: 303px;
+  justify-content: flex-end;
+  left: -22px;
+  min-width: 357px;
+  position: absolute;
+  top: 54px;
+  transform: rotate(-180.00deg);
+}
+
+.final-registro .mask-group {
+  height: 347px;
+  margin-top: -22.0px;
+  transform: rotate(180.00deg);
+  width: 401px;
+}
+
+.final-registro .x2-8 {
+  height: 357px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 298px;
+}
+
+.final-registro .vector-1 {
+  align-self: flex-start;
+  height: 25px;
+  margin-left: 31.0px;
+  margin-top: 42px;
+  width: 25px;
+}
+
+.final-registro .te-has-registrado-exitosamente {
+  letter-spacing: 0;
+  margin-right: 38.0px;
+  margin-top: 16px;
+  min-height: 56px;
+  width: 250px;
+}
+
+.final-registro .te-damos-la-bienveni {
+  letter-spacing: 0;
+  margin-right: 4.11px;
+  margin-top: 16px;
+  min-height: 51px;
+  transform: rotate(-0.02deg);
+  width: 282px;
+}
+
+.final-registro .group-1730 {
+  height: 76px;
+  margin-top: 58px;
+  width: 180px;
+}
