@@ -1,0 +1,200 @@
+/* screen - registro2 */
+
+.registro2 {
+  align-items: center;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  padding: 64px 38px;
+  width: 428px;
+}
+
+.registro2 .group-1689 {
+  align-items: flex-start;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 87px;
+}
+
+.registro2 .vector-1 {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.registro2 .place {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 55px;
+}
+
+.registro2 .ucamera {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  height: 26px;
+  margin-left: 28px;
+  margin-top: 74px;
+  padding: 3.0px 2.0px;
+  width: 26px;
+}
+
+.registro2 .vector-2 {
+  height: 18px;
+  width: 22px;
+}
+
+.registro2 .title {
+  letter-spacing: 0;
+  margin-right: 15.0px;
+  margin-top: 17px;
+  min-height: 28px;
+  min-width: 273px;
+}
+
+.registro2 .para-verificar-que-e {
+  letter-spacing: 0;
+  margin-right: 3.77px;
+  margin-top: 15px;
+  min-height: 34px;
+  transform: rotate(-0.02deg);
+  width: 284px;
+}
+
+.registro2 .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 17px;
+  margin-right: 63.0px;
+  margin-top: 25px;
+  min-width: 221px;
+}
+
+.registro2 .vector-3 {
+  height: 16px;
+  width: 22px;
+}
+
+.registro2 .foto-frontal-del-documento {
+  letter-spacing: 0;
+  margin-left: 22px;
+  min-height: 17px;
+  min-width: 177px;
+}
+
+.registro2 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-right: 41.0px;
+  margin-top: 18px;
+  min-width: 247px;
+}
+
+.registro2 .ucredit-card-search {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  padding: 3.0px 2.0px;
+  width: 26px;
+}
+
+.registro2 .vector-4 {
+  height: 20px;
+  width: 22px;
+}
+
+.registro2 .foto-trasera-del-documento {
+  letter-spacing: 0;
+  margin-bottom: 1.0px;
+  margin-left: 20px;
+  min-height: 17px;
+  width: 201px;
+}
+
+.registro2 .line-109 {
+  align-self: flex-start;
+  height: 1px;
+  margin-left: 31px;
+  margin-top: 24px;
+  width: 151px;
+}
+
+.registro2 .unas-recomendaciones-antes-de-seguir {
+  letter-spacing: 0;
+  margin-right: 33.0px;
+  margin-top: 25px;
+  min-height: 17px;
+  min-width: 255px;
+}
+
+.registro2 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 39.0px;
+  margin-top: 25px;
+  min-width: 243px;
+}
+
+.registro2 .group-1147 {
+  align-items: flex-start;
+  background-color: var(--miwo10);
+  border-radius: 3px;
+  display: flex;
+  min-width: 19px;
+}
+
+.registro2 .uinfo-circle {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  padding: 1.0px 1.0px;
+  width: 19px;
+}
+
+.registro2 .vector {
+  height: 16px;
+  width: 16px;
+}
+
+.registro2 .contar-con-buena-iluminacin {
+  letter-spacing: 0;
+  margin-left: 24px;
+  min-height: 17px;
+  width: 200px;
+}
+
+.registro2 .flex-row-3 {
+  align-items: center;
+  display: flex;
+  height: 34px;
+  margin-right: 1.0px;
+  margin-top: 22px;
+  min-width: 281px;
+}
+
+.registro2 .group-1148 {
+  align-items: flex-start;
+  background-color: var(--miwo10);
+  border-radius: 3px;
+  display: flex;
+  margin-bottom: 1.0px;
+  min-width: 19px;
+}
+
+.registro2 .colocar-el-documento {
+  letter-spacing: 0;
+  margin-left: 24px;
+  min-height: 34px;
+  width: 238px;
+}
+
+.registro2 .group-1730 {
+  height: 76px;
+  margin-top: 133px;
+  width: 180px;
+}
