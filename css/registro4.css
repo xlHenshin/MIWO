@@ -1,0 +1,160 @@
+/* screen - registro4 */
+
+.registro4 {
+  align-items: center;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  padding: 46px 35px;
+  width: 428px;
+}
+
+.registro4 .group-1689 {
+  align-items: flex-start;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 3px;
+  margin-top: 18px;
+  min-width: 87px;
+}
+
+.registro4 .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.registro4 .place {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 55px;
+}
+
+.registro4 .lo-ms-importante-tu-celular {
+  letter-spacing: 0;
+  margin-left: 10.0px;
+  margin-top: 77px;
+  min-height: 28px;
+  min-width: 298px;
+}
+
+.registro4 .tu-nmero-de-celular {
+  letter-spacing: 0;
+  margin-right: 0.95px;
+  margin-top: 20px;
+  min-height: 34px;
+  transform: rotate(-0.02deg);
+  width: 287px;
+}
+
+.registro4 .group-1734 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 31px;
+  min-width: 319px;
+}
+
+.registro4 .single-tab {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px #0038ff1a;
+  display: flex;
+  overflow: hidden;
+  width: 319px;
+}
+
+.registro4 .text {
+  height: 58px;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: center;
+  width: 68px;
+}
+
+.registro4 .input {
+  background-color: transparent;
+  border: 0;
+  height: 58px;
+  letter-spacing: 0;
+  line-height: 18px;
+  padding: 0;
+  width: 235px;
+}
+
+.registro4 .input::placeholder {
+  color: #73798299;
+}
+
+.registro4 .group-1735 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 44px;
+  min-width: 156px;
+}
+
+.registro4 .overlap-group {
+  align-items: flex-start;
+  border: 2px solid var(--rolling-stone);
+
+  border-radius: 9px;
+  display: flex;
+  min-width: 154px;
+  padding: 0 12px;
+}
+
+.registro4 .continuar {
+  height: 50px;
+  letter-spacing: 0;
+  margin-top: -2px;
+  text-align: center;
+  width: 127px;
+}
+
+.registro4 .group-1737 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.registro4 .overlap-group1 {
+  height: 100%;
+  padding-right: 380px;
+  position: relative;
+  width: 100%;
+}
+
+.registro4 .mask-group {
+  height: 347px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 401px;
+}
+
+.registro4 .mask-group-1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ee96280d11097cff23a40/img/1-12@2x.png);
+  background-size: 100% 100%;
+  height: 313px;
+  left: 22px;
+  position: absolute;
+  top: 138px;
+  width: 357px;
+}
+
+.registro4 .x1-13 {
+  height: 451px;
+  left: 65px;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
