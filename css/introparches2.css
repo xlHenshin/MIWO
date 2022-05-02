@@ -63,11 +63,11 @@
   align-items: flex-start;
   display: flex;
   margin-top: 238px;
-  min-width: 428px;
+  max-width: 428px;
 }
 
 .introparches2 .group-1896 {
-  align-items: flex-end;
+  align-items: flex-start;
   background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626f44a5bc77bbcf6fd70a4d/img/rectangle-825@2x.svg);
   background-size: 100% 100%;
   display: flex;
@@ -85,16 +85,14 @@
 .introparches2 .group-1898 {
   align-items: center;
   display: flex;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626f44a5bc77bbcf6fd70a4d/img/rectangle-825@2x.svg);
+  background-size: 100% 100%;
   justify-content: flex-end;
   margin-left: 322px;
-  min-width: 53px;
+  height:47px;
+  padding: 15px 21.7px;
+  max-width: 53px; 
   transform: rotate(180deg);
-}
-
-.introparches2 .rectangle-825 {
-  height: 47px;
-  transform: rotate(-180deg);
-  width: 53px;
 }
 
 .introparches2 .vector-1 {
@@ -102,7 +100,6 @@
   height: 17px;
   margin-left: 761px;
   margin-top: 0;
-  transform: rotate(-180deg);
   width: 9px;
 }
 
