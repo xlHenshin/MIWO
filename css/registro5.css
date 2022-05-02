@@ -1,0 +1,128 @@
+/* screen - registro5 */
+
+.registro5 {
+  align-items: center;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  padding: 60px 38px;
+  width: 428px;
+}
+
+.registro5 .group-1689 {
+  align-items: flex-start;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 87px;
+}
+
+.registro5 .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.registro5 .place {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 55px;
+}
+
+.registro5 .cdigo-de-verificacin {
+  letter-spacing: 0;
+  margin-right: 52px;
+  margin-top: 81px;
+  min-height: 28px;
+  min-width: 236px;
+}
+
+.registro5 .te-hemos-enviado-un {
+  letter-spacing: 0;
+  margin-right: 0.95px;
+  margin-top: 20px;
+  min-height: 34px;
+  transform: rotate(-0.02deg);
+  width: 287px;
+}
+
+.registro5 .group-883 {
+  align-items: flex-start;
+  display: flex;
+  height: 52px;
+  margin-left: 0.56px;
+  margin-top: 36px;
+  min-width: 201px;
+}
+
+.registro5 .rectangle-377-1 {
+  height: 60px;
+  margin-left: -4px;
+  margin-top: -4.46px;
+  width: 43px;
+}
+
+.registro5 .rectangle-377 {
+  height: 60px;
+  margin-left: 12px;
+  margin-top: -4.46px;
+  width: 43px;
+}
+
+.registro5 .group-1735 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2px;
+  margin-top: 45px;
+  min-width: 156px;
+}
+
+.registro5 .overlap-group {
+  align-items: flex-start;
+  border: 2px solid var(--rolling-stone);
+
+  border-radius: 9px;
+  display: flex;
+  min-width: 154px;
+  padding: 0 12px;
+}
+
+.registro5 .continuar {
+  height: 50px;
+  letter-spacing: 0;
+  margin-top: -2px;
+  text-align: center;
+  width: 127px;
+}
+
+.registro5 .group-1735-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 4px;
+  margin-top: 63px;
+  min-height: 71px;
+  width: 242px;
+}
+
+.registro5 .no-has-recibido-ningn-cdigo {
+  letter-spacing: 0;
+  margin-right: 4px;
+  min-height: 19px;
+  text-align: center;
+  width: 238px;
+}
+
+.registro5 .reenviar-cdigo {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-right: 4px;
+  margin-top: 2px;
+  min-height: 50px;
+  text-align: center;
+  width: 124px;
+}
