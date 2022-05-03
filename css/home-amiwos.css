@@ -1,0 +1,838 @@
+/* screen - home-amiwos */
+
+.home-amiwos {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  width: 428px;
+}
+
+.home-amiwos .overlap-group8 {
+  height: 926px;
+  position: relative;
+  width: 428px;
+}
+
+.home-amiwos .scroll {
+  align-items: center;
+  background-color: #ffffff33;
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.home-amiwos .overlap-group6 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6270b8fd884b6e85169759aa/img/group-1660-1@2x.svg);
+  background-size: 100% 100%;
+  margin-bottom: -50px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -38px;
+  min-height: 514px;
+  padding: 2px 16.8px;
+  width: 428px;
+}
+
+.home-amiwos .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 20.72px;
+  margin-top: 87px;
+  min-width: 350px;
+}
+
+.home-amiwos .mask-group {
+  height: 63px;
+  width: 63px;
+}
+
+.home-amiwos .name-1 {
+  letter-spacing: 0;
+  margin-left: 20px;
+  margin-top: 3.0px;
+  min-height: 28px;
+  min-width: 118px;
+}
+
+.home-amiwos .notificaciones-home {
+  align-items: flex-start;
+  display: flex;
+  height: 41px;
+  margin-bottom: 8.02px;
+  margin-left: 110px;
+  min-width: 39px;
+}
+
+.home-amiwos .overlap-group5 {
+  height: 97px;
+  margin-left: -29px;
+  margin-top: -18.51px;
+  position: relative;
+  width: 96px;
+}
+
+.home-amiwos .overlap-group1 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 96px;
+}
+
+.home-amiwos .overlap-group {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6270b862884b6e85169759a3/img/ellipse-164@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 97px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 96px;
+  padding: 31.6px 39.1px;
+  position: absolute;
+  top: 0;
+}
+
+.home-amiwos .ufilter {
+  height: 16px;
+  width: 16px;
+}
+
+.home-amiwos .vector {
+  height: 17px;
+  left: 39px;
+  position: absolute;
+  top: 30px;
+  width: 17px;
+}
+
+.home-amiwos .ellipse-203 {
+  background-color: var(--miwo10);
+  border-radius: 6px;
+  height: 12px;
+  left: 55px;
+  position: absolute;
+  top: 19px;
+  width: 12px;
+}
+
+.home-amiwos .banner-tarjeta {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  margin-top: 34px;
+  min-width: 371px;
+}
+
+.home-amiwos .overlap-group-1 {
+  height: 191px;
+  margin-bottom: -22.57px;
+  position: relative;
+  width: 385px;
+}
+
+.home-amiwos .rectangle-590 {
+  background-color: var(--miwo10);
+  border-radius: 20px;
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.home-amiwos .mask-group-1 {
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.home-amiwos .group-1812 {
+  height: 190px;
+  left: 146px;
+  position: absolute;
+  top: 0;
+  width: 238px;
+}
+
+.home-amiwos .saldo-disponible {
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 88px;
+  width: 135px;
+}
+
+.home-amiwos .price {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+}
+
+.home-amiwos .hola-de-nuevo {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 37px;
+  width: 127px;
+}
+
+.home-amiwos .tarjeta-miwo {
+  left: 190px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 80px;
+  width: 180px;
+}
+
+.home-amiwos .trailing-icon {
+  height: 14px;
+  left: 342px;
+  position: absolute;
+  top: 78px;
+  width: 8px;
+}
+
+.home-amiwos .navegador-local {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 21px;
+  justify-content: flex-end;
+  margin-left: 22.0px;
+  margin-top: 60px;
+  min-width: 304px;
+}
+
+.home-amiwos .mi-dinero {
+  height: 51px;
+  letter-spacing: 0;
+  margin-top: -13px;
+  width: 59px;
+}
+
+.home-amiwos .subscripciones {
+  height: 51px;
+  letter-spacing: 0;
+  margin-left: 28px;
+  margin-top: -13px;
+  text-align: center;
+  width: 90px;
+}
+
+.home-amiwos .amiwos {
+  height: 67px;
+  letter-spacing: 0;
+  margin-left: 28px;
+  margin-top: -23px;
+  text-align: center;
+  width: 122px;
+}
+
+.home-amiwos .frame-1900::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.home-amiwos .frame-1900 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 443px;
+  margin-right: 1.0px;
+  margin-top: 42px;
+  overflow: hidden;
+  overflow-y: scroll;
+  width: 355px;
+}
+
+.home-amiwos .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 28px;
+  min-width: 355px;
+}
+.scrolling {
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.home-amiwos .tus-amiwos {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 120px;
+}
+
+.home-amiwos .ver-todos {
+  letter-spacing: 0;
+  margin-left: 171px;
+  margin-top: 5.0px;
+  min-height: 17px;
+  min-width: 65px;
+}
+
+.home-amiwos .flex-row-2 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6270b862884b6e85169759a3/img/rectangle-9@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 121px;
+  margin-top: 8px;
+  min-width: 355px;
+  padding: 0 25px;
+}
+
+.home-amiwos .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 75px;
+  width: 61px;
+}
+
+.home-amiwos .image-171 {
+  height: 48px;
+  margin-left: 1.0px;
+  object-fit: cover;
+  width: 48px;
+}
+
+.home-amiwos .name {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 13.5px;
+  margin-top: 6px;
+  text-align: center;
+  width: 61px;
+}
+
+.home-amiwos .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 75px;
+  width: 62px;
+}
+
+.home-amiwos .image-173 {
+  height: 48px;
+  object-fit: cover;
+  width: 48px;
+}
+
+.home-amiwos .name-2 {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 13.5px;
+  margin-top: 6px;
+  text-align: center;
+  width: 62px;
+}
+
+.home-amiwos .image-172 {
+  height: 48px;
+  margin-left: 1.0px;
+  width: 47px;
+}
+
+.home-amiwos .anglica-buitrago {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 13.5px;
+  margin-top: 6px;
+  text-align: center;
+  width: 62px;
+}
+
+.home-amiwos .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  min-height: 75px;
+  width: 61px;
+}
+
+.home-amiwos .image-176 {
+  height: 48px;
+  margin-right: 1.0px;
+  width: 48px;
+}
+
+.home-amiwos .flex-row-3 {
+  align-items: center;
+  display: flex;
+  height: 28px;
+  margin-top: 27px;
+  min-width: 355px;
+}
+
+.home-amiwos .de-parches-recientes {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 215px;
+}
+
+.home-amiwos .ver-todos-1 {
+  letter-spacing: 0;
+  margin-left: 75px;
+  margin-top: 5.0px;
+  min-height: 17px;
+  min-width: 65px;
+}
+
+.home-amiwos .overlap-group1-1 {
+  height: 87px;
+  margin-left: 1.0px;
+  margin-top: 23px;
+  position: relative;
+  width: 355px;
+}
+
+.home-amiwos .overlap-group-2 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6270b862884b6e85169759a3/img/rectangle-378@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 87px;
+  padding: 15.5px 90.5px;
+  position: absolute;
+  top: 0;
+  width: 355px;
+}
+
+.home-amiwos .parche-quedada {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3px;
+  min-height: 15px;
+  white-space: nowrap;
+}
+
+.home-amiwos .name-3 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3px;
+  min-height: 15px;
+  white-space: nowrap;
+}
+
+.home-amiwos .fistar {
+  height: 16px;
+  left: 90px;
+  position: absolute;
+  top: 51px;
+  width: 16px;
+}
+
+.home-amiwos .fistar-1 {
+  height: 16px;
+  left: 114px;
+  position: absolute;
+  top: 51px;
+  width: 16px;
+}
+
+.home-amiwos .fistar-2 {
+  height: 16px;
+  left: 136px;
+  position: absolute;
+  top: 51px;
+  width: 16px;
+}
+
+.home-amiwos .fistar-3 {
+  height: 16px;
+  left: 160px;
+  position: absolute;
+  top: 51px;
+  width: 16px;
+}
+
+.home-amiwos .fistar-4 {
+  height: 16px;
+  left: 182px;
+  position: absolute;
+  top: 51px;
+  width: 16px;
+}
+
+.home-amiwos .image-173-1 {
+  height: 48px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 48px;
+}
+
+.home-amiwos .vector-1 {
+  height: 18px;
+  left: 313px;
+  position: absolute;
+  top: 33px;
+  width: 18px;
+}
+
+.home-amiwos .overlap-group2 {
+  height: 87px;
+  margin-left: 1.0px;
+  margin-top: 9px;
+  position: relative;
+  width: 355px;
+}
+
+.home-amiwos .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6270b862884b6e85169759a3/img/rectangle-378-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 87px;
+  padding: 15.5px 90.5px;
+  position: absolute;
+  top: 0;
+  width: 355px;
+}
+
+.home-amiwos .parche-fiestica {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3px;
+  min-height: 15px;
+  white-space: nowrap;
+}
+
+.home-amiwos .name-4 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3px;
+  min-height: 15px;
+  white-space: nowrap;
+}
+
+.home-amiwos .vector-2 {
+  height: 18px;
+  left: 313px;
+  position: absolute;
+  top: 36px;
+  width: 18px;
+}
+
+.home-amiwos .group-1206 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6270b862884b6e85169759a3/img/mask-group-2@2x.svg);
+  background-size: 100% 100%;
+  height: 50px;
+  left: 26px;
+  position: absolute;
+  top: 18px;
+  width: 48px;
+}
+
+.home-amiwos .overlap-group3 {
+  height: 79px;
+  margin-left: 5.0px;
+  margin-top: 14px;
+  position: relative;
+  width: 356px;
+}
+
+.home-amiwos .group-795 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 79px;
+  padding: 11px 0;
+  position: absolute;
+  top: 0;
+  width: 356px;
+}
+
+.home-amiwos .parche-fiestica-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3px;
+  margin-right: 51.64px;
+  min-height: 15px;
+  white-space: nowrap;
+  width: 126px;
+}
+
+.home-amiwos .overlap-group-4 {
+  height: 21px;
+  margin-right: 4.0px;
+  position: relative;
+  width: 355px;
+}
+
+.home-amiwos .rectangle-378 {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 355px;
+}
+
+.home-amiwos .marcela-duque {
+  left: 90px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 126px;
+}
+
+.home-amiwos .fistar-5 {
+  height: 1px;
+  left: 97px;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.home-amiwos .fistar-6 {
+  height: 1px;
+  left: 120px;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.home-amiwos .fistar-7 {
+  height: 1px;
+  left: 143px;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.home-amiwos .fistar-8 {
+  height: 1px;
+  left: 166px;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.home-amiwos .fistar-9 {
+  height: 1px;
+  left: 189px;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.home-amiwos .vector-3 {
+  height: 1px;
+  left: 321px;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.home-amiwos .mask-group-2 {
+  height: 1px;
+  left: 49px;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.home-amiwos .rectangle-828 {
+  background-color: var(--blue);
+  height: 89px;
+  margin-right: 83.0px;
+  width: 104px;
+}
+
+.home-amiwos .navegador-principal {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  height: 77px;
+  left: 19px;
+  overflow: hidden;
+  padding: 0 18px;
+  position: absolute;
+  top: 830px;
+  width: 390px;
+}
+
+.home-amiwos .overlap-group7 {
+  height: 77px;
+  margin-left: 1px;
+  position: relative;
+  width: 353px;
+}
+
+.home-amiwos .group-1624 {
+  align-items: center;
+  display: flex;
+  height: 77px;
+  left: 16px;
+  min-width: 337px;
+  position: absolute;
+  top: 0;
+}
+
+.home-amiwos .group-1623 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 5.0px;
+  min-height: 40px;
+  width: 26px;
+}
+
+.home-amiwos .iconly-light-outline-home {
+  height: 23px;
+  margin-left: 1px;
+  margin-top: -1px;
+  width: 22px;
+}
+
+.home-amiwos .inicio {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 24px;
+  text-align: center;
+}
+
+.home-amiwos .frame-1622 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 24px;
+  padding: 16px 0;
+  width: 70px;
+}
+
+.home-amiwos .iconly-light-outline-wallet {
+  height: 23px;
+  margin-left: 1.2px;
+  margin-top: 3px;
+  width: 25px;
+}
+
+.home-amiwos .movimientos {
+  letter-spacing: 0;
+  margin-top: 7px;
+  min-height: 12px;
+  min-width: 56px;
+  text-align: center;
+}
+
+.home-amiwos .frame-1621 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 13px;
+  padding: 16px 13px;
+  width: 61px;
+}
+
+.home-amiwos .iconly-light-outline3-user {
+  align-self: center;
+  height: 22px;
+  margin-left: 1.0px;
+  margin-top: 5px;
+  width: 30px;
+}
+
+.home-amiwos .parches {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 33px;
+  text-align: center;
+}
+
+.home-amiwos .frame-1620 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 18px;
+  padding: 16px 0;
+  width: 59px;
+}
+
+.home-amiwos .iconly-light-outline-play {
+  height: 22px;
+  margin-right: 2.6px;
+  margin-top: 4px;
+  width: 22px;
+}
+
+.home-amiwos .aprende {
+  letter-spacing: 0;
+  margin-top: 7px;
+  min-height: 12px;
+  min-width: 39px;
+  text-align: center;
+}
+
+.home-amiwos .frame-1619 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 15px;
+  padding: 16px 0;
+  width: 51px;
+}
+
+.home-amiwos .combined-shape {
+  height: 22px;
+  margin-right: 1.03px;
+  margin-top: 5px;
+  width: 18px;
+}
+
+.home-amiwos .perfil {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
+
+.home-amiwos .rectangle-589 {
+  background-color: var(--miwo10);
+  border-radius: 13px;
+  box-shadow: 0px 0px 12px #ff855f;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 56px;
+}
+
+.home-amiwos .group-1623-1 {
+  height: 23px;
+  left: 17px;
+  position: absolute;
+  top: 27px;
+  width: 22px;
+}

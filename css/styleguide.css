@@ -59,6 +59,29 @@
   --font-family-poppins: "Poppins";
 }
 
+.niveaugrotesk-medium-shark-14px {
+  color: var(--shark);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  font-style: normal;
+}
+
+.niveaugrotesk-regular-normal-shady-lady-12px {
+  color: var(--shady-lady);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-normal-shark-10px {
+  color: var(--shark-2);
+  font-family: var(--font-family-poppins);
+  font-size: 10px;
+  font-weight: 400;
+  font-style: normal;
+}
 .niveaugrotesk-bold-white-32px {
   color: var(--blue);
   font-family: var(--font-family-niveau_grotesk-bold);
