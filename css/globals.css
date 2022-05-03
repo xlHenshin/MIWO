@@ -3,7 +3,7 @@
 @font-face {
   font-family: "Niveau Grotesk-Black";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 900;
   src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskBlack.otf");
 }
 @font-face {
@@ -28,7 +28,7 @@
 @font-face {
   font-family: "Niveau Grotesk-Light";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 300;
   src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskLight.otf");
 }
 
