@@ -11,24 +11,25 @@
   font-family: "Niveau Grotesk-Bold";
   font-style: normal;
   font-weight: 700;
-  src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskBold.otf");
+  src: url("../fonts/HVD FONTS - NiveauGroteskBold.otf");
 }
 @font-face {
   font-family: "Niveau Grotesk-Medium";
   font-style: normal;
   font-weight: 500;
-  src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskMedium.otf");
+  src: url("../fonts/HVD FONTS - NiveauGroteskMedium.otf");
 }
 @font-face {
   font-family: "Niveau Grotesk-Regular";
   font-style: normal;
   font-weight: 400;
-  src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskRegular.otf");
+  src: url("../fonts/HVD FONTS - NiveauGroteskRegular.otf");
 }
 
 @font-face {
   font-family: "Niveau Grotesk-Light";
   font-style: normal;
+
   font-weight: 300;
   src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskLight.otf");
 }
