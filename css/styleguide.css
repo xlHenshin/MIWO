@@ -67,6 +67,46 @@
   font-style: normal;
 }
 
+.niveaugrotesk-regular-normal-purple-heart-15px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-weight: 400;
+  font-style: normal;
+}
+
+.niveaugrotesk-medium-haiti-20px {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl2);
+  font-weight: 500;
+  font-style: normal;
+}
+
+.niveaugrotesk-regular-normal-white-13px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: 13px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-bold-purple-heart-12px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+
+.niveaugrotesk-regular-normal-smashed-pumpkin-11-4px {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: 11.421052932739258px;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .niveaugrotesk-regular-normal-shady-lady-12px {
   color: var(--shady-lady);
   font-family: var(--font-family-niveau_grotesk-regular);
