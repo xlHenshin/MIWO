@@ -1,0 +1,608 @@
+/* screen - home-subscripciones */
+
+.home-subscripciones {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  height: 926px;
+  padding: 19px 0;
+  width: 428px;
+}
+
+.home-subscripciones .overlap-group10 {
+  height: 861px;
+  margin-top: 27px;
+  position: relative;
+  width: 428px;
+}
+
+.home-subscripciones .scroll {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 834px;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.home-subscripciones .overlap-group8 {
+  height: 436px;
+  margin-right: 6.0px;
+  margin-top: -85px;
+  position: relative;
+  width: 428px;
+}
+
+.home-subscripciones .group-1655 {
+  height: 504px;
+  left: 0px;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.home-subscripciones .name {
+  left: 126px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 109px;
+}
+
+.home-subscripciones .mask-group-1 {
+  height: 63px;
+  left: 43px;
+  position: absolute;
+  top: 90px;
+  width: 63px;
+}
+
+.home-subscripciones .navegador-local {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  justify-content: flex-end;
+  left: 61px;
+  min-width: 304px;
+  position: absolute;
+  top: 415px;
+}
+
+.home-subscripciones .mi-dinero {
+  height: 42px;
+  letter-spacing: 0;
+  margin-top: -9px;
+  width: 59px;
+}
+
+.home-subscripciones .subscripciones {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: 18px;
+  font-weight: 700;
+  height: 55px;
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: -17px;
+  text-align: center;
+  width: 149px;
+}
+
+.home-subscripciones .amiwos {
+  height: 42px;
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: -9px;
+  width: 72px;
+}
+
+.home-subscripciones .banner-tarjeta {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: 43px;
+  min-width: 371px;
+  position: absolute;
+  top: 187px;
+}
+
+.home-subscripciones .overlap-group5 {
+  height: 174px;
+  margin-bottom: -5.81px;
+  position: relative;
+  width: 394px;
+}
+
+.home-subscripciones .rectangle-590 {
+  background-color: var(--miwo10);
+  border-radius: 20px;
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.home-subscripciones .mask-group-2 {
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.home-subscripciones .group-container {
+  height: 169px;
+  left: 166px;
+  position: absolute;
+  top: 5px;
+  width: 228px;
+}
+
+.home-subscripciones .group-1811 {
+  align-items: flex-start;
+  display: flex;
+  height: 109px;
+  left: 19px;
+  min-width: 179px;
+  position: absolute;
+  top: 24px;
+  transform: rotate(-8.06deg);
+}
+
+.home-subscripciones .group-1301 {
+  height: 190px;
+  margin-left: -30px;
+  margin-top: -37.07px;
+  transform: rotate(8.06deg);
+  width: 238px;
+}
+
+.home-subscripciones .group-1301-1 {
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 228px;
+}
+
+.home-subscripciones .saldo-disponible {
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 88px;
+  width: 135px;
+}
+
+.home-subscripciones .price-1 {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+}
+
+.home-subscripciones .hola-de-nuevo {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 37px;
+  width: 127px;
+}
+
+.home-subscripciones .tarjeta-miwo {
+  color: var(--blue);
+    font-family: var(--font-family-niveau_grotesk-medium);
+    font-size: var(--font-size-s);
+    font-weight: 500;
+    left: 190px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 80px;
+    width: 180px;
+}
+
+.home-subscripciones .trailing-icon {
+  align-items: flex-start;
+  display: flex;
+  height: 6px;
+  left: 340px;
+  min-width: 12px;
+  padding: 0 1.6px;
+  position: absolute;
+  top: 83px;
+  transform: rotate(-90.00deg);
+}
+
+.home-subscripciones .vector {
+  height: 14px;
+  margin-top: -5.0px;
+  transform: rotate(90.00deg);
+  width: 8px;
+}
+
+.home-subscripciones .notificaciones-home {
+  align-items: flex-start;
+  display: flex;
+  height: 41px;
+  left: 354px;
+  min-width: 39px;
+  position: absolute;
+  top: 97px;
+}
+
+.home-subscripciones .overlap-group6 {
+  height: 97px;
+  margin-left: -29px;
+  margin-top: -25.01px;
+  position: relative;
+  width: 96px;
+}
+
+.home-subscripciones .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ffa9ed38d8a1dea406b65/img/ellipse-164-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 96px;
+  padding: 37.0px 39.1px;
+  position: absolute;
+  top: 0;
+}
+
+.home-subscripciones .icon-notifications {
+  height: 17px;
+  width: 17px;
+}
+
+.home-subscripciones .ellipse-203 {
+  background-color: var(--miwo10);
+  border-radius: 6px;
+  height: 12px;
+  left: 55px;
+  position: absolute;
+  top: 25px;
+  width: 12px;
+}
+
+.home-subscripciones .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 28px;
+  margin-left: 2.0px;
+  margin-top: 52px;
+  min-width: 354px;
+}
+
+.home-subscripciones .mis-subscripciones {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 197px;
+}
+
+.home-subscripciones .ver-todas {
+  letter-spacing: 0;
+  margin-left: 94px;
+  min-height: 17px;
+  min-width: 63px;
+}
+
+.home-subscripciones .overlap-group-container {
+  height: 282px;
+  margin-top: 10px;
+  position: relative;
+  width: 382px;
+}
+
+.home-subscripciones .group-container-1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ffa9ed38d8a1dea406b65/img/group-1661@2x.svg);
+  background-size: 100% 100%;
+  height: 148px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 194px;
+}
+
+.home-subscripciones .mask-group {
+  height: 36px;
+  left: 132px;
+  position: absolute;
+  top: 24px;
+  width: 36px;
+}
+
+.home-subscripciones .group-1680 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 40px;
+  min-height: 82px;
+  position: absolute;
+  top: 32px;
+  width: 107px;
+}
+
+.home-subscripciones .date {
+  letter-spacing: 0;
+  min-height: 14px;
+}
+
+.home-subscripciones .disney {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.home-subscripciones .price {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 17px;
+}
+
+.home-subscripciones .overlap-group {
+  align-items: flex-end;
+  background-color: var(--purple-heart);
+  border-radius: 20px;
+  display: flex;
+  height: 21px;
+  justify-content: flex-end;
+  margin-top: 8px;
+  min-width: 101px;
+  padding: 3px 13px;
+}
+
+.home-subscripciones .pago-en {
+  letter-spacing: 0;
+  min-height: 14px;
+  min-width: 74px;
+}
+
+.home-subscripciones .group-container-2 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ffa9ed38d8a1dea406b65/img/group-1661-1@2x.svg);
+  background-size: 100% 100%;
+  height: 148px;
+  left: 0;
+  position: absolute;
+  top: 134px;
+  width: 194px;
+}
+
+.home-subscripciones .netflix {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.home-subscripciones .group-container-3 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ffa9ed38d8a1dea406b65/img/group-1661-2@2x.svg);
+  background-size: 100% 100%;
+  height: 148px;
+  left: 188px;
+  position: absolute;
+  top: 0;
+  width: 194px;
+}
+
+.home-subscripciones .spotify {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.home-subscripciones .group-container-4 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ffa9ed38d8a1dea406b65/img/group-1661-3@2x.svg);
+  background-size: 100% 100%;
+  height: 148px;
+  left: 188px;
+  position: absolute;
+  top: 134px;
+  width: 194px;
+}
+
+.home-subscripciones .group-1715 {
+  align-items: flex-end;
+  background-color: #ff8b91;
+  border-radius: 17.92px;
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  left: 132px;
+  min-width: 36px;
+  padding: 7.8px 9.8px;
+  position: absolute;
+  top: 24px;
+}
+
+.home-subscripciones .vector-1 {
+  height: 20px;
+  width: 15px;
+}
+
+.home-subscripciones .ellipse {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.home-subscripciones .navegador-principal {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  height: 77px;
+  left: 19px;
+  overflow: hidden;
+  padding: 0 18px;
+  position: absolute;
+  top: 784px;
+  width: 390px;
+}
+
+.home-subscripciones .overlap-group9 {
+  height: 77px;
+  margin-left: 1px;
+  position: relative;
+  width: 353px;
+}
+
+.home-subscripciones .group-1624 {
+  align-items: center;
+  display: flex;
+  height: 77px;
+  left: 16px;
+  min-width: 337px;
+  position: absolute;
+  top: 0;
+}
+
+.home-subscripciones .group-1623 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 5.0px;
+  min-height: 40px;
+  width: 26px;
+}
+
+.home-subscripciones .fill-1 {
+  height: 23px;
+  margin-left: 1px;
+  margin-top: -1px;
+  width: 22px;
+}
+
+.home-subscripciones .inicio {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 24px;
+  text-align: center;
+}
+
+.home-subscripciones .frame-1622 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 24px;
+  padding: 16px 0;
+  width: 70px;
+}
+
+.home-subscripciones .iconly-light-outline-wallet {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/combined-shape-2@2x.svg);
+  background-size: 100% 100%;
+  height: 23px;
+  margin-left: 1.2px;
+  margin-top: 3px;
+  width: 25px;
+}
+
+.home-subscripciones .movimientos {
+  letter-spacing: 0;
+  margin-top: 7px;
+  min-height: 12px;
+  min-width: 56px;
+  text-align: center;
+}
+
+.home-subscripciones .frame-1621 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 13px;
+  padding: 16px 13px;
+  width: 61px;
+}
+
+.home-subscripciones .iconly-light-outline3-user {
+  align-self: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/combined-shape-1@2x.svg);
+  background-size: 100% 100%;
+  height: 22px;
+  margin-left: 1.0px;
+  margin-top: 5px;
+  width: 30px;
+}
+
+.home-subscripciones .parches {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 33px;
+  text-align: center;
+}
+
+.home-subscripciones .frame-1620 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 18px;
+  padding: 16px 0;
+  width: 59px;
+}
+
+.home-subscripciones .iconly-light-outline-play {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/combined-shape@2x.svg);
+  background-size: 100% 100%;
+  height: 22px;
+  margin-right: 2.6px;
+  margin-top: 4px;
+  width: 22px;
+}
+
+.home-subscripciones .aprende {
+  letter-spacing: 0;
+  margin-top: 7px;
+  min-height: 12px;
+  min-width: 39px;
+  text-align: center;
+}
+
+.home-subscripciones .frame-1619 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 15px;
+  padding: 16px 0;
+  width: 51px;
+}
+
+.home-subscripciones .combined-shape {
+  height: 22px;
+  margin-right: 1.03px;
+  margin-top: 5px;
+  width: 18px;
+}
+
+.home-subscripciones .perfil {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
+
+.home-subscripciones .rectangle-589 {
+  background-color: var(--miwo10);
+  border-radius: 13px;
+  box-shadow: 0px 0px 12px #ff855f;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 56px;
+}
+
+.home-subscripciones .fill-1-1 {
+  height: 23px;
+  left: 17px;
+  position: absolute;
+  top: 27px;
+  width: 22px;
+}

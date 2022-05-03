@@ -1,5 +1,12 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 
+@import url("https://fonts.googleapis.com/css?family=Poppins:400");
+@font-face {
+  font-family: "Niveau Grotesk-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskBlack.otf");
+}
 @font-face {
   font-family: "Niveau Grotesk-Bold";
   font-style: normal;
@@ -22,8 +29,9 @@
 @font-face {
   font-family: "Niveau Grotesk-Light";
   font-style: normal;
-  font-weight: 400;
-  src: url("../fonts/HVD FONTS - NiveauGroteskLight.otf");
+
+  font-weight: 300;
+  src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskLight.otf");
 }
 
 .screen a {

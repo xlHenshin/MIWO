@@ -1,0 +1,993 @@
+/* screen - home-mi-dinero */
+
+.home-mi-dinero {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  height: 926px;
+  padding: 19px 0;
+  width: 428px;
+}
+
+.home-mi-dinero .overlap-group12 {
+  height: 861px;
+  margin-top: 27px;
+  position: relative;
+  width: 428px;
+}
+
+.home-mi-dinero .scroll {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 834px;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.home-mi-dinero .overlap-group9 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/group-1655@2x.svg);
+  background-size: 100% 120%;
+  display: flex;
+  flex-direction: column;
+  margin-top: -84px;
+  min-height: 437px;
+  padding: 2px 16.8px;
+  width: 428px;
+}
+
+.home-mi-dinero .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 20.72px;
+  margin-top: 87px;
+  min-width: 350px;
+}
+
+.home-mi-dinero .mask-group-2 {
+  height: 63px;
+  width: 63px;
+}
+
+.home-mi-dinero .name {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xxl2);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-left: 20px;
+  margin-top: 3.0px;
+  min-height: 28px;
+  min-width: 118px;
+}
+
+.home-mi-dinero .notificaciones-home {
+  align-items: flex-start;
+  display: flex;
+  height: 41px;
+  margin-bottom: 8.02px;
+  margin-left: 110px;
+  min-width: 39px;
+}
+
+.home-mi-dinero .overlap-group8 {
+  height: 97px;
+  margin-left: -29px;
+  margin-top: -25.01px;
+  position: relative;
+  width: 96px;
+}
+
+.home-mi-dinero .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/ellipse-164@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 96px;
+  padding: 37.0px 39.1px;
+  position: absolute;
+  top: 0;
+}
+
+.home-mi-dinero .vector {
+  height: 17px;
+  width: 17px;
+}
+
+.home-mi-dinero .ellipse-203 {
+  background-color: var(--miwo10);
+  border-radius: 6px;
+  height: 12px;
+  left: 55px;
+  position: absolute;
+  top: 25px;
+  width: 12px;
+}
+
+.home-mi-dinero .banner-tarjeta {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  margin-top: 34px;
+  min-width: 371px;
+}
+
+.home-mi-dinero .overlap-group7 {
+  height: 174px;
+  margin-bottom: -5.81px;
+  position: relative;
+  width: 394px;
+}
+
+.home-mi-dinero .rectangle-590 {
+  background-color: var(--miwo10);
+  border-radius: 20px;
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.home-mi-dinero .mask-group-3 {
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.home-mi-dinero .group-container {
+  height: 169px;
+  left: 166px;
+  position: absolute;
+  top: 5px;
+  width: 228px;
+}
+
+.home-mi-dinero .group-1811 {
+  align-items: flex-start;
+  display: flex;
+  height: 109px;
+  left: 19px;
+  min-width: 179px;
+  position: absolute;
+  top: 24px;
+  transform: rotate(-8.06deg);
+}
+
+.home-mi-dinero .group-1301 {
+  height: 190px;
+  margin-left: -30px;
+  margin-top: -37.07px;
+  transform: rotate(8.06deg);
+  width: 238px;
+}
+
+.home-mi-dinero .group-1301-1 {
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 228px;
+}
+
+.home-mi-dinero .saldo-disponible {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-s2);
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 88px;
+  width: 135px;
+}
+
+.home-mi-dinero .price-1 {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+}
+
+.home-mi-dinero .hola-de-nuevo {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 37px;
+  width: 127px;
+}
+
+.home-mi-dinero .tarjeta-miwo {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  left: 190px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 80px;
+  width: 180px;
+}
+
+.home-mi-dinero .trailing-icon {
+  align-items: flex-start;
+  display: flex;
+  height: 6px;
+  left: 340px;
+  min-width: 12px;
+  padding: 0 1.6px;
+  position: absolute;
+  top: 83px;
+  transform: rotate(-90.00deg);
+}
+
+.home-mi-dinero .vector-1 {
+  height: 14px;
+  margin-top: -5.0px;
+  transform: rotate(90.00deg);
+  width: 8px;
+}
+
+.home-mi-dinero .navegador-local {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  height: 21px;
+  margin-left: 22.21px;
+  margin-top: 60px;
+  min-width: 304px;
+}
+
+.home-mi-dinero .mi-dinero {
+  color: #8524e5;
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: 18px;
+  font-weight: 700;
+  height: 53px;
+  letter-spacing: 0;
+  margin-top: -16px;
+  text-align: center;
+  width: 122px;
+}
+
+.home-mi-dinero .subscripciones {
+  height: 41px;
+  letter-spacing: 0;
+  margin-left: 22px;
+  margin-top: -9px;
+  text-align: center;
+  width: 90px;
+}
+
+.home-mi-dinero .amiwos {
+  height: 41px;
+  letter-spacing: 0;
+  margin-left: 21px;
+  margin-top: -9px;
+  width: 73px;
+}
+
+.home-mi-dinero .overlap-group10 {
+  height: 82px;
+  margin-left: 9.0px;
+  margin-top: 40px;
+  position: relative;
+  width: 331px;
+}
+
+.home-mi-dinero .group-1674 {
+  align-items: flex-start;
+  display: flex;
+  height: 82px;
+  left: 0;
+  min-width: 331px;
+  position: absolute;
+  top: 0;
+}
+
+.home-mi-dinero .group-1670 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 82px;
+  width: 61px;
+}
+
+.home-mi-dinero .overlap-group-2 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/group-1663@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 71px;
+  justify-content: flex-end;
+  margin-left: -4px;
+  margin-top: -4px;
+  min-width: 67px;
+  padding: 23px 19.2px;
+}
+
+.home-mi-dinero .vector-377 {
+  height: 20px;
+  width: 28px;
+}
+
+.home-mi-dinero .transferir {
+  height: 15px;
+  letter-spacing: 0;
+  margin-left: 3px;
+  text-align: center;
+  width: 53px;
+}
+
+.home-mi-dinero .group-container-1 {
+  height: 82px;
+  margin-left: 27px;
+  position: relative;
+  width: 149px;
+}
+
+.home-mi-dinero .group-1671 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 82px;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
+
+.home-mi-dinero .group-1663 {
+  height: 71px;
+  margin-left: -4px;
+  margin-top: -4px;
+  width: 67px;
+}
+
+.home-mi-dinero .recarga {
+  height: 15px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 59px;
+}
+
+.home-mi-dinero .group-1672 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 82px;
+  position: absolute;
+  top: 0;
+  width: 135px;
+}
+
+.home-mi-dinero .group-1669 {
+  align-items: flex-start;
+  display: flex;
+  height: 59px;
+  margin-right: 2px;
+  min-width: 133px;
+}
+
+.home-mi-dinero .mask-group-4 {
+  align-self: center;
+  height: 31px;
+  width: 31px;
+}
+
+.home-mi-dinero .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/group-1663-2@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 71px;
+  margin-left: 39px;
+  margin-top: -4px;
+  min-width: 67px;
+  padding: 18px;
+}
+
+.home-mi-dinero .mask-group-5 {
+  height: 31px;
+  width: 31px;
+}
+
+.home-mi-dinero .retirar {
+  height: 15px;
+  letter-spacing: 0;
+  margin-right: 13px;
+  margin-top: 8px;
+  text-align: center;
+  width: 37px;
+}
+
+.home-mi-dinero .group-1673 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 18px;
+  min-height: 82px;
+  width: 78px;
+}
+
+.home-mi-dinero .group-1663-1 {
+  height: 71px;
+  margin-right: 1.0px;
+  margin-top: -4px;
+  width: 67px;
+}
+
+.home-mi-dinero .pagar-con-qr {
+  height: 15px;
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  text-align: center;
+  width: 76px;
+}
+
+.home-mi-dinero .vector-container {
+  height: 8px;
+  left: 113px;
+  position: absolute;
+  top: 16px;
+  width: 8px;
+}
+
+.home-mi-dinero .vector-378 {
+  height: 8px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.home-mi-dinero .vector-379 {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 8px;
+}
+
+.home-mi-dinero .uqrcode-scan {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 282px;
+  overflow: hidden;
+  position: absolute;
+  top: 19px;
+  width: 23px;
+}
+
+.home-mi-dinero .vector-2 {
+  height: 20px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.home-mi-dinero .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 28px;
+  margin-left: 3.0px;
+  margin-top: 39px;
+  min-width: 351px;
+}
+
+.home-mi-dinero .mis-prstamos {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 150px;
+}
+
+.home-mi-dinero .ver-ms {
+  letter-spacing: 0;
+  margin-left: 149px;
+  margin-top: 5.0px;
+  min-height: 17px;
+  min-width: 52px;
+}
+
+.home-mi-dinero .carrusel_home_mis-prestamos::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.home-mi-dinero .carrusel_home_mis-prestamos {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-right: -13px;
+  margin-top: 10px;
+  overflow: hidden;
+  overflow-x: scroll;
+  width: 403px;
+}
+
+.home-mi-dinero .overlap-group3 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/group-1692@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 180px;
+  padding: 7px 0;
+  width: 353px;
+}
+
+.home-mi-dinero .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/rectangle-620@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 63px;
+  min-width: 331px;
+  padding: 2px 41px;
+}
+
+.home-mi-dinero .group-1681 {
+  align-items: flex-start;
+  display: flex;
+  height: 43px;
+  min-width: 128px;
+}
+
+.home-mi-dinero .group-1680 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 33px;
+  width: 77px;
+}
+
+.home-mi-dinero .personal {
+  letter-spacing: 0;
+  min-height: 14px;
+  width: 73px;
+}
+
+.home-mi-dinero .para-la-u {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.home-mi-dinero .mask-group-6 {
+  height: 36px;
+  margin-left: 15px;
+  margin-top: -0.08px;
+  width: 36px;
+}
+
+.home-mi-dinero .price-2 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 31px;
+  margin-top: 3.0px;
+  min-height: 16px;
+  width: 68px;
+}
+
+.home-mi-dinero .group-container-2 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 5.0px;
+  margin-top: 11px;
+  min-width: 254px;
+}
+
+.home-mi-dinero .group-1779 {
+  align-items: flex-end;
+  display: flex;
+  height: 35px;
+  min-width: 129px;
+}
+
+.home-mi-dinero .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--purple-heart);
+  border-radius: 6px;
+  display: flex;
+  height: 34px;
+  min-width: 34px;
+  padding: 6px;
+}
+
+.home-mi-dinero .mask-group {
+  height: 21px;
+  width: 21px;
+}
+
+.home-mi-dinero .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+  min-height: 35px;
+  width: 83px;
+}
+
+.home-mi-dinero .has-pagado {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  margin-left: 2px;
+  white-space: nowrap;
+}
+
+.home-mi-dinero .price {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 20.2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.home-mi-dinero .group-1780 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 12px;
+  min-width: 113px;
+}
+
+.home-mi-dinero .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--purple-heart);
+  border-radius: 6px;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  min-width: 34px;
+  padding: 6px;
+}
+
+.home-mi-dinero .overlap-group {
+  height: 34px;
+  margin-left: 10px;
+  position: relative;
+  width: 65px;
+}
+
+.home-mi-dinero .address {
+  height: 17px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20.2px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.home-mi-dinero .te-faltan {
+  height: 18px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.home-mi-dinero .overlap-group6 {
+  height: 180px;
+  margin-left: 36px;
+  position: relative;
+  width: 254px;
+}
+
+.home-mi-dinero .overlap-group5 {
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 254px;
+}
+
+.home-mi-dinero .group-1692 {
+  height: 180px;
+  left: 98px;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.home-mi-dinero .rectangle-620 {
+  height: 63px;
+  left: 104px;
+  position: absolute;
+  top: 7px;
+  width: 42px;
+}
+
+.home-mi-dinero .group-container-3 {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+  width: 144px;
+}
+
+.home-mi-dinero .mask-group-7 {
+  height: 1px;
+  left: 110px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.home-mi-dinero .group-1680-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 33px;
+  position: absolute;
+  top: 0;
+  width: 144px;
+}
+
+.home-mi-dinero .grupal {
+  letter-spacing: 0;
+  min-height: 14px;
+  width: 73px;
+}
+
+.home-mi-dinero .parche-multiverso {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.home-mi-dinero .group-1780-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 34px;
+  left: 141px;
+  min-width: 113px;
+  position: absolute;
+  top: 82px;
+}
+
+.home-mi-dinero .overlap-group1-1 {
+  align-items: flex-start;
+  background-color: var(--purple-heart);
+  border-radius: 6px;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  min-width: 34px;
+  padding: 16.2px 15.8px;
+}
+
+.home-mi-dinero .mask-group-1 {
+  height: 1px;
+  width: 1px;
+}
+
+.home-mi-dinero .group-1779-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 35px;
+  left: 0;
+  min-width: 129px;
+  position: absolute;
+  top: 81px;
+}
+
+.home-mi-dinero .overlap-group3-1 {
+  align-items: flex-start;
+  background-color: var(--purple-heart);
+  border-radius: 6px;
+  display: flex;
+  height: 34px;
+  min-width: 34px;
+  padding: 16.2px;
+}
+
+.home-mi-dinero .price-3 {
+  left: 159px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 32px;
+  width: 68px;
+}
+
+.home-mi-dinero .navegador-principal {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  height: 77px;
+  left: 19px;
+  overflow: hidden;
+  padding: 0 18px;
+  position: absolute;
+  top: 784px;
+  width: 390px;
+}
+
+.home-mi-dinero .overlap-group11 {
+  height: 77px;
+  margin-left: 1px;
+  position: relative;
+  width: 353px;
+}
+
+.home-mi-dinero .group-1624 {
+  align-items: center;
+  display: flex;
+  height: 77px;
+  left: 16px;
+  min-width: 337px;
+  position: absolute;
+  top: 0;
+}
+
+.home-mi-dinero .group-1623 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 5.0px;
+  min-height: 40px;
+  width: 26px;
+}
+
+.home-mi-dinero .fill-1 {
+  height: 23px;
+  margin-left: 1px;
+  margin-top: -1px;
+  width: 22px;
+}
+
+.home-mi-dinero .inicio {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 24px;
+  text-align: center;
+}
+
+.home-mi-dinero .frame-1622 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 24px;
+  padding: 16px 0;
+  width: 70px;
+}
+
+.home-mi-dinero .iconly-light-outline-wallet {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/combined-shape-2@2x.svg);
+  background-size: 100% 100%;
+  height: 23px;
+  margin-left: 1.2px;
+  margin-top: 3px;
+  width: 25px;
+}
+
+.home-mi-dinero .movimientos {
+  letter-spacing: 0;
+  margin-top: 7px;
+  min-height: 12px;
+  min-width: 56px;
+  text-align: center;
+}
+
+.home-mi-dinero .frame-1621 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 13px;
+  padding: 16px 13px;
+  width: 61px;
+}
+
+.home-mi-dinero .iconly-light-outline3-user {
+  align-self: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/combined-shape-1@2x.svg);
+  background-size: 100% 100%;
+  height: 22px;
+  margin-left: 1.0px;
+  margin-top: 5px;
+  width: 30px;
+}
+
+.home-mi-dinero .parches {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 33px;
+  text-align: center;
+}
+
+.home-mi-dinero .frame-1620 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 18px;
+  padding: 16px 0;
+  width: 59px;
+}
+
+.home-mi-dinero .iconly-light-outline-play {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ff0b5d38d8a1dea406b0c/img/combined-shape@2x.svg);
+  background-size: 100% 100%;
+  height: 22px;
+  margin-right: 2.6px;
+  margin-top: 4px;
+  width: 22px;
+}
+
+.home-mi-dinero .aprende {
+  letter-spacing: 0;
+  margin-top: 7px;
+  min-height: 12px;
+  min-width: 39px;
+  text-align: center;
+}
+
+.home-mi-dinero .frame-1619 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 15px;
+  padding: 16px 0;
+  width: 51px;
+}
+
+.home-mi-dinero .combined-shape {
+  height: 22px;
+  margin-right: 1.03px;
+  margin-top: 5px;
+  width: 18px;
+}
+
+.home-mi-dinero .perfil {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
+
+.home-mi-dinero .rectangle-589 {
+  background-color: var(--miwo10);
+  border: 0.5px solid #ffd5c6;
+  border-radius: 13px;
+  box-shadow: 0px 0px 12px #ff855f;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 56px;
+}
+
+.home-mi-dinero .fill-1-1 {
+  height: 23px;
+  left: 17px;
+  position: absolute;
+  top: 27px;
+  width: 22px;
+}
