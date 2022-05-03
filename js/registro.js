@@ -7,3 +7,8 @@ signInBtn.addEventListener('click', ()=>{
 
     window.location.href = "./ingresar.html";
 })
+
+nextBtn.addEventListener('click', ()=>{
+
+    window.location.href = "./registro2.html";
+})
