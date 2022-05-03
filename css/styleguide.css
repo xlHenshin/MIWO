@@ -39,6 +39,12 @@
   rgba(255, 255, 255, 0.961);
     --blue: 
   rgba(255, 255, 255, 1);
+  --bon-jour: #e0e0e0;
+  --governor-bay: #2c1dd5;
+  --mine-shaft: #333333;
+  --watusi: #fce0cf;
+
+
 
   --font-size-xs: 12px;
   --font-size-s: 14px;
@@ -57,7 +63,25 @@
   --font-family-niveau_grotesk-medium: "Niveau Grotesk-Medium";
   --font-family-niveau_grotesk-regular: "Niveau Grotesk-Regular";
   --font-family-poppins: "Poppins";
+  --font-family-nunito: "Nunito", Helvetica;
 }
+
+.niveaugrotesk-medium-white-12px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.nunito-semi-bold-mine-shaft-12px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 600;
+}
+
 
 .niveaugrotesk-light-haiti-15px {
   color: var(--haiti);
@@ -73,6 +97,14 @@
   font-size: var(--font-size-s);
   font-weight: 500;
   font-style: normal;
+}
+
+.niveaugrotesk-medium-smashed-pumpkin-20px {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 500;
 }
 .niveaugrotesk-light-shark-14px {
   color: var(--shark-3);
@@ -462,4 +494,16 @@
   font-size: var(--font-size-xxxxl2);
   font-weight: 700;
   font-style: normal;
+}
+
+.niveaugrotesk-bold-mine-shaft-15px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-12px-watusi {
+  border: 12px solid var(--watusi);
 }
