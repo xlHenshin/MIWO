@@ -1,106 +1,75 @@
 /* screen - parches-principal */
 
 .parches-principal {
-  align-items: flex-start;
+  align-items: center;
   background-color: var(--blue);
   display: flex;
+  flex-direction: column;
   height: 926px;
+  overflow: hidden;
   width: 428px;
 }
 
-.parches-principal .overlap-group14 {
-  height: 907px;
+.parches-principal .overlap-group6 {
+  height: 881px;
+  margin-right: 1.5px;
+  margin-top: -79px;
   position: relative;
-  width: 428px;
+  width: 429px;
 }
 
-.parches-principal .mask-group-4 {
-  height: 586px;
+.parches-principal .group-1906 {
+  height: 370px;
   left: 0;
   position: absolute;
   top: 0;
   width: 428px;
 }
 
-.parches-principal .scroll::-webkit-scrollbar {
-  display: none;
-  width: 0;
-}
-
-.parches-principal .scroll {
-  align-items: flex-end;
+.parches-principal .frame-1904 {
+  align-items: center;
   display: flex;
-  height: 834px;
-  left: 0;
-  min-width: 428px;
-  overflow-y: scroll;
+  flex-direction: column;
+  height: 802px;
+  left: 1px;
+  overflow: hidden;
   position: absolute;
-  top: 46px;
+  top: 79px;
+  width: 428px;
 }
 
-.parches-principal .overlap-group13 {
-  height: 1911px;
-  margin-bottom: -1064.0px;
+.parches-principal .overlap-group5 {
+  align-self: flex-start;
+  height: 220px;
+  margin-left: -51px;
+  margin-top: -47px;
   position: relative;
-  width: 428px;
+  width: 469px;
 }
 
-.parches-principal .rectangle-620 {
-  height: 1816px;
+.parches-principal .rectangle-894 {
+  background-color: var(--miwo10);
+  border-radius: 20px;
+  height: 220px;
   left: 0;
-  position: absolute;
-  top: 95px;
-  width: 428px;
-}
-
-.parches-principal .group-container-1 {
-  height: 177px;
-  left: 125px;
-  position: absolute;
-  top: 32px;
-  width: 178px;
-}
-
-.parches-principal .group-1370 {
-  height: 134px;
-  left: 22px;
   position: absolute;
   top: 0;
-  width: 134px;
-}
-
-.parches-principal .overlap-group-3 {
-  align-items: flex-start;
-  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62710ebb34c255a34e451929/img/group-1403@2x.svg);
-  background-size: 100% 100%;
-  display: flex;
-  height: 66px;
-  left: 0;
-  min-width: 178px;
-  padding: 22px 28px;
-  position: absolute;
-  top: 111px;
-}
-
-.parches-principal .uqrcode-scan {
-  height: 15px;
-  width: 15px;
+  width: 438px;
 }
 
 .parches-principal .overlap-group2 {
   height: 97px;
-  left: 322px;
+  left: 374px;
   position: absolute;
-  top: 0;
+  top: 53px;
   width: 95px;
 }
 
 .parches-principal .ellipse-164 {
-  background-color: #2c1dd5;
-  border: 12px solid #fce0cf;
+  background-color: var(--governor-bay);
   border-radius: 31.75px/32.49px;
   height: 65px;
-  left: 17px;
+  left: 16px;
   position: absolute;
   top: 13px;
   width: 63px;
@@ -114,16 +83,16 @@
   width: 95px;
 }
 
-.parches-principal .overlap-group-4 {
+.parches-principal .overlap-group {
   align-items: flex-start;
-  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62710ebb34c255a34e451929/img/ellipse-164-1@2x.svg);
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62717421b69d2fcf4c28629b/img/ellipse-164@2x.png);
   background-size: 100% 100%;
   display: flex;
   height: 97px;
   justify-content: flex-end;
   left: 0;
   min-width: 95px;
-  padding: 38.1px 38.6px;
+  padding: 37.6px 39.1px;
   position: absolute;
   top: 0;
 }
@@ -133,716 +102,147 @@
   width: 16px;
 }
 
-.parches-principal .icon-notifications {
+.parches-principal .vector {
   height: 17px;
   left: 39px;
   position: absolute;
-  top: 37px;
+  top: 36px;
   width: 17px;
 }
 
-.parches-principal .vector-477 {
-  height: 1px;
-  left: 112px;
-  position: absolute;
-  top: 229px;
-  width: 204px;
-}
-
-.parches-principal .title {
-  left: 36px;
+.parches-principal .ahora-cumplir-tus-me {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-s2);
+  font-weight: 500;
+  left: 97px;
   letter-spacing: 0;
   position: absolute;
-  top: 261px;
-}
-
-.parches-principal .mis-parches {
-  left: 36px;
-  letter-spacing: 0;
-  position: absolute;
-  top: 449px;
-}
-
-.parches-principal .aqu-podrs-crear-tu {
-  color: transparent;
-  font-family: var(--font-family-niveau_grotesk-light);
-  font-size: var(--font-size-m2);
-  font-weight: 300;
-  left: 36px;
-  letter-spacing: 0;
-  position: absolute;
-  top: 301px;
-  width: 300px;
+  top: 118px;
+  width: 284px;
 }
 
 .parches-principal .span0 {
-  color: var(--haiti);
+  color: var(--blue);
+  font-weight: 500;
+}
+
+.parches-principal .span1 {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-light);
   font-weight: 300;
+}
+
+.parches-principal .overlap-group4 {
+  height: 257px;
+  margin-right: 1.0px;
+  margin-top: 106px;
+  position: relative;
+  width: 329px;
+}
+
+.parches-principal .overlap-group3 {
+  height: 257px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.parches-principal .rectangle-9 {
+  height: 236px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 329px;
+}
+
+.parches-principal .image-61 {
+  background-color: var(--blue);
+  border: 1px solid var(--shady-lady);
+  border-radius: 50px;
+  height: 53px;
+  left: 132px;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.parches-principal .rectangle-895 {
+  border: 1px solid #eeeefa;
+  border-radius: 10px;
+  height: 100px;
+  left: 37px;
+  position: absolute;
+  top: 129px;
+  width: 283px;
 }
 
 .parches-principal .group-1403 {
   height: 66px;
-  left: 21px;
-  position: absolute;
-  top: 370px;
-  width: 168px;
-}
-
-.parches-principal .overlap-group9 {
-  align-items: center;
-  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62710ebb34c255a34e451929/img/rectangle-9-1@2x.svg);
-  background-size: 100% 100%;
-  display: flex;
-  flex-direction: column;
-  left: 23px;
-  min-height: 337px;
-  padding: 52px 0;
-  position: absolute;
-  top: 480px;
-  width: 381px;
-}
-
-.parches-principal .flex-row-1 {
-  align-items: flex-end;
-  display: flex;
-  height: 70px;
-  margin-right: 29.0px;
-  min-width: 254px;
-}
-
-.parches-principal .mask-group {
-  height: 63px;
-  margin-bottom: 0.59px;
-  width: 63px;
-}
-
-.parches-principal .flex-col {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  margin-left: 20px;
-  min-height: 70px;
-  width: 171px;
-}
-
-.parches-principal .pago-mensual {
-  letter-spacing: 0;
-  min-height: 16px;
-}
-
-.parches-principal .parche-multiverso {
-  color: transparent;
-  font-family: var(--font-family-niveau_grotesk-medium);
-  font-size: var(--font-size-xl2);
-  font-weight: 500;
-  letter-spacing: 0;
-  margin-top: 3px;
-  min-height: 23px;
-}
-
-.parches-principal .span1-1 {
-  color: var(--purple-heart);
-}
-
-.parches-principal .flex-row {
-  align-items: center;
-  display: flex;
-  margin-left: 0;
-  margin-top: 2px;
-  min-width: 147px;
-}
-
-.parches-principal .group-1573 {
-  align-items: flex-end;
-  display: flex;
-  justify-content: flex-end;
-  min-width: 67px;
-  transform: rotate(-180deg);
-}
-
-.parches-principal .group-container {
-  height: 26px;
-  margin-bottom: 0;
-  position: relative;
-  width: 67px;
-}
-
-.parches-principal .group-1569 {
-  align-items: flex-end;
-  display: flex;
-  height: 26px;
-  justify-content: flex-end;
-  left: 41px;
-  min-width: 26px;
-  position: absolute;
-  top: 0;
-  transform: rotate(-360deg);
-}
-
-.parches-principal .overlap-group {
-  border-radius: 13.04px/12.79px;
-  height: 26px;
-  margin-bottom: 0;
-  position: relative;
-  width: 26px;
-}
-
-.parches-principal .ellipse-173 {
-  background-color: var(--blue);
-  border-radius: 13.04px/12.79px;
-  height: 26px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  transform: rotate(-360deg);
-  width: 26px;
-}
-
-.parches-principal .mask-group-1 {
-  height: 23px;
-  left: 1px;
-  position: absolute;
-  top: 1px;
-  transform: rotate(-180deg);
-  width: 23px;
-}
-
-.parches-principal .group-1570 {
-  align-items: flex-end;
-  display: flex;
-  height: 26px;
-  justify-content: flex-end;
-  left: 31px;
-  min-width: 26px;
-  position: absolute;
-  top: 0;
-  transform: rotate(-360deg);
-}
-
-.parches-principal .group-1571 {
-  align-items: flex-end;
-  display: flex;
-  height: 26px;
-  justify-content: flex-end;
-  left: 18px;
-  min-width: 26px;
-  position: absolute;
-  top: 0;
-  transform: rotate(-360deg);
-}
-
-.parches-principal .group-1572 {
-  align-items: flex-end;
-  display: flex;
-  height: 26px;
-  justify-content: flex-end;
-  left: 0;
-  min-width: 26px;
-  position: absolute;
-  top: 0;
-  transform: rotate(-360deg);
-}
-
-.parches-principal .address {
-  height: 15px;
-  letter-spacing: 0;
-  line-height: 15.4px;
-  margin-left: 7px;
-  margin-top: 3.41px;
-  white-space: nowrap;
-  width: 73px;
-}
-
-.parches-principal .parche-para-ir-de-va {
-  height: 40px;
-  letter-spacing: 0;
-  line-height: 20.2px;
-  margin-right: 53.0px;
   margin-top: 11px;
-  width: 230px;
+  width: 346px;
 }
 
-.parches-principal .overlap-group-container-2 {
-  align-items: flex-start;
-  display: flex;
-  margin-top: 11px;
-  min-width: 283px;
-}
-
-.parches-principal .overlap-group-1 {
-  border-radius: 4px;
-  height: 47px;
-  position: relative;
-  width: 137px;
-}
-
-.parches-principal .price {
-  height: 15px;
-  left: 52px;
+.parches-principal .lograr-algo-es-incre {
+  color: #444444;
+  font-family: var(--font-family-niveau_grotesk-light);
+  font-size: var(--font-size-m2);
+  font-weight: 300;
+  left: 91px;
   letter-spacing: 0;
-  line-height: 20.2px;
   position: absolute;
   text-align: center;
-  top: 23px;
-  white-space: nowrap;
-  width: 63px;
-}
-
-.parches-principal .meta {
-  height: 16px;
-  left: 52px;
-  letter-spacing: 0;
-  line-height: 16.2px;
-  position: absolute;
-  top: 4px;
-  white-space: nowrap;
-  width: 33px;
-}
-
-.parches-principal .rectangle {
-  border-radius: 4px;
-  height: 47px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 137px;
-}
-
-.parches-principal .rectangle-60 {
-  background-color: var(--purple-heart);
-  border-radius: 6px;
-  height: 34px;
-  left: 8px;
-  position: absolute;
-  top: 7px;
-  width: 34px;
-}
-
-.parches-principal .mask-group-2 {
-  height: 21px;
-  left: 14px;
-  position: absolute;
-  top: 13px;
-  width: 21px;
-}
-
-.parches-principal .overlap-group-2 {
-  border-radius: 4px;
-  height: 47px;
-  margin-left: 9px;
-  position: relative;
-  width: 137px;
-}
-
-.parches-principal .address-1 {
-  height: 15px;
-  left: 52px;
-  letter-spacing: 0;
-  line-height: 20.2px;
-  position: absolute;
-  top: 23px;
-  white-space: nowrap;
-  width: 63px;
-}
-
-.parches-principal .faltan {
-  height: 16px;
-  left: 52px;
-  letter-spacing: 0;
-  line-height: 16.2px;
-  position: absolute;
-  top: 7px;
-  white-space: nowrap;
-  width: 56px;
-}
-
-.parches-principal .icon-clock {
-  height: 18px;
-  left: 16px;
-  position: absolute;
-  top: 15px;
-  width: 18px;
-}
-
-.parches-principal .overlap-group-container {
-  align-items: flex-start;
-  display: flex;
-  margin-top: 7px;
-  min-width: 283px;
-}
-
-.parches-principal .price-1 {
-  height: 17px;
-  left: 50px;
-  letter-spacing: 0;
-  line-height: 20.2px;
-  position: absolute;
-  text-align: center;
-  top: 22px;
-  white-space: nowrap;
-  width: 61px;
-}
-
-.parches-principal .recaudado {
-  height: 18px;
-  left: 52px;
-  letter-spacing: 0;
-  line-height: 16.2px;
-  position: absolute;
-  top: 4px;
-  white-space: nowrap;
-  width: 81px;
-}
-
-.parches-principal .cuota {
-  height: 18px;
-  left: 52px;
-  letter-spacing: 0;
-  line-height: 16.2px;
-  position: absolute;
-  top: 4px;
-  white-space: nowrap;
-  width: 81px;
-}
-
-.parches-principal .mask-group-3 {
-  height: 21px;
-  left: 15px;
-  position: absolute;
-  top: 13px;
-  width: 21px;
-}
-
-.parches-principal .ver-todos {
-  left: 326px;
-  letter-spacing: 0;
-  position: absolute;
   top: 460px;
+  width: 247px;
 }
 
-.parches-principal .group-1838 {
-  align-items: flex-end;
-  display: flex;
-  height: 28px;
-  left: 36px;
-  min-width: 358px;
+.parches-principal .title {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xxl2);
+  font-weight: 700;
+  left: 47px;
+  letter-spacing: 0;
   position: absolute;
-  top: 832px;
+  top: 119px;
 }
 
-.parches-principal .parches-pblicos {
+.parches-principal .mis-parches {
+  color: #8524e5;
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 53px;
+  left: 57px;
   letter-spacing: 0;
-  min-height: 28px;
-  min-width: 173px;
-}
-
-.parches-principal .ver-todos-1 {
-  letter-spacing: 0;
-  margin-left: 116px;
-  min-height: 17px;
-  min-width: 65px;
-}
-
-.parches-principal .group-container-2 {
-  height: 337px;
-  left: 23px;
-  position: absolute;
-  top: 863px;
-  width: 381px;
-}
-
-.parches-principal .overlap-group9-1 {
-  align-items: center;
-  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62710ebb34c255a34e451929/img/rectangle-9-2@2x.svg);
-  background-size: 100% 100%;
-  display: flex;
-  flex-direction: column;
-  left: 0;
-  min-height: 337px;
-  padding: 52px 0;
-  position: absolute;
-  top: 0;
-  width: 381px;
-}
-
-.parches-principal .flex-row-2 {
-  align-items: flex-end;
-  display: flex;
-  height: 70px;
-  margin-right: 34.0px;
-  min-width: 249px;
-}
-
-.parches-principal .flex-col-1 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  margin-left: 20px;
-  min-height: 70px;
-  width: 166px;
-}
-
-.parches-principal .fundacin-pawtron {
-  letter-spacing: 0;
-  margin-top: 3px;
-  min-height: 23px;
-}
-
-.parches-principal .aydanos-a-cumplir-n {
-  height: 34px;
-  letter-spacing: 0;
-  margin-top: 14px;
-  width: 283px;
-}
-
-.parches-principal .span1 {
-  text-decoration: underline;
-}
-
-.parches-principal .overlap-group-container-1 {
-  align-items: flex-start;
-  display: flex;
-  margin-top: 14px;
-  min-width: 283px;
-}
-
-.parches-principal .recaudado-1 {
-  height: 18px;
-  left: 52px;
-  letter-spacing: 0;
-  line-height: 16.2px;
-  position: absolute;
-  top: 4px;
-  white-space: nowrap;
-  width: 81px;
-}
-
-.parches-principal .cuota-1 {
-  height: 18px;
-  left: 52px;
-  letter-spacing: 0;
-  line-height: 16.2px;
-  position: absolute;
-  top: 4px;
-  white-space: nowrap;
-  width: 81px;
-}
-
-.parches-principal .group-1455 {
-  align-items: flex-start;
-  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62710ebb34c255a34e451929/img/rectangle-387@2x.svg);
-  background-size: 100% 100%;
-  display: flex;
-  height: 27px;
-  justify-content: flex-end;
-  left: 265px;
-  min-width: 101px;
-  padding: 7.7px 15.0px;
-  position: absolute;
-  top: 15px;
-}
-
-.parches-principal .ms-visto {
-  height: 12px;
-  letter-spacing: 0;
-  line-height: 17.5px;
-  text-align: center;
-  white-space: nowrap;
-  width: 68px;
-}
-
-.parches-principal .group-container-3 {
-  height: 337px;
-  left: 23px;
-  position: absolute;
-  top: 1186px;
-  width: 381px;
-}
-
-.parches-principal .overlap-group9-2 {
-  align-items: center;
-  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62710ebb34c255a34e451929/img/rectangle-9-3@2x.svg);
-  background-size: 100% 100%;
-  display: flex;
-  flex-direction: column;
-  left: 0;
-  min-height: 337px;
-  padding: 52px 0;
-  position: absolute;
-  top: 0;
-  width: 381px;
-}
-
-.parches-principal .flex-row-3 {
-  align-items: flex-end;
-  display: flex;
-  height: 70px;
-  margin-right: 25.0px;
-  min-width: 258px;
-}
-
-.parches-principal .flex-col-2 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  margin-left: 20px;
-  min-height: 70px;
-  width: 175px;
-}
-
-.parches-principal .taller-de-estampado {
-  letter-spacing: 0;
-  margin-top: 3px;
-  min-height: 23px;
-}
-
-.parches-principal .te-enseo-a-estampar {
-  height: 34px;
-  letter-spacing: 0;
-  margin-top: 14px;
-  width: 283px;
-}
-
-.parches-principal .recaudado-2 {
-  height: 18px;
-  left: 52px;
-  letter-spacing: 0;
-  line-height: 16.2px;
-  position: absolute;
-  top: 4px;
-  white-space: nowrap;
-  width: 81px;
-}
-
-.parches-principal .cuota-2 {
-  height: 18px;
-  left: 52px;
-  letter-spacing: 0;
-  line-height: 16.2px;
-  position: absolute;
-  top: 4px;
-  white-space: nowrap;
-  width: 81px;
-}
-
-.parches-principal .group-1 {
-  align-items: center;
-  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62710ebb34c255a34e451929/img/rectangle-387@2x.svg);
-  background-size: 100% 100%;
-  display: flex;
-  height: 27px;
-  left: 265px;
-  min-width: 101px;
-  position: absolute;
-  top: 15px;
-}
-
-.parches-principal .ltimos-cupos {
-  height: 11px;
-  letter-spacing: 0;
-  line-height: 17.5px;
-  text-align: center;
-  white-space: nowrap;
-  width: 101px;
-}
-
-.parches-principal .overlap-group12 {
-  height: 337px;
-  left: 23px;
-  position: absolute;
-  top: 1509px;
-  width: 381px;
-}
-
-.parches-principal .overlap-group9-3 {
-  align-items: center;
-  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62710ebb34c255a34e451929/img/rectangle-9-4@2x.svg);
-  background-size: 100% 100%;
-  display: flex;
-  flex-direction: column;
-  left: 0;
-  min-height: 337px;
-  padding: 52px 0;
-  position: absolute;
-  top: 0;
-  width: 381px;
-}
-
-.parches-principal .flex-row-4 {
-  align-items: flex-end;
-  display: flex;
-  height: 70px;
-  margin-right: 32.0px;
-  min-width: 251px;
-}
-
-.parches-principal .flex-col-3 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  margin-left: 20px;
-  min-height: 70px;
-  width: 168px;
-}
-
-.parches-principal .caminata-ecolgica {
-  letter-spacing: 0;
-  margin-top: 3px;
-  min-height: 23px;
-}
-
-.parches-principal .somos-mochileros-y-q {
-  height: 34px;
-  letter-spacing: 0;
-  margin-top: 14px;
-  width: 283px;
-}
-
-.parches-principal .recaudado-3 {
-  height: 18px;
-  left: 52px;
-  letter-spacing: 0;
-  line-height: 16.2px;
-  position: absolute;
-  top: 4px;
-  white-space: nowrap;
-  width: 81px;
-}
-
-.parches-principal .cuota-3 {
-  height: 18px;
-  left: 52px;
-  letter-spacing: 0;
-  line-height: 16.2px;
-  position: absolute;
-  top: 4px;
-  white-space: nowrap;
-  width: 81px;
-}
-
-.parches-principal .reciente {
-  height: 11px;
-  left: 265px;
-  letter-spacing: 0;
-  line-height: 17.5px;
   position: absolute;
   text-align: center;
-  top: 23px;
-  white-space: nowrap;
-  width: 101px;
+  top: 288px;
+  width: 122px;
+}
+
+.parches-principal .explorar-parches {
+  color: var(--shady-lady);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 53px;
+  left: 228px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 287px;
+  width: 176px;
 }
 
 .parches-principal .navegador-principal {
-  align-items: flex-start;
   background-color: var(--blue);
   border-radius: 20px;
   box-shadow: 0px 0px 40px #0038ff1a;
   display: flex;
-  height: 77px;
-  left: 19px;
+  margin-top: 28px;
   overflow: hidden;
-  position: absolute;
-  top: 830px;
   width: 390px;
 }
 
@@ -857,7 +257,7 @@
   width: 390px;
 }
 
-.parches-principal .overlap-group-5 {
+.parches-principal .overlap-group-1 {
   height: 77px;
   margin-left: 4px;
   position: relative;
@@ -865,72 +265,68 @@
 }
 
 .parches-principal .group-1624 {
-  align-items: flex-end;
   display: flex;
   height: 77px;
   left: 0;
-  min-width: 352px;
   position: absolute;
   top: 0;
+  width: 352px;
 }
 
 .parches-principal .frame-1623 {
-  align-items: center;
   display: flex;
   flex-direction: column;
   height: 76px;
-  padding: 16px 0;
+  margin-top: 1px;
   width: 52px;
 }
 
 .parches-principal .iconly-light-outline-home {
-  height: 23px;
-  margin-right: 0.4px;
-  margin-top: 3px;
-  width: 22px;
+  height: 22.6px;
+  margin-left: 15.5px;
+  margin-top: 19.5px;
+  width: 21.6px;
 }
 
 .parches-principal .inicio {
+  height: 12px;
   letter-spacing: 0;
-  margin-top: 6px;
-  min-height: 12px;
-  min-width: 24px;
+  margin-left: 14px;
+  margin-top: 5.9px;
   text-align: center;
+  width: 24px;
 }
 
 .parches-principal .frame-1622 {
-  align-items: center;
   display: flex;
   flex-direction: column;
   height: 77px;
   margin-left: 10px;
-  padding: 16px 0;
   width: 74px;
 }
 
 .parches-principal .iconly-light-outline-wallet {
-  height: 23px;
-  margin-left: 1.2px;
-  margin-top: 3px;
-  width: 25px;
+  height: 23.12px;
+  margin-left: 25.5px;
+  margin-top: 19.5px;
+  width: 25.2px;
 }
 
 .parches-principal .movimientos {
+  height: 12px;
   letter-spacing: 0;
-  margin-top: 7px;
-  min-height: 12px;
-  min-width: 56px;
+  margin-left: 9px;
+  margin-top: 6.4px;
   text-align: center;
+  width: 56px;
 }
 
 .parches-principal .group-1621 {
-  align-items: flex-start;
-  align-self: center;
   display: flex;
   flex-direction: column;
+  height: 40px;
   margin-left: 26px;
-  margin-top: 5.0px;
-  min-height: 40px;
+  margin-top: 21px;
   width: 35px;
 }
 
@@ -941,36 +337,36 @@
 }
 
 .parches-principal .parches {
+  height: 12px;
   letter-spacing: 0;
   margin-top: 6px;
-  min-height: 12px;
-  min-width: 33px;
   text-align: center;
+  width: 33px;
 }
 
 .parches-principal .frame-1620 {
-  align-items: center;
   display: flex;
   flex-direction: column;
   height: 76px;
   margin-left: 25px;
-  padding: 16px 0;
+  margin-top: 1px;
   width: 67px;
 }
 
 .parches-principal .iconly-light-outline-play {
-  height: 22px;
-  margin-right: 2.6px;
-  margin-top: 3px;
-  width: 22px;
+  height: 22.4px;
+  margin-left: 21.5px;
+  margin-top: 19.5px;
+  width: 22.4px;
 }
 
 .parches-principal .aprende {
+  height: 12px;
   letter-spacing: 0;
-  margin-top: 7px;
-  min-height: 12px;
-  min-width: 39px;
+  margin-left: 14px;
+  margin-top: 6.1px;
   text-align: center;
+  width: 39px;
 }
 
 .parches-principal .frame-1619 {
@@ -979,20 +375,21 @@
   flex-direction: column;
   height: 76px;
   margin-left: 10px;
-  padding: 16px 0;
+  margin-top: 1px;
+  padding: 17px 0;
   width: 53px;
 }
 
 .parches-principal .combined-shape {
   height: 22px;
-  margin-right: 1.03px;
-  margin-top: 4px;
+  margin-right: 0.53px;
+  margin-top: 3px;
   width: 18px;
 }
 
 .parches-principal .perfil {
   letter-spacing: 0;
-  margin-top: 6px;
+  margin-top: 5px;
   min-height: 12px;
   min-width: 23px;
   text-align: center;

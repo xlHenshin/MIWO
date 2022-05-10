@@ -66,6 +66,21 @@
   --font-family-nunito: "Nunito", Helvetica;
 }
 
+.niveaugrotesk-bold-white-24px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.niveaugrotesk-medium-white-14px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 500;
+}
+
 .niveaugrotesk-medium-white-12px {
   color: var(--blue);
   font-family: var(--font-family-niveau_grotesk-medium);
@@ -170,6 +185,14 @@
   font-style: normal;
 }
 
+.niveaugrotesk-regular-normal-purple-heart-11-6px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
 .niveaugrotesk-regular-normal-smashed-pumpkin-11-4px {
   color: var(--miwo10);
   font-family: var(--font-family-niveau_grotesk-regular);
@@ -177,6 +200,24 @@
   font-weight: 400;
   font-style: normal;
 }
+
+
+.niveaugrotesk-bold-shady-lady-18px {
+  color: var(--shady-lady);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.niveaugrotesk-regular-normal-shark-11px {
+  color: var(--shark-2);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
 
 .niveaugrotesk-regular-normal-shady-lady-12px {
   color: var(--shady-lady);
@@ -230,6 +271,22 @@
   font-size: var(--font-size-s);
   font-weight: 400;
   font-style: normal;
+}
+
+.niveaugrotesk-regular-normal-purple-heart-12-7px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-medium-smashed-pumpkin-15-9px {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
 }
 
 .niveaugrotesk-regular-normal-shark-15px {
