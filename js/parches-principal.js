@@ -7,7 +7,9 @@ const eliminado = document.getElementById("eliminar")
 const usuarioActual = window.localStorage.getItem('numeroCel');
 const parche = JSON.parse(parches.getItem(usuarioActual));
 
-if (parche !== undefined || parche !== null || parche !== '') {
+console.log(parche)
+
+if (parche !== undefined && parche !== null && parche !== '') {
 
     eliminado.innerHTML = "";
     contenido.innerHTML = `<div class="group-1925">
@@ -115,4 +117,8 @@ if (parche !== undefined || parche !== null || parche !== '') {
       </div>
     </div>
   </div>`
+} else {
+    let parche = document.getElementById('nomas');
+
+    parche.style.marginTop ='300px'
 }
