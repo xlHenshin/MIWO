@@ -169,7 +169,9 @@
   height: 568px;
   margin-left: 10.28px;
   margin-top: 15px;
+  margin-bottom: 30px;
   width: 348px;
+  z-index: 1;
 }
 
 .unirseparche .group-1930 {
@@ -560,9 +562,10 @@
 .unirseparche .group-container {
   height: 280px;
   margin-left: 4.0px;
-  margin-top: 107px;
+  margin-top: 46px;
   position: relative;
   width: 350px;
+
 }
 
 .unirseparche .group-1924 {
@@ -810,6 +813,7 @@
   margin-left: 0.29px;
   margin-top: 7px;
   min-width: 300px;
+  z-index: 0;
 }
 
 .unirseparche .mask-group-10 {
