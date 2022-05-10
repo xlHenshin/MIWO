@@ -37,7 +37,9 @@
           </div>
           <div class="group-1736">
             <div class="ya-tienes-cuenta-miwo niveaugrotesk-regular-normal-silver-16px">¿Ya tienes cuenta Miwo?</div>
-            <div class="ingresa niveaugrotesk-medium-smashed-pumpkin-16px" id="signin">Ingresa</div>
+
+            <div class="ingresa"> <a class="niveaugrotesk-medium-smashed-pumpkin-16px" href="./ingresar.html">Ingresa</a></div>
+
           </div>
           <h1 class="title niveaugrotesk-bold-smashed-pumpkin-24px">Primero lo primero</h1>
           <p class="para-empezar-necesi">
@@ -49,10 +51,11 @@
             <div class="single-tab-1 border-0-2px-bittersweet">
               <select name="documentType" id="documentType" class="documentSelect">
                 <option value="">Tipo de documento</option>
-                <option value="asc">Tarjeta de Identidad</option>
-                <option value="desc">Cédula de ciudadanía</option>
-                <option value="desc">Cédula de extranjería</option>
-              </select>
+                <option value="Tarjeta de Identidad">Tarjeta de Identidad</option>
+                <option value="Cédula de ciudadanía">Cédula de ciudadanía</option>
+                <option value="Cédula de extranjería">Cédula de extranjería</option>
+            </select>
+
             </div>
           </div>
 
@@ -64,16 +67,17 @@
                 class="input niveaugrotesk-medium-rolling-stone-14px" 
                 name="input" 
                 placeholder="Número de documento"
-                id="documentNumber">
+                id="numero">
             </div>
-            <div class="overlap-group">
-              <div class="continuar valign-text-middle niveaugrotesk-medium-rolling-stone-20px" id="nextBtn">Continuar</div>
+            <div class="overlap-group" id = 'continuar'>
+              <div class="continuar valign-text-middle niveaugrotesk-medium-rolling-stone-20px">Continuar</div>
+
             </div>
           </div>
         </div>
       </div>
     </div>
   </body>
+  <script type="module" src="./js/registro.js"></script>
 
-  <script src="./js/registro.js"></script>
 </html>

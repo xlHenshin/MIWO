@@ -9,4 +9,5 @@ signInBtn.addEventListener('click', ()=>{
 signUpBtn.addEventListener('click', ()=>{
 
     window.location.href = "./registro.html";
+
 })
