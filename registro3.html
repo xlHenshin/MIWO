@@ -25,50 +25,61 @@
         <p class="necesitamos-unos-dat niveaugrotesk-regular-normal-black-15px">
           Necesitamos unos daticos más antes de poder seguir.
         </p>
-        <div class="single-tab-1 border-0-2px-bittersweet">
-          <img
-            class="single-tab-2"
-            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626f2b3113573d9a5876be4b/img/single-tab-1@2x.svg"
-          />
-        </div>
+        <form>
         <div class="single-tab border-0-2px-bittersweet">
-          <textarea
+          <input
             class="input niveaugrotesk-medium-rolling-stone-14px"
-            name="input"
-            placeholder="Segundo nombre (opcional)"
+            name="firstname"
+            placeholder="Primer Nombre"
             type="text"
-          ></textarea>
+            id="nombre"
+          ></input>
         </div>
         <div class="single-tab border-0-2px-bittersweet">
-          <textarea
+          <input
             class="input niveaugrotesk-medium-rolling-stone-14px"
-            name="input"
+            name="firstname"
+            placeholder="Segundo Nombre (opcional)"
+            type="text"
+            id="2donombre"
+          ></input>
+        </div>
+        <div class="single-tab border-0-2px-bittersweet">
+          <input
+            class="input niveaugrotesk-medium-rolling-stone-14px"
+            name="lastname"
             placeholder="Primer Apellido"
             type="text"
-          ></textarea>
+            id="apellido"
+          ></input>
         </div>
         <div class="single-tab border-0-2px-bittersweet">
-          <textarea
+          <input
             class="input niveaugrotesk-medium-rolling-stone-14px"
-            name="input"
+            name="lastname"
             placeholder="Segundo Apellido"
             type="text"
-          ></textarea>
+            id="apellido2"
+          ></input>
         </div>
         <div class="single-tab border-0-2px-bittersweet">
-          <textarea
+          <input
             class="input niveaugrotesk-medium-rolling-stone-14px"
             name="input"
             placeholder="E-mail"
             type="text"
-          ></textarea>
+            id="email"
+          ></input>
         </div>
+      </form>
         <div class="group-1730">
           <div class="overlap-group border-2px-rolling-stone">
-            <div class="continuar valign-text-middle niveaugrotesk-medium-rolling-stone-20px">Continuar</div>
+            <div class="continuar valign-text-middle niveaugrotesk-medium-rolling-stone-20px" id="continuar">Continuar</div>
           </div>
         </div>
       </div>
     </div>
   </body>
+  <script type="module" src="./js/registro.js"></script>
+
 </html>

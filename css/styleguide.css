@@ -388,6 +388,7 @@
 .border-1px-purple-heart {
   border-width: 1px;
   border-style: solid;
+  
   border-color: var(--purple-heart);
 }
 
@@ -508,6 +509,14 @@
 .niveaugrotesk-medium-smashed-pumpkin-24px {
   color: var(--miwo10);
   font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xxl2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.niveaugrotesk-light-smashed-pumpkin-24px {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-light);
   font-size: var(--font-size-xxl2);
   font-style: normal;
   font-weight: 500;

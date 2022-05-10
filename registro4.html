@@ -33,17 +33,20 @@
         <div class="group-1734">
           <div class="single-tab border-0-2px-bittersweet">
             <div class="text valign-text-middle niveaugrotesk-bold-smashed-pumpkin-14px">+57</div>
-            <textarea
-              class="input niveaugrotesk-medium-rolling-stone-14px"
-              name="input"
-              placeholder="Ingresa tu número de celular"
-              type="text"
-            ></textarea>
+            <input
+                class="input niveaugrotesk-medium-rolling-stone-14px"
+                id="celularRegistro"
+                name="phoneNumber"
+                placeholder="Ingresa tu número de celular"
+                oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"
+                type="number"
+                maxlength="10"
+              ></input>
           </div>
         </div>
         <div class="group-1735">
-          <div class="overlap-group border-2px-rolling-stone">
-            <div class="continuar valign-text-middle niveaugrotesk-medium-rolling-stone-20px">Continuar</div>
+          <div class="overlap-group border-2px-rolling-stone" id="continuar">
+            <div class="continuar valign-text-middle niveaugrotesk-medium-rolling-stone-20px" >Continuar</div>
           </div>
         </div>
         <div class="group-1737">
@@ -62,4 +65,6 @@
       </div>
     </div>
   </body>
+  <script type="module" src="./js/registro.js"></script>
+
 </html>

@@ -10,6 +10,7 @@
   width: 428px;
 }
 
+
 .registro6 .group-1689 {
   align-items: flex-start;
   cursor: pointer;
@@ -97,7 +98,7 @@
 }
 
 .registro6 .ellipse-124 {
-  background-color: var(--blue);
+  background: var(--blue);
   border-radius: 8.5px;
   height: 17px;
   width: 17px;
@@ -125,6 +126,13 @@
   height: 17px;
   margin-left: 48px;
   width: 17px;
+}
+
+#clave{
+  width: 200px;
+  background-color: transparent;
+  border : 0;
+  color:transparent;
 }
 
 .registro6 .overlap-group {

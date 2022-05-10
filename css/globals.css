@@ -35,6 +35,14 @@
   src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskLight.otf");
 }
 
+
+
+a {
+  display: contents;
+  text-decoration: none;
+}
+
+
 .screen a {
   display: contents;
   text-decoration: none;
