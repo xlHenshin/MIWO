@@ -66,6 +66,14 @@
   --font-family-nunito: "Nunito", Helvetica;
 }
 
+.niveaugrotesk-medium-smashed-pumpkin-15px{
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 500;
+}
+
 .niveaugrotesk-bold-white-24px {
   color: var(--blue);
   font-family: var(--font-family-niveau_grotesk-bold);
