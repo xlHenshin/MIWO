@@ -18,6 +18,17 @@
   width: 429px;
 }
 
+
+
+
+#contenido {
+  height: 257px;
+  margin-right: 1.0px;
+  margin-top: 106px;
+  position: relative;
+  width: 329px;
+}
+
 .parches-principal .group-1906 {
   height: 370px;
   left: 0;
@@ -412,4 +423,309 @@
   position: absolute;
   top: 28px;
   width: 30px;
+}
+
+.idea .group-1724 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 28px;
+  min-height: 179px;
+  position: absolute;
+  top: 63px;
+  width: 336px;
+}
+
+.idea .parche-multiverso {
+  align-self: center;
+  color: transparent;
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-left: 1.27px;
+  min-height: 25px;
+  min-width: 181px;
+}
+
+.idea .span0 {
+  color: var(--haiti);
+}
+
+.idea .span1 {
+  color: var(--purple-heart);
+}
+
+.idea .flex-row {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  margin-left: 1.29px;
+  margin-top: 3px;
+  min-width: 122px;
+}
+
+.idea .group-1573 {
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 41px;
+  transform: rotate(-180deg);
+}
+
+.idea .group-container {
+  height: 19px;
+  margin-bottom: 0;
+  position: relative;
+  width: 41px;
+}
+
+.idea .group-1570 {
+  align-items: flex-end;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  left: 22px;
+  min-width: 19px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+}
+
+#overlap-group {
+  border-radius: 9.48px/9.3px;
+  height: 19px;
+  margin-bottom: 0;
+  position: relative;
+  width: 19px;
+}
+
+.idea .ellipse-173 {
+  background-color: var(--blue);
+  border-radius: 9.48px/9.3px;
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+  width: 19px;
+}
+
+.idea .mask-group {
+  height: 17px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(-180deg);
+  width: 17px;
+}
+
+.idea .group-1571 {
+  align-items: flex-end;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  left: 13px;
+  min-width: 19px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+}
+
+.idea .group-1572 {
+  align-items: flex-end;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 19px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+}
+
+.idea .address {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 14.3px;
+  margin-bottom: 0.6px;
+  margin-left: 3px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.idea .parche-para-ir-de-va {
+  color: var(--shark-2);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 17.1px;
+  margin-top: 2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 314px;
+}
+
+.idea .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 5.29px;
+  margin-top: 7px;
+  min-width: 300px;
+}
+
+.idea .overlap-group-1 {
+  border-radius: 4.23px;
+  height: 50px;
+  position: relative;
+  width: 145px;
+}
+
+.idea .price {
+  height: 16px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 21.4px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.idea .meta {
+  height: 17px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 15.7px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.idea .rectangle {
+  border-radius: 4.23px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 145px;
+}
+
+.idea .rectangle-60 {
+  background-color: var(--purple-heart);
+  border-radius: 6.35px;
+  height: 36px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 36px;
+}
+
+.idea .mask-group-1 {
+  height: 23px;
+  left: 15px;
+  position: absolute;
+  top: 14px;
+  width: 23px;
+}
+
+.idea .overlap-group-2 {
+  border-radius: 4.23px;
+  height: 50px;
+  margin-left: 10px;
+  position: relative;
+  width: 145px;
+}
+
+.idea .address-2 {
+  height: 16px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 21.4px;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.idea .faltan {
+  height: 17px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 15.7px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.idea .rectangle-604 {
+  border: 0.1px solid var(--purple-heart);
+  border-radius: 4.23px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 145px;
+}
+
+.idea .icon-clock {
+  height: 19px;
+  left: 17px;
+  position: absolute;
+  top: 16px;
+  width: 19px;
+}
+
+.idea .price-1 {
+  height: 18px;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 21.4px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.idea .recaudado {
+  height: 19px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 15.7px;
+  position: absolute;
+  top: 4px;
+  width: 86px;
+}
+
+.idea .mask-group-4 {
+  height: 22px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 22px;
+}
+
+.idea .cuota {
+  height: 19px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 17.1px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.idea .mask-group-5 {
+  height: 22px;
+  left: 16px;
+  position: absolute;
+  top: 13px;
+  width: 22px;
 }
