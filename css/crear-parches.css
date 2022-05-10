@@ -1,0 +1,784 @@
+/* screen - crear-parches */
+
+.crear-parches {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  height: 926px;
+  padding: 19.0px 0;
+  width: 428px;
+}
+
+.crear-parches .overlap-group6 {
+  height: 861px;
+  margin-top: 27.0px;
+  position: relative;
+  width: 428px;
+}
+
+.crear-parches .scroll::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.crear-parches .scroll {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  max-height: 834px;
+  overflow-y: scroll;
+  padding: 0 10.6px;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.crear-parches .flex-row {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  margin-top: -13px;
+  min-width: 379px;
+}
+
+.crear-parches .volver-a-parches {
+  align-items: flex-start;
+  display: flex;
+  height: 49px;
+  margin-top: 13.64px;
+  min-width: 137px;
+  padding: 12.9px 0;
+}
+
+.crear-parches .vector {
+  height: 23px;
+  width: 13px;
+}
+
+.crear-parches .volver-a-parches-1 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  min-height: 17px;
+  min-width: 107px;
+}
+
+.crear-parches .overlap-group2 {
+  height: 97px;
+  margin-left: 147px;
+  position: relative;
+  width: 95px;
+}
+
+.crear-parches .ellipse-164 {
+  background-color: var(--governor-bay);
+  border-radius: 31.75px/32.49px;
+  height: 65px;
+  left: 17px;
+  position: absolute;
+  top: 13px;
+  width: 63px;
+}
+
+.crear-parches .overlap-group1 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.crear-parches .overlap-group {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/ellipse-164-3@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 97px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 95px;
+  padding: 38.1px 38.6px;
+  position: absolute;
+  top: 0;
+}
+
+.crear-parches .ufilter {
+  height: 16px;
+  width: 16px;
+}
+
+.crear-parches .vector-1 {
+  height: 17px;
+  left: 39px;
+  position: absolute;
+  top: 37px;
+  width: 17px;
+}
+
+.crear-parches .title {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 27.4px;
+  margin-top: 3px;
+  min-height: 28px;
+  min-width: 241px;
+}
+
+.crear-parches .llena-cada-uno-de-lo {
+  letter-spacing: 0;
+  margin-left: 1.17px;
+  margin-top: 18px;
+  min-height: 34px;
+  transform: rotate(-0.03deg);
+  width: 351px;
+}
+
+.crear-parches .nombre-del-parche {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 28.4px;
+  margin-top: 46px;
+  min-height: 21px;
+  min-width: 163px;
+}
+
+.crear-parches .nombre-del-parche-1 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/rectangle-377@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 48px;
+  margin-top: 15px;
+  min-width: 352px;
+  padding: 0 25.1px;
+}
+
+.crear-parches .ej-caminata-mximo-25-caracteres {
+  background-color: transparent;
+  border: 0;
+  height: 16px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 207px;
+}
+
+.crear-parches .ej-caminata-mximo-25-caracteres::placeholder {
+  color: #938b8999;
+}
+
+.crear-parches .descripcin-del-parche {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 28.4px;
+  margin-top: 20px;
+  min-height: 21px;
+  min-width: 189px;
+}
+
+.crear-parches .descripcin-del-parche-1 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/rectangle-377-2@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 102px;
+  margin-top: 13px;
+  min-width: 352px;
+  padding: 19px 25.1px;
+}
+
+.crear-parches .qu-vas-a-hacer-en-es {
+  background-color: transparent;
+  border: 0;
+  height: 32px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 207px;
+}
+
+.crear-parches .qu-vas-a-hacer-en-es::placeholder {
+  color: #938b8999;
+}
+
+.crear-parches .lugar {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 28.4px;
+  margin-top: 22px;
+  min-height: 21px;
+  min-width: 52px;
+}
+
+.crear-parches .lugar-1 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/rectangle-377@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 48px;
+  margin-top: 15px;
+  min-width: 352px;
+  padding: 0 25.1px;
+}
+
+.crear-parches .ej-cali-mximo-25-caracteres {
+  background-color: transparent;
+  border: 0;
+  height: 16px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 207px;
+}
+
+.crear-parches .ej-cali-mximo-25-caracteres::placeholder {
+  color: #938b8999;
+}
+
+.crear-parches .cmo-quieres-que-sea {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 28.4px;
+  margin-top: 20px;
+  min-height: 21px;
+  min-width: 194px;
+}
+
+.crear-parches .visibilidad {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25.0px;
+  margin-top: 20px;
+  min-height: 48px;
+  width: 327px;
+}
+
+.crear-parches .overlap-group-1 {
+  height: 32px;
+  margin-left: -12px;
+  margin-top: -12px;
+  position: relative;
+  width: 339px;
+}
+
+.crear-parches .frame-796 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.crear-parches .pblico {
+  left: 36px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 12px;
+  width: 136px;
+}
+
+.crear-parches .todos-podrn-ver-y-unirse-a-tu-parche {
+  left: 100px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 12px;
+  width: 239px;
+}
+
+.crear-parches .overlap-group1-1 {
+  height: 32px;
+  margin-left: -12px;
+  margin-top: 7px;
+  position: relative;
+  width: 307px;
+}
+
+.crear-parches .frame-797 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 110px;
+}
+
+.crear-parches .privado {
+  left: 36px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 4px;
+  width: 136px;
+}
+
+.crear-parches .slo-t-puedes-aadir-amiwos {
+  left: 100px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 4px;
+  width: 207px;
+}
+
+.crear-parches .monto-objetivo {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 28.4px;
+  margin-top: 20px;
+  min-height: 21px;
+  min-width: 128px;
+}
+
+.crear-parches .monto-objetivo-1 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/rectangle-377@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 48px;
+  margin-top: 15px;
+  min-width: 352px;
+  padding: 0 25.1px;
+}
+
+.crear-parches .ej-1000000 {
+  background-color: transparent;
+  border: 0;
+  height: 16px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 207px;
+}
+
+.crear-parches .ej-1000000::placeholder {
+  color: #938b8999;
+}
+
+.crear-parches .frecuencia-de-pagos {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 28.4px;
+  margin-top: 20px;
+  min-height: 21px;
+  min-width: 167px;
+}
+
+.crear-parches .frecuencia-de-pago {
+  align-items: flex-start;
+  display: flex;
+  height: 17px;
+  margin-left: 19.0px;
+  margin-top: 20px;
+  min-width: 321px;
+}
+
+.crear-parches .overlap-group-2 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/frame-796-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 37px;
+  justify-content: flex-end;
+  margin-left: -9px;
+  margin-top: -10px;
+  min-width: 97px;
+  padding: 0 4px;
+}
+
+.crear-parches .pblico-1 {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 60px;
+}
+
+.crear-parches .overlap-group-3 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/frame-796-2@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 31px;
+  justify-content: flex-end;
+  margin-left: 20px;
+  margin-top: -7px;
+  min-width: 104px;
+  padding: 0 11px;
+}
+
+.crear-parches .semanal {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 58px;
+}
+
+.crear-parches .overlap-group-4 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/frame-796-3@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 37px;
+  justify-content: flex-end;
+  margin-left: 9px;
+  margin-top: -10px;
+  min-width: 104px;
+  padding: 0 4px;
+}
+
+.crear-parches .mensual {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 61px;
+}
+
+.crear-parches .group-1845 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2.0px;
+  margin-top: 20px;
+  min-height: 84px;
+  width: 354px;
+}
+
+.crear-parches .fecha-del-parche {
+  letter-spacing: 0;
+  margin-left: 1px;
+  min-height: 21px;
+}
+
+.crear-parches .overlap-group-5 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/rectangle-377@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 48px;
+  margin-top: 15px;
+  min-width: 352px;
+  padding: 0 25.1px;
+}
+
+.crear-parches .ddmmaaaa {
+  background-color: transparent;
+  border: 0;
+  height: 16px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 207px;
+}
+
+.crear-parches .ddmmaaaa::placeholder {
+  color: #938b8999;
+}
+
+.crear-parches .aadir-amiwos {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 28.4px;
+  margin-top: 20px;
+  min-height: 21px;
+  min-width: 125px;
+}
+
+.crear-parches .group-1403 {
+  height: 74px;
+  margin-right: 1.0px;
+  margin-top: 6px;
+  width: 379px;
+}
+
+.crear-parches .overlap-group3 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/rectangle-416@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  margin-top: 3px;
+  min-width: 353px;
+  padding: 9px 20px;
+}
+
+.crear-parches .miwo-seguro {
+  letter-spacing: 0;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 91px;
+}
+
+.crear-parches .fichevron-down {
+  align-self: flex-end;
+  height: 24px;
+  margin-left: 192px;
+  width: 24px;
+}
+
+.crear-parches .overlap-group4 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/rectangle-416@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  margin-top: 15px;
+  min-width: 353px;
+  padding: 9px 20px;
+}
+
+.crear-parches .miwo-depsito {
+  letter-spacing: 0;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 106px;
+}
+
+.crear-parches .fichevron-down-1 {
+  align-self: flex-end;
+  height: 24px;
+  margin-left: 177px;
+  width: 24px;
+}
+
+.crear-parches .vector-477 {
+  height: 1px;
+  margin-right: 0.3px;
+  margin-top: 39px;
+  width: 204px;
+}
+
+.crear-parches .ya-casi-lo-tienes {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 27.4px;
+  margin-top: 40px;
+  min-height: 28px;
+  min-width: 159px;
+}
+
+.crear-parches .asegrate-que-todos {
+  letter-spacing: 0;
+  margin-left: 1.17px;
+  margin-top: 15px;
+  min-height: 34px;
+  transform: rotate(-0.03deg);
+  width: 351px;
+}
+
+.crear-parches .span1 {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-light);
+  font-size: var(--font-size-m2);
+  font-weight: 300;
+}
+
+.crear-parches .overlap-group5 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--blue);
+  border: 1px solid var(--shady-lady);
+  border-radius: 9px;
+  display: flex;
+  height: 40px;
+  margin-left: 27.4px;
+  margin-top: 23px;
+  min-width: 193px;
+  padding: 9px 0;
+}
+
+.crear-parches .armar-parche {
+  color: var(--shady-lady);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-l2);
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 21px;
+  text-align: center;
+  width: 192px;
+}
+
+.crear-parches .vector-478 {
+  height: 1px;
+  margin-right: 0.3px;
+  margin-top: 79px;
+  width: 204px;
+}
+
+.crear-parches .navegador-principal {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  height: 77px;
+  left: 19px;
+  overflow: hidden;
+  position: absolute;
+  top: 784px;
+  width: 390px;
+}
+
+.crear-parches .navegador-principal-1 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  overflow: hidden;
+  padding: 0 17px;
+  width: 390px;
+}
+
+.crear-parches .overlap-group-6 {
+  height: 77px;
+  margin-left: 4px;
+  position: relative;
+  width: 352px;
+}
+
+.crear-parches .group-1624 {
+  align-items: flex-end;
+  display: flex;
+  height: 77px;
+  left: 0;
+  min-width: 352px;
+  position: absolute;
+  top: 0;
+}
+
+.crear-parches .frame-1623 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  padding: 16px 0;
+  width: 52px;
+}
+
+.crear-parches .iconly-light-outline-home {
+  height: 23px;
+  margin-right: 0.4px;
+  margin-top: 3px;
+  width: 22px;
+}
+
+.crear-parches .inicio {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 24px;
+  text-align: center;
+}
+
+.crear-parches .frame-1622 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 10px;
+  padding: 16px 0;
+  width: 74px;
+}
+
+.crear-parches .iconly-light-outline-wallet {
+  height: 23px;
+  margin-left: 1.2px;
+  margin-top: 3px;
+  width: 25px;
+}
+
+.crear-parches .movimientos {
+  letter-spacing: 0;
+  margin-top: 7px;
+  min-height: 12px;
+  min-width: 56px;
+  text-align: center;
+}
+
+.crear-parches .group-1621 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 26px;
+  margin-top: 5.0px;
+  min-height: 40px;
+  width: 35px;
+}
+
+.crear-parches .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 1px;
+  width: 30px;
+}
+
+.crear-parches .parches {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 33px;
+  text-align: center;
+}
+
+.crear-parches .frame-1620 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-left: 25px;
+  padding: 16px 0;
+  width: 67px;
+}
+
+.crear-parches .iconly-light-outline-play {
+  height: 22px;
+  margin-right: 2.6px;
+  margin-top: 3px;
+  width: 22px;
+}
+
+.crear-parches .aprende {
+  letter-spacing: 0;
+  margin-top: 7px;
+  min-height: 12px;
+  min-width: 39px;
+  text-align: center;
+}
+
+.crear-parches .frame-1619 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-left: 10px;
+  padding: 16px 0;
+  width: 53px;
+}
+
+.crear-parches .combined-shape {
+  height: 22px;
+  margin-right: 1.03px;
+  margin-top: 4px;
+  width: 18px;
+}
+
+.crear-parches .perfil {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
+
+.crear-parches .rectangle-589 {
+  background-color: var(--miwo10);
+  border-radius: 13px;
+  box-shadow: 0px 0px 12px #ff855f;
+  height: 52px;
+  left: 151px;
+  position: absolute;
+  top: 13px;
+  width: 56px;
+}
+
+.crear-parches .iconly-light-outline3-user-1 {
+  height: 22px;
+  left: 164px;
+  position: absolute;
+  top: 28px;
+  width: 30px;
+}

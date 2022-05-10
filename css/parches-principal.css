@@ -1,0 +1,415 @@
+/* screen - parches-principal */
+
+.parches-principal {
+  align-items: center;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.parches-principal .overlap-group6 {
+  height: 881px;
+  margin-right: 1.5px;
+  margin-top: -79px;
+  position: relative;
+  width: 429px;
+}
+
+.parches-principal .group-1906 {
+  height: 370px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.parches-principal .frame-1904 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 802px;
+  left: 1px;
+  overflow: hidden;
+  position: absolute;
+  top: 79px;
+  width: 428px;
+}
+
+.parches-principal .overlap-group5 {
+  align-self: flex-start;
+  height: 220px;
+  margin-left: -51px;
+  margin-top: -47px;
+  position: relative;
+  width: 469px;
+}
+
+.parches-principal .rectangle-894 {
+  background-color: var(--miwo10);
+  border-radius: 20px;
+  height: 220px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 438px;
+}
+
+.parches-principal .overlap-group2 {
+  height: 97px;
+  left: 374px;
+  position: absolute;
+  top: 53px;
+  width: 95px;
+}
+
+.parches-principal .ellipse-164 {
+  background-color: var(--governor-bay);
+  border-radius: 31.75px/32.49px;
+  height: 65px;
+  left: 16px;
+  position: absolute;
+  top: 13px;
+  width: 63px;
+}
+
+.parches-principal .overlap-group1 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.parches-principal .overlap-group {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62717421b69d2fcf4c28629b/img/ellipse-164@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 97px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 95px;
+  padding: 37.6px 39.1px;
+  position: absolute;
+  top: 0;
+}
+
+.parches-principal .ufilter {
+  height: 16px;
+  width: 16px;
+}
+
+.parches-principal .vector {
+  height: 17px;
+  left: 39px;
+  position: absolute;
+  top: 36px;
+  width: 17px;
+}
+
+.parches-principal .ahora-cumplir-tus-me {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-s2);
+  font-weight: 500;
+  left: 97px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 118px;
+  width: 284px;
+}
+
+.parches-principal .span0 {
+  color: var(--blue);
+  font-weight: 500;
+}
+
+.parches-principal .span1 {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-light);
+  font-weight: 300;
+}
+
+.parches-principal .overlap-group4 {
+  height: 257px;
+  margin-right: 1.0px;
+  margin-top: 106px;
+  position: relative;
+  width: 329px;
+}
+
+.parches-principal .overlap-group3 {
+  height: 257px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.parches-principal .rectangle-9 {
+  height: 236px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 329px;
+}
+
+.parches-principal .image-61 {
+  background-color: var(--blue);
+  border: 1px solid var(--shady-lady);
+  border-radius: 50px;
+  height: 53px;
+  left: 132px;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.parches-principal .rectangle-895 {
+  border: 1px solid #eeeefa;
+  border-radius: 10px;
+  height: 100px;
+  left: 37px;
+  position: absolute;
+  top: 129px;
+  width: 283px;
+}
+
+.parches-principal .group-1403 {
+  height: 66px;
+  margin-top: 11px;
+  width: 346px;
+}
+
+.parches-principal .lograr-algo-es-incre {
+  color: #444444;
+  font-family: var(--font-family-niveau_grotesk-light);
+  font-size: var(--font-size-m2);
+  font-weight: 300;
+  left: 91px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 460px;
+  width: 247px;
+}
+
+.parches-principal .title {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xxl2);
+  font-weight: 700;
+  left: 47px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 119px;
+}
+
+.parches-principal .mis-parches {
+  color: #8524e5;
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 53px;
+  left: 57px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 288px;
+  width: 122px;
+}
+
+.parches-principal .explorar-parches {
+  color: var(--shady-lady);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 53px;
+  left: 228px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 287px;
+  width: 176px;
+}
+
+.parches-principal .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  margin-top: 28px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.parches-principal .navegador-principal-1 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  overflow: hidden;
+  padding: 0 17px;
+  width: 390px;
+}
+
+.parches-principal .overlap-group-1 {
+  height: 77px;
+  margin-left: 4px;
+  position: relative;
+  width: 352px;
+}
+
+.parches-principal .group-1624 {
+  display: flex;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.parches-principal .frame-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-top: 1px;
+  width: 52px;
+}
+
+.parches-principal .iconly-light-outline-home {
+  height: 22.6px;
+  margin-left: 15.5px;
+  margin-top: 19.5px;
+  width: 21.6px;
+}
+
+.parches-principal .inicio {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 24px;
+}
+
+.parches-principal .frame-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 10px;
+  width: 74px;
+}
+
+.parches-principal .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 25.5px;
+  margin-top: 19.5px;
+  width: 25.2px;
+}
+
+.parches-principal .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 9px;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.parches-principal .group-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  margin-left: 26px;
+  margin-top: 21px;
+  width: 35px;
+}
+
+.parches-principal .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 1px;
+  width: 30px;
+}
+
+.parches-principal .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-top: 6px;
+  text-align: center;
+  width: 33px;
+}
+
+.parches-principal .frame-1620 {
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-left: 25px;
+  margin-top: 1px;
+  width: 67px;
+}
+
+.parches-principal .iconly-light-outline-play {
+  height: 22.4px;
+  margin-left: 21.5px;
+  margin-top: 19.5px;
+  width: 22.4px;
+}
+
+.parches-principal .aprende {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 6.1px;
+  text-align: center;
+  width: 39px;
+}
+
+.parches-principal .frame-1619 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-left: 10px;
+  margin-top: 1px;
+  padding: 17px 0;
+  width: 53px;
+}
+
+.parches-principal .combined-shape {
+  height: 22px;
+  margin-right: 0.53px;
+  margin-top: 3px;
+  width: 18px;
+}
+
+.parches-principal .perfil {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
+
+.parches-principal .rectangle-589 {
+  background-color: var(--miwo10);
+  border-radius: 13px;
+  box-shadow: 0px 0px 12px #ff855f;
+  height: 52px;
+  left: 151px;
+  position: absolute;
+  top: 13px;
+  width: 56px;
+}
+
+.parches-principal .iconly-light-outline3-user-1 {
+  height: 22px;
+  left: 164px;
+  position: absolute;
+  top: 28px;
+  width: 30px;
+}

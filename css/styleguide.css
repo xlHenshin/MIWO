@@ -39,6 +39,12 @@
   rgba(255, 255, 255, 0.961);
     --blue: 
   rgba(255, 255, 255, 1);
+  --bon-jour: #e0e0e0;
+  --governor-bay: #2c1dd5;
+  --mine-shaft: #333333;
+  --watusi: #fce0cf;
+
+
 
   --font-size-xs: 12px;
   --font-size-s: 14px;
@@ -57,6 +63,47 @@
   --font-family-niveau_grotesk-medium: "Niveau Grotesk-Medium";
   --font-family-niveau_grotesk-regular: "Niveau Grotesk-Regular";
   --font-family-poppins: "Poppins";
+  --font-family-nunito: "Nunito", Helvetica;
+}
+
+.niveaugrotesk-bold-white-24px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.niveaugrotesk-medium-white-14px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.niveaugrotesk-medium-white-12px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.nunito-semi-bold-mine-shaft-12px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+
+.niveaugrotesk-light-haiti-15px {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-light);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 300;
 }
 
 .niveaugrotesk-medium-shark-14px {
@@ -66,6 +113,111 @@
   font-weight: 500;
   font-style: normal;
 }
+
+.niveaugrotesk-medium-smashed-pumpkin-20px {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 500;
+}
+.niveaugrotesk-light-shark-14px {
+  color: var(--shark-3);
+  font-family: var(--font-family-niveau_grotesk-light);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.niveaugrotesk-bold-smashed-pumpkin-15px {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.niveaugrotesk-regular-normal-gray-14px {
+  color: var(--gray);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-bold-purple-heart-18px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.niveaugrotesk-regular-normal-purple-heart-15px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-weight: 400;
+  font-style: normal;
+}
+
+.niveaugrotesk-medium-haiti-20px {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl2);
+  font-weight: 500;
+  font-style: normal;
+}
+
+.niveaugrotesk-regular-normal-white-13px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: 13px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-bold-purple-heart-12px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+
+.niveaugrotesk-regular-normal-purple-heart-11-6px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-regular-normal-smashed-pumpkin-11-4px {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: 11.421052932739258px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.niveaugrotesk-bold-shady-lady-18px {
+  color: var(--shady-lady);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.niveaugrotesk-regular-normal-shark-11px {
+  color: var(--shark-2);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
 
 .niveaugrotesk-regular-normal-shady-lady-12px {
   color: var(--shady-lady);
@@ -119,6 +271,22 @@
   font-size: var(--font-size-s);
   font-weight: 400;
   font-style: normal;
+}
+
+.niveaugrotesk-regular-normal-purple-heart-12-7px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-medium-smashed-pumpkin-15-9px {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
 }
 
 .niveaugrotesk-regular-normal-shark-15px {
@@ -383,4 +551,16 @@
   font-size: var(--font-size-xxxxl2);
   font-weight: 700;
   font-style: normal;
+}
+
+.niveaugrotesk-bold-mine-shaft-15px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-12px-watusi {
+  border: 12px solid var(--watusi);
 }
