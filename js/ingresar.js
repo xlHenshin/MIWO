@@ -4,7 +4,7 @@ import { usuarios } from "../utils/app.js";
 const celularLogin = document.getElementById("celularLogin");
 const claveLogin = document.getElementById("claveLogin");
 const ingresarLogin = document.getElementById("ingresarLogin");
-
+const signUpBtn = document.getElementById("signup");
 
 ingresarLogin.addEventListener('click', (e) => {
 
@@ -21,5 +21,6 @@ ingresarLogin.addEventListener('click', (e) => {
     //let example = JSON.parse(localStorage.getItem(celular)); 
 
    // console.log(example);
+
 
 })

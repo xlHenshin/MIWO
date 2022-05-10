@@ -53,18 +53,23 @@
                 name="ej_caminatamáximo25caracteres"
                 placeholder="Ej: Caminata. Máximo 25 caracteres"
                 type="text"
+                id="nombreParche"
                 required
               />
             </div>
             <div class="descripcin-del-parche niveaugrotesk-bold-purple-heart-18px">Descripción del parche *</div>
             <div class="descripcin-del-parche-1">
-              <input
+
+              <textarea 
+                id="descripcionParche"
                 class="qu-vas-a-hacer-en-es niveaugrotesk-regular-normal-gray-14px"
                 name="quévasahacerenesteparchemáximo120caracteres"
                 placeholder="¿Qué vas a hacer en este parche? Máximo 120 caracteres"
                 type="text"
                 required
-              />
+                cols="30" 
+                rows="10"></textarea>
+
             </div>
             <div class="lugar niveaugrotesk-bold-purple-heart-18px">Lugar*</div>
             <div class="lugar-1">
@@ -73,6 +78,7 @@
                 name="ej_calimáximo25caracteres"
                 placeholder="Ej: Cali. Máximo 25 caracteres"
                 type="text"
+                id="lugarParche"
                 required
               />
             </div>
@@ -101,7 +107,8 @@
                 class="ej-1000000 niveaugrotesk-regular-normal-gray-14px"
                 name="ej_1000000"
                 placeholder="Ej: 1’000.000"
-                type="text"
+                type="number"
+                id="montoParche"
                 required
               />
             </div>
@@ -134,6 +141,7 @@
                   name="date"
                   placeholder="DD/MM/AAAA"
                   type="date"
+                  id="fechaParche"
                   required
                 />
               </div>
@@ -142,6 +150,7 @@
             <img
               class="group-1403"
               src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/group-1403-4@2x.svg"
+              id="buscarAmigosBtn"
             />
             <div class="overlap-group3">
               <div class="miwo-seguro niveaugrotesk-medium-shark-16px">Miwo seguro</div>
@@ -168,7 +177,8 @@
               ><span class="span1">&nbsp;</span
               ><span class="niveaugrotesk-bold-purple-heart-15px">¡Que disfrutes!</span>
             </p>
-            <div class="overlap-group5"><div class="armar-parche">Armar parche</div></div>
+            <div class="overlap-group5" id="crearParcheBtn">
+              <div class="armar-parche">Armar parche</div></div>
             <img
               class="vector-478"
               src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62710ebb34c255a34e451929/img/vector-477@2x.svg"
@@ -226,4 +236,6 @@
       </div>
     </div>
   </body>
+
+  <script src="./js/crear-parches.js"></script>
 </html>

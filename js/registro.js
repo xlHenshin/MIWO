@@ -1,3 +1,4 @@
+
 import { usuarios,parches } from "../utils/app.js";
 
 const url = location.href;
@@ -203,3 +204,4 @@ if (name === 'registro6.html'){
     });
 
 }
+
