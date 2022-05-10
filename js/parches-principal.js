@@ -1,12 +1,14 @@
 const homeNav = document.getElementById("homeNav");
 const backBtn = document.getElementById("backBtn");
+const crearPrimerParcheBtn = document.getElementById("crearPrimerParcheBtn");
 
 homeNav.addEventListener('click', ()=>{
 
     window.location.href = "./home-mi-dinero.html";
 })
 
-backBtn.addEventListener('click', ()=>{
+crearPrimerParcheBtn.addEventListener('click', ()=>{
 
-    window.location.href = "./introparches2.html";
+    console.log("SIRVO")
+    window.location.href = "./crear-parches.html";
 })
