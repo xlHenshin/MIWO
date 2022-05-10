@@ -51,18 +51,23 @@
                 name="ej_caminatamáximo25caracteres"
                 placeholder="Ej: Caminata. Máximo 25 caracteres"
                 type="text"
+                id="nombreParche"
                 required
               />
             </div>
             <div class="descripcin-del-parche niveaugrotesk-bold-purple-heart-18px">Descripción del parche *</div>
             <div class="descripcin-del-parche-1">
-              <input
+
+              <textarea 
+                id="descripcionParche"
                 class="qu-vas-a-hacer-en-es niveaugrotesk-regular-normal-gray-14px"
                 name="quévasahacerenesteparchemáximo120caracteres"
                 placeholder="¿Qué vas a hacer en este parche? Máximo 120 caracteres"
                 type="text"
                 required
-              />
+                cols="30" 
+                rows="10"></textarea>
+
             </div>
             <div class="lugar niveaugrotesk-bold-purple-heart-18px">Lugar*</div>
             <div class="lugar-1">
@@ -71,26 +76,21 @@
                 name="ej_calimáximo25caracteres"
                 placeholder="Ej: Cali. Máximo 25 caracteres"
                 type="text"
+                id="lugarParche"
                 required
               />
             </div>
             <div class="cmo-quieres-que-sea niveaugrotesk-bold-purple-heart-18px">¿Cómo quieres que sea?*</div>
             <div class="visibilidad">
               <div class="overlap-group-1">
-                <img
-                  class="frame-796"
-                  src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/frame-796@2x.svg"
-                />
+                <input type="checkbox" class="checkboxes" id="checkboxPublico">
                 <div class="pblico niveaugrotesk-bold-smashed-pumpkin-15px">Público</div>
                 <p class="todos-podrn-ver-y-unirse-a-tu-parche niveaugrotesk-light-shark-14px">
                   Todos podrán ver y unirse a tu parche
                 </p>
               </div>
               <div class="overlap-group1-1">
-                <img
-                  class="frame-797"
-                  src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/frame-797@2x.svg"
-                />
+                <input type="checkbox" class="checkboxes" id="checkboxPrivado">
                 <div class="privado niveaugrotesk-bold-smashed-pumpkin-15px">Privado</div>
                 <p class="slo-t-puedes-aadir-amiwos niveaugrotesk-light-shark-14px">Sólo tú puedes añadir AMIWOS</p>
               </div>
@@ -101,19 +101,23 @@
                 class="ej-1000000 niveaugrotesk-regular-normal-gray-14px"
                 name="ej_1000000"
                 placeholder="Ej: 1’000.000"
-                type="text"
+                type="number"
+                id="montoParche"
                 required
               />
             </div>
             <div class="frecuencia-de-pagos niveaugrotesk-bold-purple-heart-18px">Frecuencia de pagos*</div>
             <div class="frecuencia-de-pago">
               <div class="overlap-group-2">
-                <div class="pblico-1 niveaugrotesk-medium-smashed-pumpkin-15px">Público</div>
+                <input type="checkbox" class="checkboxes" id="checkboxDiario">
+                <div class="pblico-1 niveaugrotesk-medium-smashed-pumpkin-15px">Diario</div>
               </div>
               <div class="overlap-group-3">
+                <input type="checkbox" class="checkboxes" id="checkboxSemanal">
                 <div class="semanal niveaugrotesk-medium-smashed-pumpkin-15px">Semanal</div>
               </div>
               <div class="overlap-group-4">
+                <input type="checkbox" class="checkboxes" id="checkboxMensual">
                 <div class="mensual niveaugrotesk-medium-smashed-pumpkin-15px">Mensual</div>
               </div>
             </div>
@@ -124,7 +128,8 @@
                   class="ddmmaaaa niveaugrotesk-regular-normal-gray-14px"
                   name="ddmmaaaa"
                   placeholder="DD/MM/AAAA"
-                  type="number"
+                  type="date"
+                  id="fechaParche"
                   required
                 />
               </div>
@@ -133,6 +138,7 @@
             <img
               class="group-1403"
               src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627115ca7d36b46e49bbd710/img/group-1403-4@2x.svg"
+              id="buscarAmigosBtn"
             />
             <div class="overlap-group3">
               <div class="miwo-seguro niveaugrotesk-medium-shark-16px">Miwo seguro</div>
@@ -159,7 +165,8 @@
               ><span class="span1">&nbsp;</span
               ><span class="niveaugrotesk-bold-purple-heart-15px">¡Que disfrutes!</span>
             </p>
-            <div class="overlap-group5"><div class="armar-parche">Armar parche</div></div>
+            <div class="overlap-group5" id="crearParcheBtn">
+              <div class="armar-parche">Armar parche</div></div>
             <img
               class="vector-478"
               src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62710ebb34c255a34e451929/img/vector-477@2x.svg"
@@ -217,4 +224,6 @@
       </div>
     </div>
   </body>
+
+  <script src="./js/crear-parches.js"></script>
 </html>
