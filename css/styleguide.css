@@ -66,6 +66,53 @@
   --font-family-nunito: "Nunito", Helvetica;
 }
 
+.niveaugrotesk-light-white-14px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-light);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.niveaugrotesk-regular-normal-shark-15px2 {
+  color: var(--shark);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-medium-white-20px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.niveaugrotesk-regular-normal-shark-15px3{
+  color: var(--shark-2);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-regular-normal-rolling-stone-15px {
+  color: var(--rolling-stone);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-bold-white-15px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 700;
+}
+
 .niveaugrotesk-regular-normal-shady-lady-10-6px {
   color: var(--shady-lady);
   font-family: var(--font-family-niveau_grotesk-regular);
