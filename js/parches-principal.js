@@ -2,18 +2,20 @@ import { usuarios, parches } from "../utils/app.js";
 
 
 const contenido = document.getElementById("contenido");
+const eliminado = document.getElementById("eliminar")
 
 const usuarioActual = window.localStorage.getItem('numeroCel');
 const parche = JSON.parse(parches.getItem(usuarioActual));
 
 if (parche !== undefined || parche !== null || parche !== '') {
-    contenido.innerHTML = "";
+
+    eliminado.innerHTML = "";
     contenido.innerHTML = `<div class="group-1925">
     <div class="parches-pblicos niveaugrotesk-bold-smashed-pumpkin-15px">Parches activos</div>
   </div>
   <div class="overlap-group8">
     <img
-      class="rectangle-9"
+      class="rectangle-9" id = 'rectangle-9' 
       src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627a8a933a5ca462a5281b28/img/rectangle-9-4@2x.png"
     />
     <img
@@ -22,7 +24,7 @@ if (parche !== undefined || parche !== null || parche !== '') {
     />
     <div class="group-1724">
       <div class="parche-multiverso">
-        <span class="span0">Parche </span><span class="span1">“Multiverso”</span>
+        <span class="span0">${parche.nombreParche} </span>
       </div>
       <div class="flex-row">
         <div class="group-1573">
@@ -61,7 +63,7 @@ if (parche !== undefined || parche !== null || parche !== '') {
         </div>
       </div>
       <p class="parche-para-ir-de-va valign-text-middle">
-        Parche para ir de vacaciones a Cancún con los panas!!
+        ${parche.descripcionParche}
       </p>
       <div class="overlap-group-container">
         <div class="overlap-group-1">

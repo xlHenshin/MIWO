@@ -10,6 +10,10 @@
   width: 428px;
 }
 
+.overlap-group8 {
+  padding-top: 20px;
+}
+
 .parches-principal .overlap-group6 {
   height: 881px;
   margin-right: 1.5px;
@@ -24,11 +28,14 @@
 #contenido {
   height: 257px;
   margin-right: 1.0px;
-  margin-top: 106px;
+  margin-top: 140px;
   position: relative;
   width: 329px;
 }
-
+.group-1925 {
+  position: absolute;
+  top: -23px;
+}
 .parches-principal .group-1906 {
   height: 370px;
   left: 0;
@@ -160,6 +167,10 @@
   width: 329px;
 }
 
+#rectangle-9 {
+  height: 266px;
+}
+
 .parches-principal .rectangle-9 {
   height: 236px;
   left: 0;
@@ -204,7 +215,7 @@
   letter-spacing: 0;
   position: absolute;
   text-align: center;
-  top: 460px;
+  top: 380px;
   width: 247px;
 }
 
@@ -429,11 +440,11 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  left: 28px;
+  left: 8px;
   min-height: 179px;
   position: absolute;
   top: 63px;
-  width: 336px;
+  width: 300px;
 }
 
 .idea .parche-multiverso {
@@ -443,7 +454,7 @@
   font-size: var(--font-size-xl);
   font-weight: 500;
   letter-spacing: 0;
-  margin-left: 1.27px;
+  margin-left: 55px;
   min-height: 25px;
   min-width: 181px;
 }
@@ -460,8 +471,8 @@
   align-items: flex-end;
   align-self: center;
   display: flex;
-  margin-left: 1.29px;
-  margin-top: 3px;
+  margin-left: 10.29px;
+  margin-top: -4px;
   min-width: 122px;
 }
 
@@ -562,17 +573,18 @@
   height: 17px;
   letter-spacing: 0;
   line-height: 17.1px;
-  margin-top: 2px;
+  margin-top: 15px;
+  margin-bottom: 10px;
   text-align: center;
-  white-space: nowrap;
+  white-space: wrap;
   width: 314px;
 }
 
 .idea .overlap-group-container {
   align-items: flex-start;
   display: flex;
-  margin-left: 5.29px;
-  margin-top: 7px;
+  margin-left: 2.29px;
+  margin-top: 12px;
   min-width: 300px;
 }
 
