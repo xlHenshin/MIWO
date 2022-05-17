@@ -1,0 +1,268 @@
+/* screen - desbloquearseccion */
+
+.desbloquearseccion {
+  align-items: center;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  width: 428px;
+}
+
+.desbloquearseccion .overlap-group2 {
+  height: 536px;
+  position: relative;
+  width: 428px;
+}
+
+.desbloquearseccion .mask-group {
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.desbloquearseccion .overlap-group {
+  height: 422px;
+  left: 14px;
+  position: absolute;
+  top: 41px;
+  width: 401px;
+}
+
+.desbloquearseccion .group-1768 {
+  height: 347px;
+  left: 0;
+  position: absolute;
+  top: 43px;
+  width: 401px;
+}
+
+.desbloquearseccion .x7-1 {
+  height: 290px;
+  left: 22px;
+  position: absolute;
+  top: 132px;
+  width: 357px;
+}
+
+.desbloquearseccion .x7-2 {
+  height: 422px;
+  left: 59px;
+  position: absolute;
+  top: 0;
+  width: 157px;
+}
+
+.desbloquearseccion .title {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xxxxl2);
+  font-weight: 700;
+  left: 64px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 499px;
+}
+
+.desbloquearseccion .en-esta-seccin-podr {
+  letter-spacing: 0;
+  margin-left: 0.76px;
+  margin-top: 11px;
+  min-height: 102px;
+  transform: rotate(-0.02deg);
+  width: 301px;
+}
+
+.desbloquearseccion .group-1735 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 3.0px;
+  margin-top: 54px;
+  min-width: 259px;
+}
+
+.desbloquearseccion .overlap-group1 {
+  height: 50px;
+  position: relative;
+  width: 257px;
+}
+
+.desbloquearseccion .rectangle-7 {
+  background-color: var(--miwo10);
+  border-radius: 9px;
+  box-shadow: 0px 4px 13px transparent;
+  height: 50px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 224px;
+}
+
+.desbloquearseccion .desbloquear-seccin {
+  height: 50px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 257px;
+}
+
+.desbloquearseccion .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px transparent;
+  display: flex;
+  margin-top: 77px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.desbloquearseccion .navegador-principal-1 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px transparent;
+  display: flex;
+  overflow: hidden;
+  padding: 0 14px;
+  width: 390px;
+}
+
+.desbloquearseccion .overlap-group-1 {
+  height: 77px;
+  margin-left: 3px;
+  position: relative;
+  width: 359px;
+}
+
+.desbloquearseccion .rectangle-589 {
+  background-color: var(--miwo10);
+  border-radius: 13px;
+  box-shadow: 0px 0px 12px transparent;
+  height: 52px;
+  left: 231px;
+  position: absolute;
+  top: 12px;
+  width: 56px;
+}
+
+.desbloquearseccion .group-1624 {
+  display: flex;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 359px;
+}
+
+.desbloquearseccion .frame-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 75px;
+  margin-top: 2px;
+  width: 60px;
+}
+
+.desbloquearseccion .icon-home {
+  height: 22.6px;
+  margin-left: 19.5px;
+  margin-top: 18.5px;
+  width: 21.6px;
+}
+
+.desbloquearseccion .inicio {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 18px;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 24px;
+}
+
+.desbloquearseccion .frame-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 9px;
+  width: 68px;
+}
+
+.desbloquearseccion .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 22.5px;
+  margin-top: 19.5px;
+  width: 25.2px;
+}
+
+.desbloquearseccion .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 6px;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.desbloquearseccion .frame-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 7px;
+  transform: rotate(-180deg);
+  width: 72px;
+}
+
+.desbloquearseccion .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 19px;
+  margin-top: 30px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.desbloquearseccion .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: -37px;
+  text-align: center;
+  transform: rotate(-180deg);
+  width: 33px;
+}
+
+.desbloquearseccion .group-1620 {
+  height: 22.4px;
+  margin-left: 31.5px;
+  margin-top: 27px;
+  width: 22.4px;
+}
+
+.desbloquearseccion .frame-1619 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 75px;
+  margin-left: 30.1px;
+  margin-top: 2px;
+  padding: 17px 0;
+  width: 59px;
+}
+
+.desbloquearseccion .combined-shape {
+  height: 22px;
+  margin-right: 0.52px;
+  margin-top: 2px;
+  width: 18px;
+}
+
+.desbloquearseccion .perfil {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}

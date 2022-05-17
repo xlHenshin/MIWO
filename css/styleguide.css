@@ -627,6 +627,14 @@
   font-weight: 700;
 }
 
+.niveaugrotesk-bold-haiti-15px {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 700;
+}
+
 .niveaugrotesk-regular-normal-haiti-15px {
   color: var(--haiti);
   font-family: var(--font-family-niveau_grotesk-regular);

@@ -6,7 +6,7 @@ const line = url.split('/');
 const name = line[3];
 
 if( name === 'MIWO'){
-    const name = line[4];
+     name = line[4];
 }
 
 if (name === 'registro.html'){
