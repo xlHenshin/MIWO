@@ -627,6 +627,38 @@
   font-weight: 700;
 }
 
+.niveaugrotesk-bold-rolling-stone-12px {
+  color: var(--rolling-stone);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.niveaugrotesk-bold-smashed-pumpkin-20px {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.niveaugrotesk-bold-white-16px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.niveaugrotesk-regular-normal-haiti-12px {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
 .niveaugrotesk-bold-haiti-15px {
   color: var(--haiti);
   font-family: var(--font-family-niveau_grotesk-bold);

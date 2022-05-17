@@ -1,0 +1,205 @@
+/* screen - vidio */
+
+.vidio {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  width: 428px;
+}
+
+.vidio .overlap-group2 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6283f97aa2f9aeced90e7735/img/image-183-1@1x.png);
+  background-size: 100% 100%;
+  height: 926px;
+  position: relative;
+  width: 428px;
+}
+
+.vidio .group-1949 {
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.vidio .rectangle-654 {
+  background: linear-gradient(rgb(65.87, 27.67, 0, 0.60) 50.48%, rgba(25, 20, 16, 0.32) 70.83%, rgba(25, 20, 16, 0) 83.33%);
+  height: 196px;
+  margin-left: 0;
+  margin-top: 0;
+  width: 428px;
+}
+
+
+
+.vidio .rectangle-652 {
+  background: linear-gradient(rgb(25, 20, 16, 0.50) 49.48%, rgba(25, 20, 16, 0.32) 67.19%, rgba(25, 20, 16, 0) 82.29%);
+  height: 407px;
+  margin-top: 323.0px;
+  transform: rotate(-180deg);
+}
+
+.vidio .qu-es-el-dbito {
+  height: 26px;
+  left: 36px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 741px;
+  width: 243px;
+}
+
+.vidio .beneficios-del-dbito {
+  height: 26px;
+  left: 79px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 704px;
+  width: 243px;
+}
+
+.vidio .group-1872 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6283f81855def2e7a7a84b62/img/image-197-1@2x.png);
+  background-size: 100% 100%;
+  height: 31px;
+  left: 38px;
+  position: absolute;
+  top: 702px;
+  width: 31px;
+}
+
+.vidio .rectangle-653 {
+  background-color: #7c797980;
+  border-radius: 3px;
+  height: 16px;
+  left: 46px;
+  position: absolute;
+  top: 802px;
+  width: 140px;
+}
+
+.vidio .todo-lo-que-necesita {
+  height: 37px;
+  left: 36px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 774px;
+  width: 293px;
+}
+
+.vidio .span1 {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+}
+
+.vidio .group-1869 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 279px;
+  min-height: 61px;
+  position: absolute;
+  top: 68px;
+  width: 111px;
+}
+
+.vidio .group-1580 {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  border-radius: 4px;
+  display: flex;
+  height: 27px;
+  justify-content: flex-end;
+  min-width: 111px;
+  padding: 0.3px 5.7px;
+}
+
+.vidio .icon-eye {
+  align-self: center;
+  height: 15px;
+  margin-bottom: 1.45px;
+  width: 19px;
+}
+
+.vidio .group-1577 {
+  display: flex;
+  margin-left: 7px;
+  width: 71px;
+}
+
+.video{
+  object-fit: cover;
+}
+
+.vidio .x13-videos {
+  height: 26px;
+  letter-spacing: 0;
+  width: 68.98px;
+}
+
+.vidio .overlap-group1 {
+  border-radius: 4px;
+  height: 27px;
+  margin-right: 0;
+  margin-top: 8px;
+  position: relative;
+  width: 89px;
+}
+
+.vidio .overlap-group {
+  align-items: flex-end;
+  background-color: var(--mist-gray);
+  border-radius: 4px;
+  display: flex;
+  height: 27px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 89px;
+  padding: 0 8.1px;
+  position: absolute;
+  top: 0;
+}
+
+.vidio .text-1 {
+  height: 27px;
+  letter-spacing: 0;
+  margin-bottom: -0.18px;
+  width: 40px;
+}
+
+.vidio .vector {
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 5px;
+  width: 16px;
+}
+
+.vidio .group-1689 {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  left: 38px;
+  min-width: 157px;
+  position: absolute;
+  top: 64px;
+}
+
+.vidio .vector-1 {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.vidio .aprende-con-miwo {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 125px;
+}
