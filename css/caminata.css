@@ -1,0 +1,1199 @@
+/* screen - caminata */
+
+.caminata {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  height: 926px;
+  width: 428px;
+}
+
+.caminata .overlap-group17 {
+  height: 907px;
+  position: relative;
+  width: 428px;
+}
+
+.caminata .scroll::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.caminata .scroll {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 880px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.caminata .overlap-group14 {
+  height: 849px;
+  position: relative;
+  width: 428px;
+}
+
+.caminata .fondo {
+  height: 811px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.caminata .rectangle-9 {
+  height: 320px;
+  left: 37px;
+  position: absolute;
+  top: 432px;
+  width: 352px;
+}
+
+.caminata .caminata-ecolgica {
+  left: 67px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 126px;
+}
+
+.caminata .fecha-lmite-de-entr {
+  left: 37px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 385px;
+  width: 352px;
+}
+
+.caminata .span1 {
+  color: var(--rolling-stone);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-m2);
+  font-weight: 700;
+}
+
+.caminata .overlap-group2 {
+  height: 97px;
+  left: 320px;
+  position: absolute;
+  top: 27px;
+  width: 95px;
+}
+
+.caminata .ellipse-164 {
+  background-color: var(--governor-bay);
+  border-radius: 31.75px/32.49px;
+  height: 65px;
+  left: 16px;
+  position: absolute;
+  top: 13px;
+  width: 63px;
+}
+
+.caminata .overlap-group1 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.caminata .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62717421b69d2fcf4c28629b/img/ellipse-164@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 97px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 95px;
+  padding: 37.6px 39.1px;
+  position: absolute;
+  top: 0;
+}
+
+.caminata .ufilter {
+  height: 16px;
+  width: 16px;
+}
+
+.caminata .vector {
+  height: 17px;
+  left: 39px;
+  position: absolute;
+  top: 36px;
+  width: 17px;
+}
+
+.caminata .overlap-group4 {
+  height: 227px;
+  left: 22px;
+  position: absolute;
+  top: 159px;
+  width: 383px;
+}
+
+.caminata .group-container {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac2b53fd984154cadcba4/img/group-1782@2x.png);
+  background-size: 100% 100%;
+  height: 227px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 383px;
+}
+
+.caminata .mask-group-2 {
+  height: 31px;
+  left: 271px;
+  position: absolute;
+  top: 13px;
+  width: 97px;
+}
+
+.caminata .group-1680 {
+  display: flex;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 30px;
+  width: 355px;
+}
+
+.caminata .alcance-del-parche {
+  height: 16.36px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 353px;
+  z-index: 1;
+}
+
+.caminata .group-1724 {
+  align-items: flex-start;
+  display: flex;
+  height: 101px;
+  left: 46px;
+  min-width: 299px;
+  position: absolute;
+  top: 83px;
+}
+
+.caminata .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 101px;
+  width: 137px;
+}
+
+.caminata .overlap-group {
+  border-radius: 4px;
+  height: 47px;
+  position: relative;
+  width: 137px;
+}
+
+.caminata .price-1 {
+  height: 15px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 20.2px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.caminata .meta {
+  height: 16px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.caminata .rectangle {
+  border-radius: 4px;
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.caminata .rectangle-60 {
+  background-color: var(--purple-heart);
+  border-radius: 6px;
+  height: 34px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 34px;
+}
+
+.caminata .mask-group {
+  height: 21px;
+  left: 14px;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}
+
+.caminata .overlap-group-1 {
+  border-radius: 4px;
+  height: 47px;
+  margin-top: 7px;
+  position: relative;
+  width: 137px;
+}
+
+.caminata .price {
+  height: 17px;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 20.2px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.caminata .recaudado {
+  height: 18px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.caminata .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 9px;
+  min-height: 101px;
+  width: 137px;
+}
+
+.caminata .address {
+  height: 15px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 20.2px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.caminata .faltan {
+  height: 16px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.caminata .ficlock {
+  height: 18px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 18px;
+}
+
+.caminata .cuota {
+  height: 18px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.caminata .mask-group-3 {
+  height: 21px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}
+
+.caminata .rectangle-620 {
+  background-color: var(--blue);
+  border-radius: 10px 10px 0px 0px;
+  box-shadow: 0px 4px 4px #0000000d;
+  height: 47px;
+  left: 15px;
+  position: absolute;
+  top: 15px;
+  width: 353px;
+}
+
+.caminata .mask-group-4 {
+  height: 171px;
+  left: 58px;
+  position: absolute;
+  top: 454px;
+  width: 98px;
+}
+
+.caminata .creado-el-02042022 {
+  color: #928b88;
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-m2);
+  font-weight: 500;
+  left: 173px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 453px;
+  width: 110px;
+}
+
+.caminata .hasta-el-17092022 {
+  left: 288px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 453px;
+  width: 95px;
+}
+
+.caminata .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--purple-heart);
+  border-radius: 6px 0px 0px 6px;
+  display: flex;
+  height: 29px;
+  left: 173px;
+  min-width: 115px;
+  padding: 0 1.1px;
+  position: absolute;
+  top: 502px;
+}
+
+.caminata .pago-mensual {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  height: 29px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 108px;
+}
+
+.caminata .overlap-group7 {
+  height: 29px;
+  left: 271px;
+  position: absolute;
+  top: 502px;
+  width: 97px;
+}
+
+.caminata .rectangle-596 {
+  border-radius: 6px;
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.caminata .cada-15 {
+  height: 29px;
+  left: 5px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 91px;
+}
+
+.caminata .overlap-group8 {
+  height: 32px;
+  left: 174px;
+  position: absolute;
+  top: 546px;
+  width: 190px;
+}
+
+.caminata .group-1371 {
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 73px;
+}
+
+.caminata .group-1854 {
+  height: 31px;
+  left: 79px;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.caminata .mask-group-5 {
+  height: 17px;
+  left: 11px;
+  position: absolute;
+  top: 7px;
+  width: 16px;
+}
+
+.caminata .group-1397 {
+  display: flex;
+  height: 15px;
+  left: 32px;
+  position: absolute;
+  top: 8px;
+  width: 65px;
+}
+
+.caminata .icesi {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 17.5px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.caminata .group-1855 {
+  display: flex;
+  height: 15px;
+  left: 113px;
+  position: absolute;
+  top: 8px;
+  width: 73px;
+}
+
+.caminata .text-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 17.5px;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.caminata .ficlock-1 {
+  height: 16px;
+  left: 91px;
+  position: absolute;
+  top: 7px;
+  width: 16px;
+}
+
+.caminata .group-1573 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 174px;
+  min-width: 87px;
+  position: absolute;
+  top: 594px;
+  transform: rotate(-180deg);
+}
+
+.caminata .group-container-1 {
+  height: 33px;
+  position: relative;
+  width: 87px;
+}
+
+.caminata .group-1569 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 53px;
+  min-width: 34px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+}
+
+.caminata .overlap-group-2 {
+  border-radius: 16.86px/16.53px;
+  height: 33px;
+  position: relative;
+  width: 34px;
+}
+
+.caminata .ellipse-173 {
+  background-color: var(--blue);
+  border-radius: 16.86px/16.53px;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+  width: 34px;
+}
+
+.caminata .mask-group-6 {
+  height: 30px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.caminata .group-1570 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 40px;
+  min-width: 34px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+}
+
+.caminata .mask-group-1 {
+  height: 30px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.caminata .group-1571 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 23px;
+  min-width: 34px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+}
+
+.caminata .group-1572 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 34px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+}
+
+.caminata .address-1 {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: 11.4px;
+  font-weight: 500;
+  height: 19px;
+  left: 270px;
+  letter-spacing: 0;
+  line-height: 15.4px;
+  position: absolute;
+  top: 602px;
+  width: 94px;
+}
+
+.caminata .descripcin {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-l2);
+  font-weight: 700;
+  left: 58px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 650px;
+  width: 229px;
+}
+
+.caminata .animat-con-nosotros {
+  left: 58px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 677px;
+  width: 312px;
+}
+
+.caminata .group-1734 {
+  display: flex;
+  height: 68px;
+  left: 37px;
+  position: absolute;
+  top: 781px;
+  width: 353px;
+}
+
+.caminata .single-tab {
+  align-items: flex-start;
+  background-color: var(--purple-heart);
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px #0038ff1a;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 22px 20.0px;
+  width: 353px;
+}
+
+.caminata .group-1326 {
+  display: flex;
+  margin-left: 13px;
+  width: 244px;
+}
+
+.caminata .nete-a-este-parche {
+  height: 23px;
+  letter-spacing: 0;
+  width: 242px;
+}
+
+.caminata .vector-1 {
+  align-self: center;
+  height: 10px;
+  margin-bottom: 0;
+  margin-left: 49px;
+  width: 7px;
+}
+
+.caminata .volver-a-parches {
+  align-items: flex-start;
+  display: flex;
+  height: 52px;
+  left: 38px;
+  min-width: 137px;
+  padding: 14.6px 0;
+  position: absolute;
+  top: 64px;
+}
+
+.caminata .vector-2 {
+  height: 23px;
+  width: 13px;
+}
+
+.caminata .volver-a-parches-1 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-bottom: 1.58px;
+  margin-left: 17px;
+  min-height: 17px;
+  min-width: 107px;
+}
+
+.caminata .group-1847 {
+  align-self: flex-start;
+  display: flex;
+  margin-left: 39px;
+  margin-top: 30px;
+  width: 202px;
+}
+
+.caminata .amiwos-del-parche {
+  height: 28px;
+  letter-spacing: 0;
+  width: 200px;
+}
+
+.caminata .overlap-group13 {
+  height: 70px;
+  margin-right: 2.0px;
+  margin-top: 12px;
+  position: relative;
+  width: 360px;
+}
+
+.caminata .overlap-group10 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac2b53fd984154cadcba4/img/rectangle-377@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 70px;
+  left: 0;
+  min-width: 360px;
+  padding: 16.7px 98.3px;
+  position: absolute;
+  top: 0;
+}
+
+.caminata .salom-marn {
+  height: 13px;
+  letter-spacing: 0;
+  width: 124px;
+}
+
+.caminata .fistar {
+  height: 19px;
+  left: 98px;
+  position: absolute;
+  top: 34px;
+  width: 19px;
+}
+
+.caminata .fistar-1 {
+  height: 19px;
+  left: 126px;
+  position: absolute;
+  top: 34px;
+  width: 18px;
+}
+
+.caminata .fistar-2 {
+  height: 19px;
+  left: 153px;
+  position: absolute;
+  top: 34px;
+  width: 19px;
+}
+
+.caminata .fistar-3 {
+  height: 19px;
+  left: 180px;
+  position: absolute;
+  top: 34px;
+  width: 19px;
+}
+
+.caminata .fistar-4 {
+  height: 19px;
+  left: 207px;
+  position: absolute;
+  top: 34px;
+  width: 19px;
+}
+
+.caminata .group-1215 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac2b53fd984154cadcba4/img/mask-group-50@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 43px;
+  left: 32px;
+  position: absolute;
+  top: 14px;
+  width: 43px;
+}
+
+.caminata .ellipse-160 {
+  border-radius: 21.36px;
+  flex: 1;
+  width: 42.71px;
+}
+
+.caminata .rectangle-387 {
+  background-color: var(--miwo10);
+  border-radius: 0px 10px 0px 10px;
+  height: 22px;
+  left: 253px;
+  position: absolute;
+  top: 4px;
+  width: 103px;
+}
+
+.caminata .group-755 {
+  display: flex;
+  height: 7px;
+  left: 253px;
+  position: absolute;
+  top: 11px;
+  width: 105px;
+}
+
+.caminata .admin {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  text-align: center;
+  white-space: nowrap;
+  width: 102.67px;
+}
+
+.caminata .overlap-group15 {
+  height: 68px;
+  margin-right: 2.0px;
+  margin-top: 4px;
+  position: relative;
+  width: 360px;
+}
+
+.caminata .overlap-group11 {
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.caminata .rectangle-377 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 344px;
+}
+
+.caminata .rectangle-378 {
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.caminata .name {
+  left: 94px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 16px;
+  width: 118px;
+}
+
+.caminata .fistar-5 {
+  height: 16px;
+  left: 94px;
+  position: absolute;
+  top: 36px;
+  width: 16px;
+}
+
+.caminata .fistar-6 {
+  height: 16px;
+  left: 117px;
+  position: absolute;
+  top: 36px;
+  width: 16px;
+}
+
+.caminata .fistar-7 {
+  height: 16px;
+  left: 140px;
+  position: absolute;
+  top: 36px;
+  width: 16px;
+}
+
+.caminata .fistar-8 {
+  height: 16px;
+  left: 163px;
+  position: absolute;
+  top: 36px;
+  width: 16px;
+}
+
+.caminata .fistar-9 {
+  height: 16px;
+  left: 186px;
+  position: absolute;
+  top: 36px;
+  width: 16px;
+}
+
+.caminata .group-1214 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac2b53fd984154cadcba4/img/mask-group-51@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 43px;
+  left: 32px;
+  position: absolute;
+  top: 12px;
+  width: 43px;
+}
+
+.caminata .ellipse-161 {
+  border-radius: 21.5px;
+  flex: 1;
+  width: 43px;
+}
+
+.caminata .overlap-group16 {
+  height: 71px;
+  margin-right: 2.0px;
+  margin-top: 4px;
+  position: relative;
+  width: 360px;
+}
+
+.caminata .overlap-group12 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac2b53fd984154cadcba4/img/rectangle-377-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 71px;
+  left: 0;
+  min-width: 360px;
+  padding: 16.6px 98.3px;
+  position: absolute;
+  top: 0;
+}
+
+.caminata .name-1 {
+  letter-spacing: 0;
+  min-height: 16px;
+  width: 124px;
+}
+
+.caminata .fistar-10 {
+  height: 17px;
+  left: 98px;
+  position: absolute;
+  top: 37px;
+  width: 17px;
+}
+
+.caminata .fistar-11 {
+  height: 17px;
+  left: 122px;
+  position: absolute;
+  top: 37px;
+  width: 17px;
+}
+
+.caminata .fistar-12 {
+  height: 17px;
+  left: 146px;
+  position: absolute;
+  top: 37px;
+  width: 17px;
+}
+
+.caminata .fistar-13 {
+  height: 17px;
+  left: 170px;
+  position: absolute;
+  top: 37px;
+  width: 18px;
+}
+
+.caminata .fistar-14 {
+  height: 17px;
+  left: 195px;
+  position: absolute;
+  top: 37px;
+  width: 17px;
+}
+
+.caminata .group-1213 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac2b53fd984154cadcba4/img/mask-group-52@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 43px;
+  left: 32px;
+  position: absolute;
+  top: 14px;
+  width: 43px;
+}
+
+.caminata .ellipse-162 {
+  border-radius: 21.5px;
+  flex: 1;
+  width: 43px;
+}
+
+.caminata .vector-479 {
+  height: 1px;
+  margin-right: 1.3px;
+  margin-top: 76px;
+  width: 204px;
+}
+
+.caminata .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  height: 77px;
+  left: 19px;
+  overflow: hidden;
+  position: absolute;
+  top: 830px;
+  width: 390px;
+}
+
+.caminata .navegador-principal-1 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  overflow: hidden;
+  padding: 0 17px;
+  width: 390px;
+}
+
+.caminata .overlap-group-4 {
+  height: 77px;
+  margin-left: 4px;
+  position: relative;
+  width: 352px;
+}
+
+.caminata .group-1624 {
+  display: flex;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.caminata .frame-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-top: 1px;
+  width: 52px;
+}
+
+.caminata .iconly-light-outline-home {
+  height: 22.6px;
+  margin-left: 15.5px;
+  margin-top: 19.5px;
+  width: 21.6px;
+}
+
+.caminata .inicio {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 24px;
+}
+
+.caminata .frame-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 10px;
+  width: 74px;
+}
+
+.caminata .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 25.5px;
+  margin-top: 19.5px;
+  width: 25.2px;
+}
+
+.caminata .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 9px;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.caminata .group-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  margin-left: 26px;
+  margin-top: 21px;
+  width: 35px;
+}
+
+.caminata .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 1px;
+  width: 30px;
+}
+
+.caminata .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-top: 6px;
+  text-align: center;
+  width: 33px;
+}
+
+.caminata .frame-1620 {
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-left: 25px;
+  margin-top: 1px;
+  width: 67px;
+}
+
+.caminata .iconly-light-outline-play {
+  height: 22.4px;
+  margin-left: 21.5px;
+  margin-top: 19.5px;
+  width: 22.4px;
+}
+
+.caminata .aprende {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 6.1px;
+  text-align: center;
+  width: 39px;
+}
+
+.caminata .frame-1619 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-left: 10px;
+  margin-top: 1px;
+  padding: 17px 0;
+  width: 53px;
+}
+
+.caminata .combined-shape {
+  height: 22px;
+  margin-right: 0.52px;
+  margin-top: 3px;
+  width: 18px;
+}
+
+.caminata .perfil {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
+
+.caminata .rectangle-589 {
+  background-color: var(--miwo10);
+  border-radius: 13px;
+  box-shadow: 0px 0px 12px #ff855f;
+  height: 52px;
+  left: 151px;
+  position: absolute;
+  top: 13px;
+  width: 56px;
+}
+
+.caminata .iconly-light-outline3-user-1 {
+  height: 22px;
+  left: 164px;
+  position: absolute;
+  top: 28px;
+  width: 30px;
+}

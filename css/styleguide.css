@@ -32,6 +32,8 @@
 }
 
 :root {
+  --rolling-stone-2: #7379824c;
+
   --black: 
   rgba(0, 0, 0, 1);
     --haiti: 
@@ -50,6 +52,8 @@
   rgba(187, 187, 187, 1);
     --silver: 
   rgba(189, 190, 190, 1);
+  --slimy-green: #2dae17;
+
     --red: 
   rgba(229, 0, 0, 1);
     --rob-roy-2: 
@@ -97,6 +101,129 @@
   --font-family-niveau_grotesk-regular: "Niveau Grotesk-Regular";
   --font-family-poppins: "Poppins";
   --font-family-nunito: "Nunito", Helvetica;
+}
+
+.niveaugrotesk-medium-white-15px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-1px-shady-lady {
+  border: 1px solid var(--shady-lady);
+}
+
+.niveaugrotesk-regular-normal-red-15px {
+  color: var(--red);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-light-red-15px {
+  color: var(--red);
+  font-family: var(--font-family-niveau_grotesk-light);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.niveaugrotesk-bold-red-15px {
+  color: var(--red);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-2px-smashed-pumpkin {
+  border: 2px solid var(--miwo10);
+}
+
+.niveaugrotesk-medium-purple-heart-18px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-1px-rolling-stone-2 {
+  border: 1px solid var(--rolling-stone-2);
+}
+
+.niveaugrotesk-medium-shark-13px {
+  color: var(--shark-22);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.niveaugrotesk-regular-normal-shark-12px {
+  color: var(--shark-22);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-regular-normal-rolling-stone-12px {
+  color: var(--rolling-stone);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-light-white-14px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-light);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.niveaugrotesk-regular-normal-shark-15px2 {
+  color: var(--shark);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-medium-white-20px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.niveaugrotesk-regular-normal-shark-15px3{
+  color: var(--shark-2);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-regular-normal-rolling-stone-15px {
+  color: var(--rolling-stone);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-bold-white-15px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 700;
 }
 
 .niveaugrotesk-regular-normal-shady-lady-10-6px {
