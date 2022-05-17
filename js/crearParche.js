@@ -61,7 +61,7 @@ crearParcheBtn.addEventListener('click', (e) => {
             fecha : fecha.value
         }
 
-        parches.setItem(usuario.celular, JSON.stringify(parche));
+        parches.setItem(usuario.celular+'p', JSON.stringify(parche));
         window.location.href = "./parches-principal.html"
     }
 

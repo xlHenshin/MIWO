@@ -5,7 +5,7 @@ const contenido = document.getElementById("contenido");
 const eliminado = document.getElementById("eliminar")
 
 const usuarioActual = window.localStorage.getItem('numeroCel');
-const parche = JSON.parse(parches.getItem(usuarioActual));
+const parche = JSON.parse(parches.getItem(usuarioActual+'p'));
 
 console.log(parche)
 
