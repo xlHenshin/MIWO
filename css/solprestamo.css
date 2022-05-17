@@ -1,0 +1,612 @@
+/* screen - solprestamo */
+
+.solprestamo {
+  background-color: var(--blue);
+  display: flex;
+  height: 100vh;
+  min-height: 926px;
+  min-width: 428px;
+}
+
+.solprestamo .scroll {
+  display: flex;
+  flex-direction: column;
+  height: 834px;
+  margin-top: 46px;
+  width: 428px;
+  z-index: 1;
+}
+
+.solprestamo .group-1689 {
+  align-items: flex-start;
+  display: flex;
+  height: 22.71px;
+  margin-left: 38px;
+  margin-top: 14px;
+  min-width: 181px;
+}
+
+.solprestamo .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.solprestamo .volver-a-mis-prstamos {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 149px;
+}
+
+.solprestamo .prstamos::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.solprestamo .prstamos {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 725px;
+  margin-left: 37px;
+  margin-top: 22.3px;
+  overflow: hidden;
+  overflow-y: scroll;
+  width: 354px;
+}
+
+.solprestamo .group-1836 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.5px;
+  margin-top: 10px;
+  min-height: 147px;
+  padding: 0 0.0px;
+  width: 339px;
+}
+
+.solprestamo .solicitar-un-prstamo {
+  letter-spacing: 0;
+  min-height: 28px;
+}
+
+.solprestamo .aqu-podrs-solicita {
+  letter-spacing: 0;
+  margin-left: 0;
+  margin-top: 16px;
+  min-height: 51px;
+  width: 333px;
+}
+
+.solprestamo .pero-si-tu-historial {
+  letter-spacing: 0;
+  margin-left: 0.42px;
+  margin-top: 18px;
+  min-height: 34px;
+  width: 284px;
+}
+
+.solprestamo .group-1833 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.5px;
+  margin-top: 39px;
+  min-height: 75px;
+  width: 353px;
+}
+
+.solprestamo .cmo-quieres-que-sea-tu-prstamo {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  min-height: 21px;
+  width: 351px;
+}
+
+.solprestamo .parche-type {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 9.0px;
+  margin-top: 19px;
+  min-width: 318px;
+}
+
+.solprestamo .group-1736 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 156px;
+}
+
+.solprestamo .overlap-group {
+  align-items: flex-start;
+  border-radius: 9px;
+  display: flex;
+  min-width: 154px;
+  padding: 0 12px;
+}
+
+.solprestamo .slo-para-m {
+  height: 35px;
+  letter-spacing: 0;
+  margin-top: -2px;
+  text-align: center;
+  width: 127px;
+}
+
+.solprestamo .group-1738 {
+  align-items: flex-start;
+  box-shadow: 0px 4px 13px transparent;
+  display: flex;
+  margin-left: 8px;
+  min-width: 156px;
+}
+
+.solprestamo .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--miwo10);
+  border-radius: 9px;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 154px;
+  padding: 0 13px;
+}
+
+.solprestamo .para-tu-parche {
+  height: 35px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 127px;
+}
+
+.solprestamo .group-1834 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0.5px;
+  margin-top: 23px;
+  min-height: 565px;
+  width: 362px;
+}
+
+.solprestamo .qu-parche-necesita-el-prstamo {
+  letter-spacing: 0;
+  min-height: 21px;
+  width: 321px;
+}
+
+.solprestamo .overlap-group3 {
+  height: 129px;
+  margin-left: 1px;
+  margin-top: 23px;
+  position: relative;
+  width: 351px;
+}
+
+.solprestamo .group-1790 {
+  align-items: flex-start;
+  display: flex;
+  height: 34px;
+  left: 29px;
+  min-width: 294px;
+  position: absolute;
+  top: 89px;
+}
+
+.solprestamo .group-1147 {
+  background-color: var(--red);
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62834fc4157a1292a1bcd67c/img/u-info-circle@2x.png);
+  background-size: 100% 100%;
+  border-radius: 3px;
+  height: 19px;
+  margin-top: -0.25px;
+  width: 19px;
+}
+
+.solprestamo .slo-puedes-pedir-un {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 20px;
+  margin-top: 0;
+  min-height: 34px;
+  width: 253px;
+}
+
+.solprestamo .parche-list {
+  display: flex;
+  height: auto;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 351px;
+}
+
+.solprestamo .single-tab {
+  align-items: center;
+  background-color: var(--blue);
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px transparent;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  height: 60px;
+  width: 351px;
+}
+
+.solprestamo .single-tab-1 {
+  align-items: center;
+  box-shadow: -1px 1px 10px transparent;
+  display: flex;
+  height: 18px;
+  margin-left: 36px;
+  min-width: 275.1px;
+}
+
+.solprestamo .icon-and-text {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+}
+
+.solprestamo .text {
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.solprestamo .trailing-icon {
+  height: 8px;
+  margin-left: 166px;
+  margin-top: 0.5px;
+  width: 15px;
+}
+
+.solprestamo .cunto-dinero-necesitas {
+  letter-spacing: 0;
+  margin-left: 1.5px;
+  margin-top: 23px;
+  min-height: 21px;
+  width: 321px;
+}
+
+.solprestamo .group-1734 {
+  display: flex;
+  height: 58px;
+  margin-left: 1.5px;
+  margin-top: 16px;
+  width: 353px;
+}
+
+.solprestamo .single-tab-2 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px transparent;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 0 21px;
+  width: 353px;
+}
+
+.solprestamo .input-container {
+  height: 58px;
+  margin-top: -0.2px;
+  position: relative;
+  width: 248px;
+}
+
+.solprestamo .input {
+  background-color: transparent;
+  border: 0;
+  height: 58px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.solprestamo .input::placeholder {
+  color: #73798299;
+}
+
+.solprestamo .input-1 {
+  background-color: transparent;
+  border: 0;
+  height: 58px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.solprestamo .input-1::placeholder {
+  color: #f96b3999;
+}
+
+.solprestamo .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 34px;
+  margin-right: 20.38px;
+  margin-top: 16px;
+  min-width: 299px;
+}
+
+.solprestamo .group-1147-1 {
+  background-color: var(--red);
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62834fc4157a1292a1bcd67c/img/u-info-circle-1@2x.png);
+  background-size: 100% 100%;
+  border-radius: 3px;
+  height: 19px;
+  width: 19px;
+}
+
+.solprestamo .ten-en-cuenta-que-de {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 34px;
+  min-height: 34px;
+  width: 247px;
+}
+
+.solprestamo .nmero-de-cuotas {
+  letter-spacing: 0;
+  margin-left: 1.5px;
+  margin-top: 19px;
+  min-height: 21px;
+  width: 321px;
+}
+
+.solprestamo .num-carousel {
+  align-items: flex-end;
+  background-color: var(--purple-heart);
+  border-radius: 10px;
+  display: flex;
+  height: 63px;
+  margin-left: 1.5px;
+  margin-top: 17px;
+  overflow: hidden;
+  padding: 7.8px 0;
+  width: 353px;
+}
+
+.solprestamo .overlap-group2 {
+  height: 46px;
+  margin-left: 153px;
+  position: relative;
+  width: 517px;
+}
+
+.solprestamo .ellipse-200 {
+  background-color: var(--blue);
+  border-radius: 23px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.solprestamo .frame-1833 {
+  align-items: flex-start;
+  display: flex;
+  gap: 19px;
+  left: 6px;
+  position: absolute;
+  top: 14px;
+  width: 511px;
+}
+
+.solprestamo .number-1 {
+  color: var(--black);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: center;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.solprestamo .number {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: center;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.solprestamo .overlap-group1-1 {
+  align-self: center;
+  height: 41px;
+  margin-right: 6.88px;
+  margin-top: 63px;
+  position: relative;
+  width: 155px;
+}
+
+.solprestamo .rectangle-7 {
+  border-radius: 9px;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 155px;
+}
+
+.solprestamo .solicitar {
+  color: var(--shady-lady);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-m2);
+  font-weight: 500;
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 154px;
+}
+
+.solprestamo .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px transparent;
+  display: flex;
+  height: 77px;
+  left: 19px;
+  overflow: hidden;
+  position: fixed;
+  top: 830px;
+  width: 390px;
+  z-index: 2;
+}
+
+.solprestamo .navegador-principal-1 {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px transparent;
+  display: flex;
+  overflow: hidden;
+  width: 390px;
+}
+
+.solprestamo .group-1880 {
+  display: flex;
+  margin-left: 20px;
+  width: 356px;
+}
+
+.solprestamo .frame-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  width: 55px;
+}
+
+.solprestamo .icon-home {
+  height: 22.6px;
+  margin-left: 16.5px;
+  margin-top: 20.5px;
+  width: 21.6px;
+}
+
+.solprestamo .place {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 27px;
+}
+
+.solprestamo .frame-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 6px;
+  width: 78px;
+}
+
+.solprestamo .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 27.5px;
+  margin-top: 19.5px;
+  width: 25.2px;
+}
+
+.solprestamo .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 11px;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.solprestamo .frame-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 10px;
+  width: 61px;
+}
+
+.solprestamo .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 15px;
+  margin-top: 21px;
+  width: 30px;
+}
+
+.solprestamo .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 6px;
+  text-align: center;
+  width: 33px;
+}
+
+.solprestamo .frame-1620 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 15px;
+  width: 63px;
+}
+
+.solprestamo .icon-play {
+  height: 22.4px;
+  margin-left: 19.5px;
+  margin-top: 20.5px;
+  width: 22.4px;
+}
+
+.solprestamo .aprende {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: 6.1px;
+  text-align: center;
+  width: 39px;
+}
+
+.solprestamo .frame-1624 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 9px;
+  padding: 17px 0;
+  width: 59px;
+}
+
+.solprestamo .combined-shape {
+  height: 22px;
+  margin-right: 0.52px;
+  margin-top: 4px;
+  width: 18px;
+}
+
+.solprestamo .perfil {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
