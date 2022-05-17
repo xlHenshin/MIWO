@@ -6,6 +6,7 @@
   height: 100vh;
   min-height: 926px;
   min-width: 428px;
+  position: relative;
 }
 
 .solprestamo .scroll {
@@ -401,11 +402,12 @@
 .solprestamo .frame-1833 {
   align-items: flex-start;
   display: flex;
-  gap: 19px;
+  overflow: hidden;
+  overflow-x: scroll;
   left: 6px;
   position: absolute;
   top: 14px;
-  width: 511px;
+  width: 201px;
 }
 
 .solprestamo .number-1 {
@@ -414,6 +416,8 @@
   font-size: var(--font-size-xl);
   font-weight: 500;
   height: 20px;
+  margin-right: 25px;
+  margin-left: 14px;
   letter-spacing: 0;
   line-height: 18px;
   text-align: center;
@@ -421,9 +425,17 @@
   width: 34px;
 }
 
+.morespace {
+  padding-right: 170px;
+}
+
 .solprestamo .number {
+  color: var(--black);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl);
   height: 20px;
   letter-spacing: 0;
+  margin-right: 25px;
   line-height: 18px;
   text-align: center;
   white-space: nowrap;
@@ -468,10 +480,10 @@
   box-shadow: 0px 0px 40px transparent;
   display: flex;
   height: 77px;
-  left: 19px;
+  left: 320px;
   overflow: hidden;
   position: fixed;
-  top: 830px;
+  bottom: 20px;
   width: 390px;
   z-index: 2;
 }

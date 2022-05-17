@@ -1,0 +1,359 @@
+/* screen - simuladoprest */
+
+.simuladoprest {
+  align-items: center;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  padding: 19px 0;
+  width: 428px;
+}
+
+.simuladoprest .group-1689 {
+  align-items: flex-start;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 38px;
+  margin-top: 41px;
+  min-width: 126px;
+}
+
+.simuladoprest .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.simuladoprest .mis-prstamos {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 94px;
+}
+
+.simuladoprest .proyecta-tu-prstamo {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 38px;
+  margin-top: 49px;
+  min-height: 28px;
+}
+
+.simuladoprest .calcula-el-valor-de {
+  letter-spacing: 0;
+  margin-right: 0.83px;
+  margin-top: 16px;
+  min-height: 34px;
+  transform: rotate(-0.03deg);
+  width: 351px;
+}
+
+.simuladoprest .overlap-group3 {
+  height: 180px;
+  margin-left: 3.0px;
+  margin-top: 26px;
+  position: relative;
+  width: 355px;
+}
+
+.simuladoprest .overlap-group2 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62836a582ceb42186d160e30/img/group-1692@2x.png);
+  background-size: 100% 100%;
+  height: 210px;
+  left: -15px;
+  position: absolute;
+  top: -15px;
+  width: 383px;
+}
+
+.simuladoprest .rectangle-620 {
+  background-color: var(--blue);
+  border-radius: 10px 10px 0px 0px;
+  box-shadow: 0px 4px 4px transparent;
+  height: 55px;
+  left: 15px;
+  position: absolute;
+  top: 15px;
+  width: 353px;
+}
+
+.simuladoprest .overlap-group {
+  height: 55px;
+  left: 55px;
+  position: absolute;
+  top: 15px;
+  width: 140px;
+}
+
+.simuladoprest .mask-group {
+  height: 44px;
+  left: 101px;
+  position: absolute;
+  top: 2px;
+  width: 39px;
+}
+
+.simuladoprest .por-un-prstamo-de {
+  height: 55px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.simuladoprest .text-1 {
+  height: 55px;
+  left: 258px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 15px;
+  width: 87px;
+}
+
+.simuladoprest .con-la-seleccin-de {
+  left: 40px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 68px;
+  transform: rotate(-0.03deg);
+  width: 273px;
+}
+
+.simuladoprest .price {
+  left: 39px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+  transform: rotate(-0.03deg);
+  width: 98px;
+}
+
+.simuladoprest .text-2 {
+  left: 227px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+  transform: rotate(-0.03deg);
+  width: 55px;
+}
+
+.simuladoprest .tmv {
+  left: 201px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+  transform: rotate(-0.03deg);
+  width: 37px;
+}
+
+.simuladoprest .tasa-fija-y-cuota-fija {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xs2);
+  font-weight: 400;
+  left: 192px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  transform: rotate(-0.03deg);
+  width: 120px;
+}
+
+.simuladoprest .vector-10 {
+  height: 26px;
+  left: 175px;
+  position: absolute;
+  top: 118px;
+  width: 2px;
+}
+
+.simuladoprest .group-1798 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 54px;
+  min-width: 330px;
+}
+
+.simuladoprest .group-1403 {
+  align-items: flex-start;
+  box-shadow: 0px 4px 13px transparent;
+  display: flex;
+  min-width: 157px;
+}
+
+.simuladoprest .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--miwo10);
+  border-radius: 9px;
+  display: flex;
+  min-width: 155px;
+}
+
+.simuladoprest .solicitar-prstamo {
+  height: 40px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 154px;
+}
+
+.simuladoprest .group-1736 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 19px;
+  min-width: 156px;
+}
+
+.simuladoprest .overlap-group1 {
+  align-items: flex-start;
+  border-radius: 9px;
+  display: flex;
+  min-width: 154px;
+  padding: 0 12px;
+}
+
+.simuladoprest .volver-a-simular {
+  height: 40px;
+  letter-spacing: 0;
+  margin-top: -2px;
+  text-align: center;
+  width: 127px;
+}
+
+.simuladoprest .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px transparent;
+  display: flex;
+  height: 77px;
+  margin-top: 320px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.simuladoprest .group-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  margin-left: 34px;
+  margin-top: 21px;
+  width: 29px;
+}
+
+.simuladoprest .iconly-light-outline-home {
+  height: 22.6px;
+  margin-left: 2.5px;
+  margin-top: -0.5px;
+  width: 21.6px;
+}
+
+.simuladoprest .place {
+  height: 12px;
+  letter-spacing: 0;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 27px;
+}
+
+.simuladoprest .group-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 41px;
+  margin-left: 29px;
+  margin-top: 20px;
+  width: 58px;
+}
+
+.simuladoprest .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 16.5px;
+  margin-top: -0.5px;
+  width: 25.2px;
+}
+
+.simuladoprest .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.simuladoprest .group-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  margin-left: 33px;
+  margin-top: 21px;
+  width: 35px;
+}
+
+.simuladoprest .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 1px;
+  width: 30px;
+}
+
+.simuladoprest .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-top: 6px;
+  text-align: center;
+  width: 33px;
+}
+
+.simuladoprest .group-1620 {
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  margin-left: 39px;
+  margin-top: 21px;
+  width: 41px;
+}
+
+.simuladoprest .iconly-light-outline-play {
+  height: 22.4px;
+  margin-left: 7.5px;
+  margin-top: -0.5px;
+  width: 22.4px;
+}
+
+.simuladoprest .aprende {
+  height: 12px;
+  letter-spacing: 0;
+  margin-top: 6.1px;
+  text-align: center;
+  width: 39px;
+}
+
+.simuladoprest .group-1624 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 37px;
+  margin-top: 21px;
+  min-height: 40px;
+  width: 25px;
+}
+
+.simuladoprest .combined-shape {
+  height: 22px;
+  margin-left: 1.99px;
+  width: 18px;
+}
+
+.simuladoprest .perfil {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
