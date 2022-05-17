@@ -82,7 +82,8 @@
   --watusi: #fce0cf;
 
 
-
+  --font-size-xs2: 12px;
+  --font-size-xxs: 10px;
   --font-size-xs: 12px;
   --font-size-s: 14px;
   --font-size-m2: 15px;
@@ -101,6 +102,14 @@
   --font-family-niveau_grotesk-regular: "Niveau Grotesk-Regular";
   --font-family-poppins: "Poppins";
   --font-family-nunito: "Nunito", Helvetica;
+}
+
+.niveaugrotesk-regular-normal-white-15px {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
 }
 
 .niveaugrotesk-medium-white-15px {

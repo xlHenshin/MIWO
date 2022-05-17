@@ -1,0 +1,387 @@
+/* screen - simprestamo */
+
+.simprestamo {
+  align-items: center;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  padding: 19px 0;
+  width: 428px;
+}
+
+
+.simprestamo .group-1689 {
+  align-items: flex-start;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 38px;
+  margin-top: 41px;
+  min-width: 126px;
+}
+
+.simprestamo .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.simprestamo .mis-prstamos {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 94px;
+}
+
+.simprestamo .simula-tu-prstamo {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 38px;
+  margin-top: 49px;
+  min-height: 28px;
+}
+
+.simprestamo .calcula-el-valor-de {
+  letter-spacing: 0;
+  margin-right: 0.83px;
+  margin-top: 16px;
+  min-height: 34px;
+  transform: rotate(-0.03deg);
+  width: 351px;
+}
+
+.simprestamo .cunto-dinero-necesitas {
+  letter-spacing: 0;
+  margin-right: 31.0px;
+  margin-top: 30px;
+  min-height: 21px;
+  width: 321px;
+}
+
+.simprestamo .group-1734 {
+  display: flex;
+  height: 58px;
+  margin-right: 1.0px;
+  margin-top: 17px;
+  width: 353px;
+}
+
+.simprestamo .single-tab {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px transparent;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 0 21px;
+  width: 353px;
+}
+
+.simprestamo .input-container {
+  height: 58px;
+  margin-top: -0.2px;
+  position: relative;
+  width: 248px;
+}
+
+.simprestamo .input {
+  background-color: transparent;
+  border: 0;
+  height: 58px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.simprestamo .input::placeholder {
+  color: #73798299;
+}
+
+.simprestamo .input-1 {
+  background-color: transparent;
+  border: 0;
+  height: 58px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.simprestamo .input-1::placeholder {
+  color: #f96b3999;
+}
+
+.simprestamo .nmero-de-cuotas {
+  letter-spacing: 0;
+  margin-right: 31.0px;
+  margin-top: 29px;
+  min-height: 21px;
+  width: 321px;
+}
+
+.simprestamo .group-1826 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 13.0px;
+  margin-top: 17px;
+  min-width: 365px;
+}
+
+.overlap-group2 {
+  height: 46px;
+  margin-left: 153px;
+  position: relative;
+  width: 517px;
+}
+
+ .ellipse-200 {
+  background-color: var(--blue);
+  border-radius: 23px;
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.simprestamo .number-1 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 1.0px;
+  text-align: center;
+  white-space: nowrap;
+  width: 34px;
+}
+
+ .frame-1833 {
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+  overflow-x: scroll;
+  left: 6px;
+  position: absolute;
+  top: 14px;
+  width: 201px;
+}
+
+.morespace {
+  padding-right: 170px;
+}
+
+ .number {
+  color: var(--black)!important;
+  font-family: var(--font-family-niveau_grotesk-medium)!important;
+  font-size: var(--font-size-xl)!important;
+  height: 20px;
+  letter-spacing: 0;
+  margin-right: 25px;
+  line-height: 18px;
+  text-align: center;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.simprestamo .overlap-group {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--blue);
+  border-radius: 23px;
+  display: flex;
+  height: 46px;
+  margin-left: 16px;
+  min-width: 46px;
+  padding: 0 6px;
+}
+
+.number-1 {
+  color: var(--black);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  height: 20px;
+  margin-right: 25px;
+  margin-left: 14px;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: center;
+  white-space: nowrap;
+  width: 34px;
+}
+
+ .num-carousel {
+  align-items: flex-end;
+  background-color: var(--purple-heart);
+  border-radius: 10px;
+  display: flex;
+  height: 63px;
+  margin-left: 1.5px;
+  margin-top: 17px;
+  overflow: hidden;
+  padding: 7.8px 0;
+  width: 353px;
+}
+.simprestamo .group-1403 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.62px;
+  margin-top: 68px;
+  min-width: 157px;
+}
+
+.simprestamo .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--miwo10);
+  border-radius: 9px;
+  box-shadow: 0px 4px 13px transparent;
+  display: flex;
+  min-width: 155px;
+}
+
+.simprestamo .ver-opciones {
+  height: 40px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 154px;
+}
+
+.simprestamo .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px transparent;
+  display: flex;
+  height: 77px;
+  margin-top: 256px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.simprestamo .group-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  margin-left: 34px;
+  margin-top: 21px;
+  width: 29px;
+}
+
+.simprestamo .icon-home {
+  height: 22.6px;
+  margin-left: 2.5px;
+  margin-top: -0.5px;
+  width: 21.6px;
+}
+
+.simprestamo .place {
+  height: 12px;
+  letter-spacing: 0;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 27px;
+}
+
+.simprestamo .group-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 41px;
+  margin-left: 29px;
+  margin-top: 20px;
+  width: 58px;
+}
+
+.simprestamo .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 16.5px;
+  margin-top: -0.5px;
+  width: 25.2px;
+}
+
+.simprestamo .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.simprestamo .group-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  margin-left: 33px;
+  margin-top: 21px;
+  width: 35px;
+}
+
+.simprestamo .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 1px;
+  width: 30px;
+}
+
+.simprestamo .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-top: 6px;
+  text-align: center;
+  width: 33px;
+}
+
+.simprestamo .group-1620 {
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  margin-left: 39px;
+  margin-top: 21px;
+  width: 41px;
+}
+
+.simprestamo .icon-play {
+  height: 22.4px;
+  margin-left: 7.5px;
+  margin-top: -0.5px;
+  width: 22.4px;
+}
+
+.simprestamo .aprende {
+  height: 12px;
+  letter-spacing: 0;
+  margin-top: 6.1px;
+  text-align: center;
+  width: 39px;
+}
+
+.simprestamo .group-1624 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 37px;
+  margin-top: 21px;
+  min-height: 40px;
+  width: 25px;
+}
+
+.simprestamo .combined-shape {
+  height: 22px;
+  margin-left: 1.99px;
+  width: 18px;
+}
+
+.simprestamo .perfil {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
