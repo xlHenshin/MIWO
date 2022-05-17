@@ -3,7 +3,7 @@ import { usuarios,parches } from "../utils/app.js";
 
 const url = location.href;
 const line = url.split('/');
-const name = line[3];
+let name = line[3];
 
 if( name === 'MIWO'){
      name = line[4];
