@@ -6,25 +6,25 @@
   font-family: "Niveau Grotesk-Black";
   font-style: normal;
   font-weight: 900;
-  src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskBlack.otf");
+  src: url("../fonts/HVD\ Fonts\ -\ NiveauGroteskBlack.otf");
 }
 @font-face {
   font-family: "Niveau Grotesk-Bold";
   font-style: normal;
   font-weight: 700;
-  src: url("../fonts/HVD FONTS - NiveauGroteskBold.otf");
+  src: url("../fonts/HVD\ Fonts\ -\ NiveauGroteskBold.otf");
 }
 @font-face {
   font-family: "Niveau Grotesk-Medium";
   font-style: normal;
   font-weight: 500;
-  src: url("../fonts/HVD FONTS - NiveauGroteskMedium.otf");
+  src: url("../fonts/HVD\ Fonts\ -\ NiveauGroteskMedium.otf.otf");
 }
 @font-face {
   font-family: "Niveau Grotesk-Regular";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/HVD FONTS - NiveauGroteskRegular.otf");
+  src: url("../fonts/HVD\ Fonts\ -\ NiveauGroteskRegular.otf");
 }
 
 @font-face {
@@ -32,7 +32,7 @@
   font-style: normal;
 
   font-weight: 300;
-  src: url("/fonts/HVD\ Fonts\ -\ NiveauGroteskLight.otf");
+  src: url("../fonts/HVD\ Fonts\ -\ NiveauGroteskLight.otf");
 }
 
 

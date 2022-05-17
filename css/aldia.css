@@ -1,0 +1,582 @@
+/* screen - aldia */
+
+.aldia {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  overflow: hidden;
+  width: 428px;
+}
+
+.aldia .overlap-group11 {
+  height: 926px;
+  position: relative;
+  width: 428px;
+}
+
+.aldia .overlap-group5 {
+  height: 174px;
+  left: 34px;
+  position: absolute;
+  top: 499px;
+  width: 361px;
+}
+
+.aldia .overlap-group4 {
+  height: 174px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 361px;
+}
+
+.aldia .overlap-group {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62836c24162b4963ea3c0cb0/img/rectangle-9-2@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 174px;
+  left: 0;
+  min-width: 361px;
+  padding: 26px 20.4px;
+  position: absolute;
+  top: 0;
+}
+
+.aldia .paga-sin-recargo-has {
+  letter-spacing: 0;
+  min-height: 15px;
+  text-align: center;
+  width: 304px;
+}
+
+.aldia .span3 {
+  text-decoration: underline;
+}
+
+.aldia .rectangle-620 {
+  background-color: var(--blue);
+  border-radius: 10px 10px 0px 0px;
+  box-shadow: 0px 4px 4px transparent;
+  height: 55px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 353px;
+}
+
+.aldia .group-1681 {
+  display: flex;
+  height: 43px;
+  left: 44px;
+  position: absolute;
+  top: 6px;
+  width: 140px;
+}
+
+.aldia .group-1680 {
+  display: flex;
+  flex-direction: column;
+  height: 33px;
+  margin-top: 10px;
+  width: 83.78px;
+}
+
+.aldia .personal {
+  height: 14px;
+  letter-spacing: 0;
+  width: 79.78px;
+}
+
+.aldia .para-la-u {
+  height: 19px;
+  letter-spacing: 0;
+  width: 64.48px;
+}
+
+.aldia .mask-group {
+  height: 35.84px;
+  margin-left: 16.3px;
+  margin-top: -0.1px;
+  width: 39.17px;
+}
+
+.aldia .group-1780 {
+  align-items: flex-start;
+  display: flex;
+  height: 34px;
+  left: 199px;
+  min-width: 123px;
+  position: absolute;
+  top: 79px;
+}
+
+.aldia .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--purple-heart);
+  border-radius: 6px;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  min-width: 37px;
+  padding: 6px 6.8px;
+}
+
+.aldia .mask-group-1 {
+  height: 21px;
+  width: 23px;
+}
+
+.aldia .overlap-group2 {
+  height: 34px;
+  margin-left: 11px;
+  position: relative;
+  width: 71px;
+}
+
+.aldia .address {
+  height: 17px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20.2px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.aldia .te-faltan {
+  height: 18px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.aldia .price {
+  height: 55px;
+  left: 247px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 4px;
+  width: 75px;
+}
+
+.aldia .group-1779 {
+  align-items: flex-start;
+  display: flex;
+  height: 35px;
+  left: 44px;
+  min-width: 141px;
+  position: absolute;
+  top: 78px;
+}
+
+.aldia .overlap-group3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--purple-heart);
+  border-radius: 6px;
+  display: flex;
+  height: 34px;
+  min-width: 37px;
+  padding: 6px 6.3px;
+}
+
+.aldia .icon-location_pin {
+  height: 21px;
+  width: 23px;
+}
+
+.aldia .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 9px;
+  margin-top: 0;
+  min-height: 35px;
+  width: 91px;
+}
+
+.aldia .has-pagado {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  margin-left: 2.19px;
+  white-space: nowrap;
+}
+
+.aldia .price-1 {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 20.2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.aldia .ellipse-194 {
+  background-color: var(--slimy-green);
+  border-radius: 5.5px;
+  height: 11px;
+  left: 16px;
+  position: absolute;
+  top: 26px;
+  width: 11px;
+}
+
+.aldia .mask-group-2 {
+  height: 926px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.aldia .group-1689 {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  left: 38px;
+  min-width: 124px;
+  position: absolute;
+  top: 60px;
+}
+
+.aldia .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.aldia .volver-a-inicio {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 92px;
+}
+
+.aldia .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--miwo10);
+  border-radius: 9px;
+  display: flex;
+  height: 40px;
+  left: 40px;
+  min-width: 155px;
+  position: absolute;
+  top: 284px;
+}
+
+.aldia .solicitar-prstamo {
+  height: 40px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 154px;
+}
+
+.aldia .mis-prstamos {
+  left: 38px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 132px;
+}
+
+.aldia .en-esta-seccin-podr {
+  left: 38px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 221px;
+  transform: rotate(-0.03deg);
+  width: 351px;
+}
+
+.aldia .en-miwo-te-salvamos {
+  left: 38px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 194px;
+  transform: rotate(-0.03deg);
+  width: 351px;
+}
+
+.aldia .group-1795 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  left: 85px;
+  min-width: 270px;
+  position: absolute;
+  top: 450px;
+}
+
+.aldia .overlap-group8 {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: flex;
+  height: 30px;
+  justify-content: flex-end;
+  min-width: 128px;
+  padding: 1.2px 5.6px;
+}
+
+.aldia .ellipse-197 {
+  align-self: center;
+  background-color: var(--slimy-green);
+  border-radius: 7.5px;
+  height: 15px;
+  margin-bottom: 1.0px;
+  width: 15px;
+}
+
+.aldia .name {
+  height: 26px;
+  letter-spacing: 0;
+  margin-left: 18px;
+  width: 74px;
+}
+
+.aldia .overlap-group7 {
+  border-radius: 6px;
+  height: 30px;
+  margin-left: 10px;
+  position: relative;
+  width: 128px;
+}
+
+.aldia .rectangle-624 {
+  border-radius: 6px;
+  cursor: pointer;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.aldia .atrasado {
+  height: 26px;
+  left: 49px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2px;
+  width: 74px;
+}
+
+.aldia .ellipse-198 {
+  background-color: var(--red);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 15px;
+}
+
+.aldia .overlap-group9 {
+  align-items: flex-start;
+  border-radius: 9px;
+  display: flex;
+  height: 40px;
+  left: 229px;
+  min-width: 160px;
+  position: absolute;
+  top: 284px;
+}
+
+.aldia .simula-tu-prstamo {
+  height: 40px;
+  letter-spacing: 0;
+  margin-top: -2px;
+  text-align: center;
+  width: 158px;
+}
+
+.aldia .overlap-group10 {
+  border-radius: 19.7px/20.69px;
+  height: 41px;
+  left: 351px;
+  position: absolute;
+  top: 58px;
+  width: 39px;
+}
+
+.aldia .group-1404 {
+  background-color: var(--purple-heart);
+  border-radius: 19.7px/20.69px;
+  box-shadow: 0px 4px 28px transparent;
+  display: flex;
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.aldia .ufilter {
+  height: 16.39px;
+  margin-left: 11.6px;
+  margin-top: 13.1px;
+  width: 16.19px;
+}
+
+.aldia .icon-notifications {
+  height: 17px;
+  left: 11px;
+  position: absolute;
+  top: 12px;
+  width: 17px;
+}
+
+.aldia .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px transparent;
+  display: flex;
+  height: 77px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 830px;
+  width: 390px;
+}
+
+.aldia .navegador-principal-1 {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px transparent;
+  display: flex;
+  overflow: hidden;
+  width: 390px;
+}
+
+.aldia .group-1880 {
+  display: flex;
+  margin-left: 20px;
+  width: 356px;
+}
+
+.aldia .frame-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  width: 55px;
+}
+
+.aldia .icon-home {
+  height: 22.6px;
+  margin-left: 16.5px;
+  margin-top: 20.5px;
+  width: 21.6px;
+}
+
+.aldia .place {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 27px;
+}
+
+.aldia .frame-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 6px;
+  width: 78px;
+}
+
+.aldia .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 27.8px;
+  margin-top: 19.5px;
+  width: 25.2px;
+}
+
+.aldia .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 11px;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.aldia .frame-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 10px;
+  width: 61px;
+}
+
+.aldia .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 14.8px;
+  margin-top: 21px;
+  width: 30px;
+}
+
+.aldia .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 6px;
+  text-align: center;
+  width: 33px;
+}
+
+.aldia .frame-1620 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 15px;
+  width: 63px;
+}
+
+.aldia .icon-play {
+  height: 22.4px;
+  margin-left: 19.5px;
+  margin-top: 20.5px;
+  width: 22.4px;
+}
+
+.aldia .aprende {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: 6.1px;
+  text-align: center;
+  width: 39px;
+}
+
+.aldia .frame-1624 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 9px;
+  padding: 17px 0;
+  width: 59px;
+}
+
+.aldia .combined-shape {
+  height: 22px;
+  margin-right: 1.02px;
+  margin-top: 4px;
+  width: 18px;
+}
+
+.aldia .perfil {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
