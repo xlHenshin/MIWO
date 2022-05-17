@@ -43,14 +43,14 @@
               ¿Cómo quieres que sea tu préstamo?
             </div>
             <div class="parche-type">
-              <div class="group-1736">
+              <div class="group-1736" id="paramiBtn">
                 <div class="overlap-group border-2px-smashed-pumpkin">
                   <div class="slo-para-m valign-text-middle niveaugrotesk-medium-smashed-pumpkin-15px">
                     Sólo para mí
                   </div>
                 </div>
               </div>
-              <div class="group-1738">
+              <div class="group-1738" id="paratuparcheBtn">
                 <div class="overlap-group1">
                   <div class="para-tu-parche valign-text-middle niveaugrotesk-medium-white-15px">Para tu parche</div>
                 </div>
@@ -71,25 +71,24 @@
               </div>
               <div class="parche-list">
                 <div class="single-tab border-0-2px-bittersweet">
-                  <div class="single-tab-1">
-                    <div class="icon-and-text">
-                      <div class="text niveaugrotesk-medium-smashed-pumpkin-14px">Elegir el parche</div>
-                    </div>
-                    <img class="trailing-icon"
-                      src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62834fc4157a1292a1bcd67c/img/trailing-icon@2x.png" />
-                  </div>
+                  <select name="documentType" id="documentType" class="documentSelect">
+                    <option value="">Tipo de documento</option>
+                    <option value="Tarjeta de Identidad">Tarjeta de Identidad</option>
+                    <option value="Cédula de ciudadanía">Cédula de ciudadanía</option>
+                    <option value="Cédula de extranjería">Cédula de extranjería</option>
+                  </select>
                 </div>
               </div>
             </div>
             <div class="cunto-dinero-necesitas niveaugrotesk-medium-purple-heart-18px">¿Cuánto dinero necesitas?</div>
             <div class="group-1734">
               <div class="single-tab-2 border-0-2px-bittersweet">
-                <div class="input-container">
-                  <textarea class="input niveaugrotesk-medium-rolling-stone-14px" name="input"
-                    placeholder="Digita el valor" type="text"></textarea><textarea
-                    class="input-1 niveaugrotesk-medium-smashed-pumpkin-16px" name="input" placeholder="$"
-                    type="text"></textarea>
-                </div>
+                <input 
+                    type="number" 
+                    class="input niveaugrotesk-medium-rolling-stone-14px" 
+                    name="input" 
+                    placeholder="Número de documento"
+                    id="valorPrestamo">
               </div>
             </div>
             <div class="flex-row">
@@ -117,7 +116,7 @@
                 </div>
               </div>
             </div>
-            <div class="overlap-group1-1">
+            <div class="overlap-group1-1" id="solicitarBtn">
               <div class="rectangle-7 border-1px-shady-lady"></div>
               <div class="solicitar valign-text-middle">Solicitar</div>
             </div>
@@ -199,5 +198,5 @@
     </div>
   </div>
 </body>
-
+<script src="./js/solprestamo.js"></script>
 </html>
