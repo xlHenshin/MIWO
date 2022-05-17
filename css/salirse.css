@@ -1,0 +1,1398 @@
+/* screen - salirse */
+
+.salirse {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  height: 926px;
+  width: 428px;
+}
+
+.salirse .overlap-group13 {
+  height: 908px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 428px;
+  overflow: hidden;
+}
+
+.salirse .fondo {
+  height: 811px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.salirse .title {
+  left: 68px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 126px;
+}
+
+.salirse .overlap-group2 {
+  height: 97px;
+  left: 320px;
+  position: absolute;
+  top: 28px;
+  width: 95px;
+}
+
+.salirse .ellipse-164 {
+  background-color: var(--governor-bay);
+  border-radius: 31.75px/32.49px;
+  height: 65px;
+  left: 16px;
+  position: absolute;
+  top: 13px;
+  width: 63px;
+}
+
+.salirse .overlap-group1 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.salirse .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac7a0230722ff230cbca5/img/ellipse-164-4@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 97px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 95px;
+  padding: 37.6px 39.1px;
+  position: absolute;
+  top: 0;
+}
+
+.salirse .ufilter {
+  height: 16px;
+  width: 16px;
+}
+
+.salirse .icon-notifications {
+  height: 17px;
+  left: 39px;
+  position: absolute;
+  top: 36px;
+  width: 17px;
+}
+
+.salirse .volver-a-parches {
+  align-items: flex-start;
+  display: flex;
+  height: 52px;
+  left: 38px;
+  min-width: 137px;
+  padding: 14.6px 0;
+  position: absolute;
+  top: 64px;
+}
+
+.salirse .vector {
+  height: 23px;
+  width: 13px;
+}
+
+.salirse .volver-a-parches-1 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-bottom: 1.58px;
+  margin-left: 17px;
+  min-height: 17px;
+  min-width: 107px;
+}
+
+.salirse .scroll::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.salirse .scroll {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  max-height: 653px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 172px;
+  width: 428px;
+}
+
+.salirse .overlap-group12 {
+  height: 243px;
+  margin-left: 1.0px;
+  margin-top: -13px;
+  position: relative;
+  width: 383px;
+}
+
+.salirse .fecha-lmite-de-salida-7-de-abril {
+  left: 15px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 226px;
+  width: 352px;
+}
+
+.salirse .span1 {
+  color: var(--rolling-stone);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-m2);
+  font-weight: 700;
+}
+
+.salirse .overlap-group4 {
+  height: 227px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 383px;
+}
+
+.salirse .group-container {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac7a0230722ff230cbca5/img/group-1782-1@2x.png);
+  background-size: 100% 100%;
+  height: 227px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 383px;
+}
+
+.salirse .mask-group-1 {
+  height: 31px;
+  left: 271px;
+  position: absolute;
+  top: 13px;
+  width: 97px;
+}
+
+.salirse .group-1680 {
+  display: flex;
+  height: 16px;
+  left: 15px;
+  position: absolute;
+  top: 30px;
+  width: 355px;
+}
+
+.salirse .alcance-del-parche {
+  height: 16.36px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 353px;
+  z-index: 1;
+}
+
+.salirse .group-1724 {
+  align-items: flex-start;
+  display: flex;
+  height: 101px;
+  left: 46px;
+  min-width: 299px;
+  position: absolute;
+  top: 83px;
+}
+
+.salirse .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 101px;
+  width: 137px;
+}
+
+.salirse .overlap-group {
+  border-radius: 4px;
+  height: 47px;
+  position: relative;
+  width: 137px;
+}
+
+.salirse .price-1 {
+  height: 15px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 20.2px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.salirse .meta {
+  height: 16px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.salirse .rectangle {
+  border-radius: 4px;
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.salirse .rectangle-60 {
+  background-color: var(--purple-heart);
+  border-radius: 6px;
+  height: 34px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 34px;
+}
+
+.salirse .mask-group-2 {
+  height: 21px;
+  left: 14px;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}
+
+.salirse .overlap-group-1 {
+  border-radius: 4px;
+  height: 47px;
+  margin-top: 7px;
+  position: relative;
+  width: 137px;
+}
+
+.salirse .price {
+  height: 17px;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 20.2px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.salirse .recaudado {
+  height: 18px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.salirse .icon-location_pin {
+  height: 21px;
+  left: 14px;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}
+
+.salirse .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 9px;
+  min-height: 101px;
+  width: 137px;
+}
+
+.salirse .address {
+  height: 15px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 20.2px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.salirse .faltan {
+  height: 16px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.salirse .icon-clock {
+  height: 18px;
+  left: 16px;
+  position: absolute;
+  top: 15px;
+  width: 18px;
+}
+
+.salirse .cuota {
+  height: 18px;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.salirse .mask-group-3 {
+  height: 21px;
+  left: 15px;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}
+
+.salirse .rectangle-620 {
+  background-color: var(--blue);
+  border-radius: 10px 10px 0px 0px;
+  box-shadow: 0px 4px 4px #0000000d;
+  height: 47px;
+  left: 15px;
+  position: absolute;
+  top: 15px;
+  width: 353px;
+}
+
+.salirse .group-container-1 {
+  border-radius: 15px;
+  height: 92px;
+  margin-top: 26px;
+  position: relative;
+  width: 352px;
+}
+
+.salirse .group-1877 {
+  background-color: var(--blue);
+  border: 0.2px solid var(--miwo10);
+  border-radius: 15px;
+  box-shadow: 0px 0px 6px #0000001a;
+  display: flex;
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 228px;
+  width: 352px;
+}
+
+.salirse .group-1878 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 62px;
+  margin-top: 20px;
+  min-height: 46px;
+  width: 231px;
+}
+
+.salirse .as-va-el-progreso-del-parche {
+  color: var(--shark-2);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-right: 5.91px;
+  min-height: 14px;
+  text-align: center;
+  width: 209px;
+}
+
+.salirse .overlap-group-4 {
+  height: 11px;
+  margin-right: 2.0px;
+  margin-top: 21px;
+  position: relative;
+  width: 229px;
+}
+
+.salirse .line-114 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 229px;
+}
+
+.salirse .line-115 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 51px;
+}
+
+.salirse .ellipse-165 {
+  background-color: var(--miwo10);
+  border-radius: 5.5px;
+  height: 11px;
+  left: 45px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.salirse .overlap-group10 {
+  background-color: #e2e2e2;
+  border-radius: 11.5px;
+  height: 23px;
+  left: 19px;
+  position: absolute;
+  top: 276px;
+  width: 314px;
+}
+
+.salirse .rectangle-1077 {
+  background-color: var(--miwo10);
+  border-radius: 11.5px;
+  height: 16px;
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: 137px;
+}
+
+.salirse .percent {
+  left: 59px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 4px;
+  width: 28px;
+}
+
+.salirse .overlap-group6 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac7a0230722ff230cbca5/img/rectangle-9-8@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 337px;
+  min-height: 320px;
+  padding: 22.0px 6px;
+  width: 352px;
+}
+
+.salirse .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 173px;
+  min-width: 325px;
+}
+
+.salirse .mask-group-4 {
+  height: 171px;
+  width: 98px;
+}
+
+.salirse .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 17px;
+  min-height: 173px;
+  width: 210px;
+}
+
+.salirse .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 77px;
+  min-width: 210px;
+}
+
+.salirse .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 77px;
+  width: 115px;
+}
+
+.salirse .creado-el-02042022 {
+  color: #928b88;
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-m2);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 34px;
+  width: 110px;
+}
+
+.salirse .overlap-group-5 {
+  align-items: flex-start;
+  background-color: var(--purple-heart);
+  border-radius: 6px;
+  display: flex;
+  margin-top: 14px;
+  min-width: 115px;
+  padding: 0 1.1px;
+}
+
+.salirse .pago-mensual {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  height: 29px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 108px;
+}
+
+.salirse .hasta-el-17092022 {
+  letter-spacing: 0;
+  min-height: 34px;
+  width: 95px;
+}
+
+.salirse .overlap-group1-1 {
+  height: 31px;
+  margin-left: 1px;
+  margin-top: 15px;
+  position: relative;
+  width: 190px;
+}
+
+.salirse .group-1371 {
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.salirse .group-1854 {
+  height: 31px;
+  left: 79px;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.salirse .icon-location_pin-1 {
+  height: 17px;
+  left: 11px;
+  position: absolute;
+  top: 6px;
+  width: 16px;
+}
+
+.salirse .group-1397 {
+  display: flex;
+  height: 15px;
+  left: 32px;
+  position: absolute;
+  top: 7px;
+  width: 65px;
+}
+
+.salirse .icesi {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 17.5px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.salirse .group-1855 {
+  display: flex;
+  height: 15px;
+  left: 113px;
+  position: absolute;
+  top: 8px;
+  width: 73px;
+}
+
+.salirse .text-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 17.5px;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.salirse .icon-clock-1 {
+  height: 16px;
+  left: 91px;
+  position: absolute;
+  top: 7px;
+  width: 16px;
+}
+
+.salirse .flex-row-2 {
+  align-items: center;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 16px;
+  min-width: 190px;
+}
+
+.salirse .group-1573 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 87px;
+  transform: rotate(-180deg);
+}
+
+.salirse .group-container-2 {
+  height: 33px;
+  position: relative;
+  width: 87px;
+}
+
+.salirse .group-1569 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 53px;
+  min-width: 34px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+}
+
+.salirse .overlap-group-2 {
+  border-radius: 16.86px/16.53px;
+  height: 33px;
+  position: relative;
+  width: 34px;
+}
+
+.salirse .ellipse-173 {
+  background-color: var(--blue);
+  border-radius: 16.86px/16.53px;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+  width: 34px;
+}
+
+.salirse .mask-group-5 {
+  height: 30px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.salirse .group-1570 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 40px;
+  min-width: 34px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+}
+
+.salirse .mask-group {
+  height: 30px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-180deg);
+  width: 30px;
+}
+
+.salirse .group-1571 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 23px;
+  min-width: 34px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+}
+
+.salirse .group-1572 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 34px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-360deg);
+}
+
+.salirse .address-1 {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: 11.4px;
+  font-weight: 500;
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 15.4px;
+  margin-left: 9px;
+  margin-top: 3.93px;
+  width: 94px;
+}
+
+.salirse .descripcin {
+  color: var(--miwo10);
+  font-family: var(--font-family-niveau_grotesk-bold);
+  font-size: var(--font-size-l2);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-left: 15px;
+  margin-top: 24px;
+  min-height: 19px;
+  width: 229px;
+}
+
+.salirse .vamos-a-tomar-una-ce {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 2.0px;
+  margin-top: 8px;
+  min-height: 51px;
+  width: 312px;
+}
+
+.salirse .group-1876 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0;
+  margin-top: 30px;
+  min-height: 253px;
+  width: 352px;
+}
+
+.salirse .group-1847 {
+  display: flex;
+  margin-left: 2px;
+  width: 202px;
+}
+
+.salirse .amiwos-del-parche {
+  height: 28px;
+  letter-spacing: 0;
+  width: 200px;
+}
+
+.salirse .overlap-group8 {
+  height: 70px;
+  margin-left: -4px;
+  margin-top: 12px;
+  position: relative;
+  width: 360px;
+}
+
+.salirse .overlap-group-6 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac7a0230722ff230cbca5/img/rectangle-377-3@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 70px;
+  left: 0;
+  min-width: 360px;
+  padding: 16.7px 98.3px;
+  position: absolute;
+  top: 0;
+}
+
+.salirse .salom-marn {
+  height: 13px;
+  letter-spacing: 0;
+  width: 124px;
+}
+
+.salirse .icon-star {
+  height: 19px;
+  left: 98px;
+  position: absolute;
+  top: 34px;
+  width: 19px;
+}
+
+.salirse .icon-star-1 {
+  height: 19px;
+  left: 126px;
+  position: absolute;
+  top: 34px;
+  width: 18px;
+}
+
+.salirse .icon-star-2 {
+  height: 19px;
+  left: 153px;
+  position: absolute;
+  top: 34px;
+  width: 19px;
+}
+
+.salirse .icon-star-3 {
+  height: 19px;
+  left: 180px;
+  position: absolute;
+  top: 34px;
+  width: 19px;
+}
+
+.salirse .icon-star-4 {
+  height: 19px;
+  left: 207px;
+  position: absolute;
+  top: 34px;
+  width: 19px;
+}
+
+.salirse .group-1215 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac7a0230722ff230cbca5/img/mask-group-65@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 43px;
+  left: 32px;
+  position: absolute;
+  top: 14px;
+  width: 43px;
+}
+
+.salirse .ellipse-160 {
+  border-radius: 21.36px;
+  flex: 1;
+  width: 42.71px;
+}
+
+.salirse .rectangle-387 {
+  background-color: var(--miwo10);
+  border-radius: 0px 10px 0px 10px;
+  height: 22px;
+  left: 253px;
+  position: absolute;
+  top: 4px;
+  width: 103px;
+}
+
+.salirse .group-755 {
+  display: flex;
+  height: 7px;
+  left: 253px;
+  position: absolute;
+  top: 11px;
+  width: 105px;
+}
+
+.salirse .admin {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  text-align: center;
+  white-space: nowrap;
+  width: 102.67px;
+}
+
+.salirse .overlap-group9 {
+  height: 68px;
+  margin-left: -4px;
+  margin-top: 4px;
+  position: relative;
+  width: 360px;
+}
+
+.salirse .overlap-group1-2 {
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.salirse .rectangle-377 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 344px;
+}
+
+.salirse .rectangle-378 {
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.salirse .name {
+  left: 94px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 16px;
+  width: 118px;
+}
+
+.salirse .icon-star-5 {
+  height: 16px;
+  left: 94px;
+  position: absolute;
+  top: 36px;
+  width: 16px;
+}
+
+.salirse .icon-star-6 {
+  height: 16px;
+  left: 117px;
+  position: absolute;
+  top: 36px;
+  width: 16px;
+}
+
+.salirse .icon-star-7 {
+  height: 16px;
+  left: 140px;
+  position: absolute;
+  top: 36px;
+  width: 16px;
+}
+
+.salirse .icon-star-8 {
+  height: 16px;
+  left: 163px;
+  position: absolute;
+  top: 36px;
+  width: 16px;
+}
+
+.salirse .icon-star-9 {
+  height: 16px;
+  left: 186px;
+  position: absolute;
+  top: 36px;
+  width: 16px;
+}
+
+.salirse .group-1214 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac7a0230722ff230cbca5/img/mask-group-66@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 43px;
+  left: 32px;
+  position: absolute;
+  top: 12px;
+  width: 43px;
+}
+
+.salirse .ellipse-161 {
+  border-radius: 21.5px;
+  flex: 1;
+  width: 43px;
+}
+
+.salirse .overlap-group7 {
+  height: 71px;
+  margin-left: -4px;
+  margin-top: 4px;
+  position: relative;
+  width: 360px;
+}
+
+.salirse .overlap-group2-1 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac7a0230722ff230cbca5/img/rectangle-377-5@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 71px;
+  left: 0;
+  min-width: 360px;
+  padding: 16.6px 98.3px;
+  position: absolute;
+  top: 0;
+}
+
+.salirse .name-1 {
+  letter-spacing: 0;
+  min-height: 16px;
+  width: 124px;
+}
+
+.salirse .icon-star-10 {
+  height: 17px;
+  left: 98px;
+  position: absolute;
+  top: 37px;
+  width: 17px;
+}
+
+.salirse .icon-star-11 {
+  height: 17px;
+  left: 122px;
+  position: absolute;
+  top: 37px;
+  width: 17px;
+}
+
+.salirse .icon-star-12 {
+  height: 17px;
+  left: 146px;
+  position: absolute;
+  top: 37px;
+  width: 17px;
+}
+
+.salirse .icon-star-13 {
+  height: 17px;
+  left: 170px;
+  position: absolute;
+  top: 37px;
+  width: 18px;
+}
+
+.salirse .icon-star-14 {
+  height: 17px;
+  left: 195px;
+  position: absolute;
+  top: 37px;
+  width: 17px;
+}
+
+.salirse .group-1213 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/627ac7a0230722ff230cbca5/img/mask-group-67@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 43px;
+  left: 32px;
+  position: absolute;
+  top: 14px;
+  width: 43px;
+}
+
+.salirse .ellipse-162 {
+  border-radius: 21.5px;
+  flex: 1;
+  width: 43px;
+}
+
+.salirse .group-1734 {
+  display: flex;
+  height: 75px;
+  margin-left: 1.0px;
+  margin-top: 30px;
+  width: 353px;
+}
+
+.salirse .single-tab {
+  align-items: center;
+  background-color: var(--purple-heart);
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px #0038ff1a;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 17px 20.0px;
+  width: 353px;
+}
+
+.salirse .group-1326 {
+  align-self: flex-end;
+  display: flex;
+  margin-left: 13px;
+  width: 185px;
+}
+
+.salirse .te-hace-falta-plata-obtn-un-prstamo {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  height: 40px;
+  letter-spacing: 0;
+  width: 183px;
+}
+
+.salirse .span1-1 {
+  font-size: var(--font-size-l2);
+}
+
+.salirse .vector-1 {
+  height: 11px;
+  margin-bottom: 0.97px;
+  margin-left: 108px;
+  width: 7px;
+}
+
+.salirse .vector-478 {
+  height: 1px;
+  margin-left: 0.7px;
+  margin-top: 42px;
+  width: 204px;
+}
+
+.salirse .group-1848 {
+  align-self: flex-start;
+  display: flex;
+  margin-left: 40px;
+  margin-top: 36px;
+  width: 166px;
+}
+
+.salirse .quers-salirte {
+  height: 28px;
+  letter-spacing: 0;
+  width: 164px;
+}
+
+.salirse .recuerda-que-abandon {
+  color: #6a6a6a;
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-m2);
+  font-weight: 400;
+  letter-spacing: 0.30px;
+  margin-left: 38.0px;
+  margin-top: 12px;
+  min-height: 63px;
+  width: 352px;
+}
+
+.salirse .group-1403 {
+  align-self: flex-start;
+  height: 66px;
+  margin-left: 44.5px;
+  margin-top: 22px;
+  width: 192px;
+}
+
+.salirse .algo-no-va-bien-reporta-este-parche {
+  color: var(--lapis-lazuli);
+  font-family: var(--font-family-niveau_grotesk-light);
+  font-size: var(--font-size-m2);
+  font-weight: 300;
+  letter-spacing: 0;
+  margin-top: 25px;
+  min-height: 17px;
+  text-align: center;
+  width: 428px;
+}
+
+.salirse .span0-1 {
+  font-weight: 300;
+}
+
+.salirse .span1-2 {
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.salirse .vector-479 {
+  height: 1px;
+  margin-left: 0.7px;
+  margin-top: 80px;
+  width: 204px;
+}
+
+.salirse .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  height: 77px;
+  left: 21px;
+  overflow: hidden;
+  position: absolute;
+  top: 831px;
+  width: 390px;
+}
+
+.salirse .navegador-principal-1 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  overflow: hidden;
+  padding: 0 17px;
+  width: 390px;
+}
+
+.salirse .overlap-group-7 {
+  height: 77px;
+  margin-left: 4px;
+  position: relative;
+  width: 352px;
+}
+
+.salirse .group-1624 {
+  display: flex;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.salirse .frame-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-top: 1px;
+  width: 52px;
+}
+
+.salirse .icon-home {
+  height: 22.6px;
+  margin-left: 15.5px;
+  margin-top: 19.5px;
+  width: 21.6px;
+}
+
+.salirse .inicio {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 24px;
+}
+
+.salirse .frame-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 10px;
+  width: 74px;
+}
+
+.salirse .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 25.5px;
+  margin-top: 19.5px;
+  width: 25.2px;
+}
+
+.salirse .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 9px;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.salirse .group-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  margin-left: 26px;
+  margin-top: 21px;
+  width: 35px;
+}
+
+.salirse .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 1px;
+  width: 30px;
+}
+
+.salirse .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-top: 6px;
+  text-align: center;
+  width: 33px;
+}
+
+.salirse .frame-1620 {
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-left: 25px;
+  margin-top: 1px;
+  width: 67px;
+}
+
+.salirse .icon-play {
+  height: 22.4px;
+  margin-left: 21.5px;
+  margin-top: 19.5px;
+  width: 22.4px;
+}
+
+.salirse .aprende {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 6.1px;
+  text-align: center;
+  width: 39px;
+}
+
+.salirse .frame-1619 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 76px;
+  margin-left: 10px;
+  margin-top: 1px;
+  padding: 17px 0;
+  width: 53px;
+}
+
+.salirse .combined-shape {
+  height: 22px;
+  margin-right: 0.52px;
+  margin-top: 3px;
+  width: 18px;
+}
+
+.salirse .perfil {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
+
+.salirse .rectangle-589 {
+  background-color: var(--miwo10);
+  border-radius: 13px;
+  box-shadow: 0px 0px 12px #ff855f;
+  height: 52px;
+  left: 151px;
+  position: absolute;
+  top: 13px;
+  width: 56px;
+}
+
+.salirse .iconly-light-outline3-user-1 {
+  height: 22px;
+  left: 164px;
+  position: absolute;
+  top: 28px;
+  width: 30px;
+}

@@ -375,7 +375,7 @@
   align-items: flex-start;
   display: flex;
   height: 59px;
-  margin-right: 2px;
+  margin-right: -1px;
   min-width: 133px;
 }
 
@@ -687,6 +687,7 @@
   margin-left: 36px;
   position: relative;
   width: 254px;
+  
 }
 
 .home-mi-dinero .overlap-group5 {
