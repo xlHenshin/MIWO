@@ -5,6 +5,10 @@ const url = location.href;
 const line = url.split('/');
 const name = line[3];
 
+if( name === 'MIWO'){
+    const name = line[4];
+}
+
 if (name === 'registro.html'){
     
     let type = document.getElementById('documentType');
