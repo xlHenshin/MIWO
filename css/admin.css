@@ -1,0 +1,441 @@
+
+.admin {
+    margin-top: 340px;
+    margin-left: -20px;
+}
+
+
+.admin .group-1936 {
+    align-self: center;
+    display: flex;
+    height: 40px;
+    margin-top: 0px;
+    width: 320px;
+    margin-left: 27px;
+  }
+  
+  .admin .group-1403a {
+    align-items: flex-start;
+    box-shadow: 0px 4px 13px #fa6c3970;
+    display: flex;
+    flex: 1;
+    min-width: 322px;
+  }
+  
+  .admin .overlap-group-4 {
+    align-items: flex-start;
+    border-radius: 9px;
+    display: flex;
+    min-width: 320px;
+    padding: 0 37px;
+  }
+  
+  .admin .crear-otro-parche {
+    height: 40px;
+    letter-spacing: 0;
+    margin-top: -1px;
+    text-align: center;
+    width: 231px;
+  }
+
+
+.admin .group-container-1 {
+    height: 302px;
+    margin-top: 36px;
+    position: relative;
+    width: 380px;
+  }
+  
+  .admin .group-1912 {
+    display: flex;
+    height: 17px;
+    left: 21px;
+    position: absolute;
+    top: 0;
+    width: 85px;
+  }
+  
+  .admin .parches-pblicos {
+    height: 17px;
+    letter-spacing: 0;
+    width: 120px;
+  }
+  
+  .admin .overlap-group9 {
+    height: 289px;
+    left: 0;
+    position: absolute;
+    top: 13px;
+    width: 380px;
+  }
+  
+  .admin .overlap-group8 {
+    height: 289px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 380px;
+  }
+  
+  .admin .rectangle-9 {
+    height: 263px;
+    left: 14px;
+    position: absolute;
+    top: 7px;
+    width: 343px;
+  }
+  
+  .admin .image-61 {
+    height: 56px;
+    left: 173px;
+    position: absolute;
+    top: 2px;
+    width: 56px;
+  }
+  
+  .admin .mask-group-2 {
+    height: auto;
+    left: 157px;
+    position: absolute;
+    top: 0;
+    width: 50px;
+  }
+  
+  .admin .group-1724 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 39px;
+    min-height: 212px;
+    position: absolute;
+    top: 32px;
+    width: 335px;
+  }
+  
+  .admin .flex-row {
+    align-items: flex-start;
+    display: flex;
+    height: 79px;
+    margin-left: 0.13px;
+    min-width: 244px;
+  }
+  
+  .admin .mask-group-3 {
+    height: 67px;
+    width: 67px;
+  }
+  
+  .admin .flex-col {
+    align-items: center;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    margin-left: -27px;
+    min-height: 46px;
+    width: 171px;
+  }
+  
+  .admin .parche-quedada {
+    letter-spacing: 0;
+    min-height: 25px;
+    min-width: 171px;
+    font-family: var(--font-family-niveau_grotesk-medium);
+  }
+  
+  .admin .flex-row-1 {
+    align-items: flex-end;
+    display: flex;
+    margin-left: -47px;
+    margin-top: -2px;
+    min-width: 122px;
+  }
+  
+  .admin .group-1573 {
+    align-items: flex-end;
+    display: flex;
+    justify-content: flex-end;
+    min-width: 41px;
+    transform: rotate(-180deg);
+  }
+  
+  .admin .group-container {
+    height: 19px;
+    margin-bottom: 0;
+    position: relative;
+    width: 41px;
+  }
+  
+  .admin .group-1570 {
+    align-items: flex-end;
+    display: flex;
+    height: 19px;
+    justify-content: flex-end;
+    left: 22px;
+    min-width: 19px;
+    position: absolute;
+    top: -2px;
+    transform: rotate(-360deg);
+  }
+  
+  .admin .overlap-groupa {
+    border-radius: 9.48px/9.3px;
+    height: 19px;
+    margin-bottom: 0;
+    position: relative;
+    width: 19px;
+
+  }
+  
+  .admin .ellipse-173 {
+    background-color: var(--blue);
+    border-radius: 9.48px/9.3px;
+    height: 19px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transform: rotate(-360deg);
+    width: 19px;
+  }
+  
+  .admin .mask-group {
+    height: 17px;
+    left: 1px;
+    position: absolute;
+    top: 1px;
+    transform: rotate(-180deg);
+    width: 17px;
+  }
+  
+  .admin .group-1571 {
+    align-items: flex-end;
+    display: flex;
+    height: 19px;
+    justify-content: flex-end;
+    left: 13px;
+    min-width: 19px;
+    position: absolute;
+    top: 0;
+    transform: rotate(-360deg);
+  }
+  
+  .admin .group-1572 {
+    align-items: flex-end;
+    display: flex;
+    height: 19px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 19px;
+    position: absolute;
+    top: 0;
+    transform: rotate(-360deg);
+  }
+  
+  .admin .address {
+    height: 16px;
+    letter-spacing: 0;
+    line-height: 14.3px;
+    margin-bottom: 0.6px;
+    margin-left: 3px;
+    white-space: nowrap;
+    width: 77px;
+  }
+  
+  .admin .vamos-a-tomar-una-ce {
+    height: 14px;
+    letter-spacing: 0;
+    margin-top: 4px;
+    text-align: center;
+    width: 296px;
+  }
+  
+  .admin .overlap-group-container {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 0.29px;
+    margin-top: 7px;
+    min-width: 300px;
+  }
+  
+  .admin .overlap-group-1 {
+    border-radius: 4.23px;
+    height: 50px;
+    position: relative;
+    width: 145px;
+  }
+  
+  .admin .price {
+    height: 16px;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: 21.4px;
+    position: absolute;
+    text-align: center;
+    top: 24px;
+    white-space: nowrap;
+    width: 67px;
+  }
+  
+  .admin .meta {
+    height: 17px;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: 15.7px;
+    position: absolute;
+    top: 4px;
+    white-space: nowrap;
+    width: 35px;
+  }
+  
+  .admin .rectangle {
+    border-radius: 4.23px;
+    height: 50px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 145px;
+  }
+  
+  .admin .rectangle-60 {
+    background-color: var(--purple-heart);
+    border-radius: 6.35px;
+    height: 36px;
+    left: 8px;
+    position: absolute;
+    top: 7px;
+    width: 36px;
+  }
+  
+  .admin .mask-group-4 {
+    height: 23px;
+    left: 15px;
+    position: absolute;
+    top: 14px;
+    width: 23px;
+  }
+  
+  .admin .overlap-group-2 {
+    border-radius: 4.23px;
+    height: 50px;
+    margin-left: 3px;
+    position: relative;
+    width: 145px;
+  }
+  
+  .admin .address-1 {
+    height: 16px;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: 21.4px;
+    position: absolute;
+    top: 25px;
+    white-space: nowrap;
+    width: 78px;
+  }
+  
+  .admin .faltan {
+    height: 17px;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: 15.7px;
+    position: absolute;
+    top: 7px;
+    white-space: nowrap;
+    width: 59px;
+  }
+  
+  .admin .icon-clock {
+    height: 19px;
+    left: 17px;
+    position: absolute;
+    top: 16px;
+    width: 19px;
+  }
+  
+  .admin .price-2 {
+    height: 18px;
+    left: 53px;
+    letter-spacing: 0;
+    line-height: 21.4px;
+    position: absolute;
+    top: 23px;
+    white-space: nowrap;
+    width: 65px;
+  }
+  
+  .admin .recaudado {
+    height: 19px;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: 15.7px;
+    position: absolute;
+    top: 4px;
+    width: 86px;
+  }
+  
+  .admin .mask-group-5 {
+    height: 22px;
+    left: 15px;
+    position: absolute;
+    top: 13px;
+    width: 22px;
+  }
+  
+  .admin .price-1 {
+    height: 18px;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: 21.4px;
+    position: absolute;
+    text-align: center;
+    top: 23px;
+    white-space: nowrap;
+    width: 65px;
+  }
+  
+  .admin .cuota-nica {
+    height: 19px;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: 17.1px;
+    position: absolute;
+    top: 4px;
+    white-space: nowrap;
+    width: 86px;
+  }
+  
+  .admin .mask-group-6 {
+    height: 22px;
+    left: 16px;
+    position: absolute;
+    top: 13px;
+    width: 22px;
+  }
+  
+  .admin .rectangle-894-1 {
+    background-color: var(--purple-heart);
+    border-radius: 0px 12px 0px 9.31px;
+    height: 27px;
+    left: 218px;
+    position: absolute;
+    top: 23px;
+    width: 124px;
+  }
+  
+  .admin .group-1909 {
+    display: flex;
+    height: 11px;
+    left: 224px;
+    position: absolute;
+    top: 31px;
+    width: 122px;
+  }
+  
+  .admin .administrador {
+    flex: 1;
+    letter-spacing: 0;
+    line-height: 17.5px;
+    text-align: center;
+    white-space: nowrap;
+    width: 120px;
+  }
+  

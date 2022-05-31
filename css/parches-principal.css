@@ -11,6 +11,8 @@
 }
 
 .overlap-group8 {
+  position: absolute;
+  top: 35px;
   padding-top: 20px;
 }
 
@@ -22,19 +24,22 @@
   width: 429px;
 }
 
-
-
+#contenido::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
 
 #contenido {
-  height: 257px;
+  height: 500px;
   margin-right: 1.0px;
   margin-top: 140px;
   position: relative;
-  width: 329px;
+  width: 340px;
+  overflow-y: scroll;
 }
 .group-1925 {
   position: absolute;
-  top: -23px;
+  top: 10px;
 }
 .parches-principal .group-1906 {
   height: 370px;
@@ -741,3 +746,4 @@
   top: 13px;
   width: 22px;
 }
+
