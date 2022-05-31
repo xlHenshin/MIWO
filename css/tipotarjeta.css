@@ -1,0 +1,297 @@
+/* screen - tipotarjeta */
+
+.tipotarjeta {
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 926px;
+  min-width: 428px;
+}
+
+.tipotarjeta .group-1689 {
+  align-items: flex-start;
+  display: flex;
+  height: 22.71px;
+  margin-left: 38px;
+  margin-top: 60px;
+  min-width: 153px;
+}
+
+.tipotarjeta .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.tipotarjeta .sacar-tarjeta-miwo {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 121px;
+}
+
+.tipotarjeta .title {
+  height: 28px;
+  letter-spacing: 0;
+  margin-left: 38px;
+  margin-top: 60.3px;
+  width: 228px;
+}
+
+.tipotarjeta .group-1742 {
+  align-items: flex-start;
+  display: flex;
+  height: 61px;
+  margin-left: 38px;
+  margin-top: 35px;
+  min-width: 354px;
+}
+
+.tipotarjeta .overlap-group {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6295f6717a218417a70d1124/img/group-1661@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  margin-left: -15px;
+  margin-top: -15px;
+  min-width: 382px;
+  padding: 25px 30px;
+}
+
+.tipotarjeta .group-1949 {
+  align-self: flex-end;
+  background-color: var(--purple-heart);
+  border-radius: 13px;
+  display: flex;
+  height: 40px;
+  width: 40px;
+}
+
+.tipotarjeta .icon-credit_card {
+  height: 15px;
+  margin-left: 10px;
+  margin-top: 12px;
+  width: 19px;
+}
+
+.tipotarjeta .tarjeta-fsica-y-virtual {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-l2);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-left: 30px;
+  min-height: 19px;
+  min-width: 145px;
+}
+
+.tipotarjeta .group-1743 {
+  align-items: flex-start;
+  display: flex;
+  height: 61px;
+  margin-left: 38px;
+  margin-top: 9px;
+  min-width: 354px;
+}
+
+.tipotarjeta .overlap-group-1 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--purple-heart);
+  border-radius: 13px;
+  display: flex;
+  height: 40px;
+  min-width: 40px;
+  padding: 0 11px;
+}
+
+.tipotarjeta .icon-signal {
+  height: 18px;
+  width: 18px;
+}
+
+.tipotarjeta .tarjeta-virtual {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-l2);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-left: 30px;
+  min-height: 19px;
+  min-width: 94px;
+}
+
+.tipotarjeta .group-868 {
+  display: flex;
+  margin-left: 128px;
+  margin-top: 49px;
+  width: 145px;
+}
+
+.tipotarjeta .fialert-circle {
+  height: 24px;
+  width: 24px;
+}
+
+.tipotarjeta .conoce-ms-aqu {
+  color: var(--lapis-lazuli);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-m2);
+  font-weight: 500;
+  height: 17px;
+  letter-spacing: 0;
+  margin-left: 7px;
+  margin-top: 4px;
+  text-decoration: underline;
+  width: 112px;
+}
+
+.tipotarjeta .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  margin-left: 19px;
+  margin-top: 420px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.tipotarjeta .navegador-principal-1 {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  overflow: hidden;
+  width: 390px;
+}
+
+.tipotarjeta .group-1880 {
+  display: flex;
+  margin-left: 20px;
+  width: 356px;
+}
+
+.tipotarjeta .frame-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  width: 55px;
+}
+
+.tipotarjeta .icon-home {
+  height: 22.6px;
+  margin-left: 16.5px;
+  margin-top: 20.5px;
+  width: 21.6px;
+}
+
+.tipotarjeta .place {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 27px;
+}
+
+.tipotarjeta .frame-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 6px;
+  width: 78px;
+}
+
+.tipotarjeta .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 27.5px;
+  margin-top: 19.5px;
+  width: 25.2px;
+}
+
+.tipotarjeta .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 11px;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.tipotarjeta .frame-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 10px;
+  width: 61px;
+}
+
+.tipotarjeta .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 15px;
+  margin-top: 21px;
+  width: 30px;
+}
+
+.tipotarjeta .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 6px;
+  text-align: center;
+  width: 33px;
+}
+
+.tipotarjeta .frame-1620 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 15px;
+  width: 63px;
+}
+
+.tipotarjeta .icon-play {
+  height: 22.4px;
+  margin-left: 19.5px;
+  margin-top: 20.5px;
+  width: 22.4px;
+}
+
+.tipotarjeta .aprende {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: 6.1px;
+  text-align: center;
+  width: 39px;
+}
+
+.tipotarjeta .frame-1624 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 9px;
+  padding: 17px 0;
+  width: 59px;
+}
+
+.tipotarjeta .combined-shape {
+  height: 22px;
+  margin-right: 0.52px;
+  margin-top: 4px;
+  width: 18px;
+}
+
+.tipotarjeta .perfil {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}

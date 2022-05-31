@@ -1,0 +1,511 @@
+/* screen - personaliza */
+
+.personaliza {
+  align-items: center;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  width: 428px;
+}
+
+.personaliza .overlap-group3 {
+  height: 480px;
+  position: relative;
+  width: 428px;
+}
+
+.personaliza .group-1950 {
+  height: 463px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.personaliza .overlap-group1 {
+  background-color: var(--purple-heart);
+  border-radius: 31.75px/32.49px;
+  height: 65px;
+  left: 339px;
+  position: absolute;
+  top: 46px;
+  width: 63px;
+}
+
+.personaliza .group-1404 {
+  background-color: var(--purple-heart);
+  border-radius: 19.95px/20.69px;
+  box-shadow: 0px 4px 28px #2d0bff63;
+  display: flex;
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.personaliza .ufilter {
+  height: 16.39px;
+  margin-left: 11.6px;
+  margin-top: 13.1px;
+  width: 16.39px;
+}
+
+.personaliza .icon-notifications {
+  height: 17px;
+  left: 11px;
+  position: absolute;
+  top: 12px;
+  width: 17px;
+}
+
+.personaliza .personalzala {
+  display: flex;
+  height: 28px;
+  left: 57px;
+  position: absolute;
+  top: 127px;
+  width: 147px;
+}
+
+.personaliza .personalzala-1 {
+  flex: 1;
+  letter-spacing: 0;
+  width: 147px;
+}
+
+.personaliza .combina-contigo {
+  left: 62px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 411px;
+}
+
+.personaliza .elige-entre-diferent {
+  left: 64px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 446px;
+  width: 292px;
+}
+
+.personaliza .volver-a-inicio-mi-dinero {
+  align-items: flex-end;
+  display: flex;
+  height: 40px;
+  left: 38px;
+  min-width: 122px;
+  position: absolute;
+  top: 60px;
+}
+
+.personaliza .volver-a-inicio-subscripciones {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-bottom: -10.71px;
+  min-width: 122px;
+}
+
+.personaliza .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.personaliza .volver-a-inicio {
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 2.0px;
+  min-height: 17px;
+}
+
+.card{
+  width: 100%;
+}
+
+.personaliza .card-front {
+  display: flex;
+  height: 220px;
+  left: 46px;
+  position: absolute;
+  top: 173px;
+  width: 330px;
+}
+
+.personaliza .card-front-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 304px;
+}
+
+.personaliza .overlap-group2 {
+  height: 185px;
+  margin-top: -0.21px;
+  position: relative;
+  width: 304px;
+}
+
+.personaliza .group-container {
+  height: 185px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 304px;
+}
+
+.personaliza .group-1293 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6295f6717a218417a70d1124/img/rectangle-425@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 185px;
+  left: 0;
+  min-width: 304px;
+  position: absolute;
+  top: 0;
+}
+
+.personaliza .overlap-group {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6295f6717a218417a70d1124/img/mask-group-3@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 185px;
+  margin-top: -0.21px;
+  min-width: 304px;
+  padding: 42.4px 36.2px;
+}
+
+.personaliza .group-775 {
+  display: flex;
+  height: 17px;
+  width: 227px;
+}
+
+.personaliza .address {
+  flex: 1;
+  letter-spacing: -0.40px;
+  width: 225.29px;
+}
+
+.personaliza .group {
+  height: 23px;
+  left: 33px;
+  position: absolute;
+  top: 31px;
+  width: 29px;
+}
+
+.personaliza .group-1005 {
+  height: 11px;
+  left: 232px;
+  position: absolute;
+  top: 149px;
+  width: 45px;
+}
+
+.personaliza .saldo-disponible {
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 70px;
+  width: 135px;
+}
+
+.personaliza .price {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 89px;
+}
+
+.personaliza .selecciona-tu-estilo {
+  letter-spacing: 0;
+  margin-right: 30.0px;
+  margin-top: 30px;
+  min-height: 19px;
+  width: 274px;
+}
+
+.personaliza .group-1772 {
+  align-items: flex-end;
+  display: flex;
+  height: 62px;
+  justify-content: flex-end;
+  margin-left: 0;
+  margin-top: 17px;
+  min-width: 304px;
+  padding: 0 0.0px;
+}
+
+.personaliza .group-1771 {
+  background-color: var(--miwo10);
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6295f6717a218417a70d1124/img/mask-group-2@2x.png);
+  background-size: 100% 100%;
+  border-radius: 4px;
+  height: 61px;
+  margin-bottom: 0.17px;
+  width: 89px;
+}
+
+.personaliza .mask-group {
+  height: 61px;
+  margin-left: 18px;
+  width: 89px;
+}
+
+.personaliza .mask-group-1 {
+  align-self: flex-start;
+  height: 61px;
+  margin-left: 18px;
+  margin-top: 0;
+  width: 89px;
+}
+
+.personaliza .elige-tu-color {
+  letter-spacing: 0;
+  margin-right: 26.0px;
+  margin-top: 33px;
+  min-height: 19px;
+  width: 274px;
+}
+
+.personaliza .group-1300 {
+  align-items: flex-start;
+  display: flex;
+  height: 107px;
+  margin-top: 19px;
+  min-width: 300px;
+}
+
+.personaliza .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 107px;
+  width: 93px;
+}
+
+.personaliza .rectangle-434 {
+  background-color: var(--miwo10);
+  border-radius: 4px;
+  height: 49px;
+  width: 93px;
+}
+
+.personaliza .rectangle-571 {
+  background-color: #f9b839;
+  border-radius: 4px;
+  height: 49px;
+  margin-top: 10px;
+  width: 93px;
+}
+
+.personaliza .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 11px;
+  margin-top: 0;
+  min-height: 107px;
+  width: 93px;
+}
+
+.personaliza .rectangle-435 {
+  background-color: #f6f4f3;
+  border: 1px solid #f3baba;
+  border-radius: 4px;
+  height: 49px;
+  width: 93px;
+}
+
+.personaliza .rectangle-574 {
+  background-color: #820cf8;
+  border-radius: 4px;
+  height: 49px;
+  margin-top: 10px;
+  width: 93px;
+}
+
+.personaliza .rectangle-436 {
+  background-color: #21032f;
+  border-radius: 4px;
+  height: 49px;
+  width: 93px;
+}
+
+.personaliza .rectangle-575 {
+  background-color: var(--governor-bay);
+  border-radius: 4px;
+  height: 49px;
+  margin-top: 10px;
+  width: 93px;
+}
+
+.personaliza .overlap-group4 {
+  border-radius: 20px;
+  height: 77px;
+  margin-top: 44px;
+  position: relative;
+  width: 390px;
+}
+
+.personaliza .group-1668 {
+  height: 20px;
+  left: 275px;
+  position: absolute;
+  top: 1px;
+  width: 21px;
+}
+
+.personaliza .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  height: 77px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.personaliza .navegador-principal-1 {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  overflow: hidden;
+  width: 390px;
+}
+
+.personaliza .group-1880 {
+  display: flex;
+  margin-left: 20px;
+  width: 356px;
+}
+
+.personaliza .frame-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  width: 55px;
+}
+
+.personaliza .icon-home {
+  height: 22.6px;
+  margin-left: 16.5px;
+  margin-top: 20.5px;
+  width: 21.6px;
+}
+
+.personaliza .place {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 27px;
+}
+
+.personaliza .frame-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 6px;
+  width: 78px;
+}
+
+.personaliza .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 27.5px;
+  margin-top: 19.5px;
+  width: 25.2px;
+}
+
+.personaliza .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 11px;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.personaliza .frame-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 10px;
+  width: 61px;
+}
+
+.personaliza .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 15px;
+  margin-top: 21px;
+  width: 30px;
+}
+
+.personaliza .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 6px;
+  text-align: center;
+  width: 33px;
+}
+
+.personaliza .frame-1620 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 15px;
+  width: 63px;
+}
+
+.personaliza .icon-play {
+  height: 22.4px;
+  margin-left: 19.5px;
+  margin-top: 20.5px;
+  width: 22.4px;
+}
+
+.personaliza .aprende {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: 6.1px;
+  text-align: center;
+  width: 39px;
+}
+
+.personaliza .frame-1624 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 9px;
+  padding: 17px 0;
+  width: 59px;
+}
+
+.personaliza .combined-shape {
+  height: 22px;
+  margin-right: 0.52px;
+  margin-top: 4px;
+  width: 18px;
+}
+
+.personaliza .perfil {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}

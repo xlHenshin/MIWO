@@ -1,0 +1,490 @@
+/* screen - vertarjeta */
+
+.vertarjeta {
+  align-items: center;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  width: 428px;
+}
+
+.vertarjeta .overlap-group6 {
+  height: 480px;
+  position: relative;
+  width: 428px;
+}
+
+.vertarjeta .group-1950 {
+  height: 463px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.vertarjeta .ellipse-164 {
+  background-color: var(--governor-bay);
+  border-radius: 31.75px/32.49px;
+  height: 65px;
+  left: 339px;
+  position: absolute;
+  top: 46px;
+  width: 63px;
+}
+
+.vertarjeta .overlap-group-1 {
+  border-radius: 19.95px/20.69px;
+  height: 41px;
+  left: 351px;
+  position: absolute;
+  top: 58px;
+  width: 40px;
+}
+
+.vertarjeta .group-1404 {
+  background-color: var(--purple-heart);
+  border-radius: 19.95px/20.69px;
+  box-shadow: 0px 4px 28px #2d0bff63;
+  display: flex;
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.vertarjeta .ufilter {
+  height: 16.39px;
+  margin-left: 11.6px;
+  margin-top: 13.1px;
+  width: 16.39px;
+}
+
+.vertarjeta .icon-notifications {
+  height: 17px;
+  left: 11px;
+  position: absolute;
+  top: 12px;
+  width: 17px;
+}
+
+.vertarjeta .title {
+  left: 57px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 126px;
+}
+
+.vertarjeta .tarjeta-fsica-y-virtual {
+  left: 62px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 411px;
+}
+
+
+.vertarjeta .overlap-group2 {
+  display: flex;
+  height: 220px;
+  left: 46px;
+  position: absolute;
+  top: 173px;
+  width: 330px;
+}
+
+.vertarjeta .group-container {
+  height: 185px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 304px;
+}
+
+.vertarjeta .group-1293 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6295f6717a218417a70d1124/img/rectangle-425@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 185px;
+  left: 0;
+  min-width: 304px;
+  position: absolute;
+  top: 0;
+}
+
+.vertarjeta .overlap-group-2 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6295f6717a218417a70d1124/img/mask-group-3@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 185px;
+  margin-top: -0.21px;
+  min-width: 304px;
+  padding: 42.4px 36.2px;
+}
+
+.vertarjeta .group-775 {
+  display: flex;
+  height: 17px;
+  width: 227px;
+}
+
+.vertarjeta .address {
+  height: 16.89px;
+  letter-spacing: -0.40px;
+  width: 225.29px;
+}
+
+.vertarjeta .group {
+  height: 23px;
+  left: 33px;
+  position: absolute;
+  top: 31px;
+  width: 29px;
+}
+
+.vertarjeta .group-1005 {
+  height: 11px;
+  left: 232px;
+  position: absolute;
+  top: 149px;
+  width: 45px;
+}
+
+.vertarjeta .saldo-disponible {
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 71px;
+  width: 135px;
+}
+
+.vertarjeta .price {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 90px;
+}
+
+.vertarjeta .aqu-podrs-ver-toda {
+  left: 64px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 446px;
+  width: 292px;
+}
+
+.vertarjeta .volver-a-inicio-mi-dinero {
+  align-items: flex-end;
+  display: flex;
+  height: 40px;
+  left: 38px;
+  min-width: 122px;
+  position: absolute;
+  top: 60px;
+}
+
+.vertarjeta .volver-a-inicio-subscripciones {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-bottom: -10.71px;
+  min-width: 122px;
+}
+
+.vertarjeta .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.vertarjeta .volver-a-inicio {
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 2.0px;
+  min-height: 17px;
+}
+
+.vertarjeta .group-1742 {
+  align-items: flex-start;
+  display: flex;
+  height: 61px;
+  margin-left: 2.0px;
+  margin-top: 45px;
+  min-width: 354px;
+}
+
+.vertarjeta .overlap-group {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6295f6717a218417a70d1124/img/group-1661@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  margin-left: -15px;
+  margin-top: -15px;
+  min-width: 382px;
+  padding: 25px 30px;
+}
+
+.vertarjeta .overlap-group-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--purple-heart);
+  border-radius: 13px;
+  display: flex;
+  height: 40px;
+  min-width: 40px;
+  padding: 12px 10px;
+}
+
+.vertarjeta .icon-credit_card {
+  height: 15px;
+  width: 19px;
+}
+
+.vertarjeta .personalizar {
+  letter-spacing: 0;
+  margin-left: 30px;
+  min-height: 19px;
+  min-width: 82px;
+}
+
+.vertarjeta .group-1743 {
+  align-items: flex-start;
+  display: flex;
+  height: 61px;
+  margin-left: 2.0px;
+  margin-top: 9px;
+  min-width: 354px;
+}
+
+.vertarjeta .overlap-group-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--purple-heart);
+  border-radius: 13px;
+  display: flex;
+  height: 40px;
+  min-width: 40px;
+  padding: 13.0px 13.0px;
+}
+
+.vertarjeta .upercentage {
+  height: 13px;
+  width: 13px;
+}
+
+.vertarjeta .ofertas-especiales {
+  letter-spacing: 0;
+  margin-left: 30px;
+  min-height: 19px;
+  min-width: 125px;
+}
+
+.vertarjeta .group-1770 {
+  align-items: flex-start;
+  display: flex;
+  height: 61px;
+  margin-left: 2.0px;
+  margin-top: 12px;
+  min-width: 354px;
+}
+
+.vertarjeta .overlap-group-5 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--purple-heart);
+  border-radius: 13px;
+  display: flex;
+  height: 40px;
+  min-width: 40px;
+  padding: 12px 12.0px;
+}
+
+.vertarjeta .uqrcode-scan {
+  height: 15px;
+  width: 15px;
+}
+
+.vertarjeta .crear-clave-de-seguridad-qr {
+  letter-spacing: 0;
+  margin-left: 30px;
+  min-height: 19px;
+  min-width: 197px;
+}
+
+.vertarjeta .overlap-group7 {
+  border-radius: 20px;
+  height: 77px;
+  margin-top: 101px;
+  position: relative;
+  width: 390px;
+}
+
+.vertarjeta .group-1668 {
+  height: 20px;
+  left: 275px;
+  position: absolute;
+  top: 1px;
+  width: 21px;
+}
+
+.vertarjeta .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  height: 77px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.vertarjeta .navegador-principal-1 {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  overflow: hidden;
+  width: 390px;
+}
+
+.vertarjeta .group-1880 {
+  display: flex;
+  margin-left: 20px;
+  width: 356px;
+}
+
+.vertarjeta .frame-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  width: 55px;
+}
+
+.vertarjeta .icon-home {
+  height: 22.6px;
+  margin-left: 16.5px;
+  margin-top: 20.5px;
+  width: 21.6px;
+}
+
+.vertarjeta .place {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 27px;
+}
+
+.vertarjeta .frame-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 6px;
+  width: 78px;
+}
+
+.vertarjeta .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 27.5px;
+  margin-top: 19.5px;
+  width: 25.2px;
+}
+
+.vertarjeta .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 11px;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.vertarjeta .frame-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 10px;
+  width: 61px;
+}
+
+.vertarjeta .iconly-light-outline3-user {
+  height: 22px;
+  margin-left: 15px;
+  margin-top: 21px;
+  width: 30px;
+}
+.card{
+  width: 100%;
+}
+
+.iconly-light-outline3-user-1 {
+  height: 22px;
+  margin-left: 15px;
+  margin-top: 21px;
+  width: 30px;
+}
+
+.vertarjeta .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 6px;
+  text-align: center;
+  width: 33px;
+}
+
+.vertarjeta .frame-1620 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 15px;
+  width: 63px;
+}
+
+.vertarjeta .icon-play {
+  height: 22.4px;
+  margin-left: 19.5px;
+  margin-top: 20.5px;
+  width: 22.4px;
+}
+
+.vertarjeta .aprende {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: 6.1px;
+  text-align: center;
+  width: 39px;
+}
+
+.vertarjeta .frame-1624 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 9px;
+  padding: 17px 0;
+  width: 59px;
+}
+
+.vertarjeta .combined-shape {
+  height: 22px;
+  margin-right: 0.52px;
+  margin-top: 4px;
+  width: 18px;
+}
+
+.vertarjeta .perfil {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}
