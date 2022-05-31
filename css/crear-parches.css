@@ -162,10 +162,12 @@
 .crear-parches .ej-caminata-mximo-25-caracteres {
   background-color: transparent;
   border: 0;
-  height: 16px;
+  height: 58px;
   letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 20px;
   padding: 0;
-  width: 207px;
+  width: 267px;
 }
 
 .crear-parches .ej-caminata-mximo-25-caracteres::placeholder {
@@ -195,10 +197,12 @@
 .crear-parches .qu-vas-a-hacer-en-es {
   background-color: transparent;
   border: 0;
-  height: 32px;
+  height: 58px;
   letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 20px;
   padding: 0;
-  width: 207px;
+  width: 267px;
 }
 
 .crear-parches .qu-vas-a-hacer-en-es::placeholder {
@@ -228,10 +232,12 @@
 .crear-parches .ej-cali-mximo-25-caracteres {
   background-color: transparent;
   border: 0;
-  height: 16px;
+  height: 58px;
   letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 20px;
   padding: 0;
-  width: 207px;
+  width: 267px;
 }
 
 .crear-parches .ej-cali-mximo-25-caracteres::placeholder {
@@ -370,10 +376,12 @@
 .crear-parches .ej-1000000 {
   background-color: transparent;
   border: 0;
-  height: 16px;
+  height: 58px;
   letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 20px;
   padding: 0;
-  width: 207px;
+  width: 267px;
 }
 
 .crear-parches .ej-1000000::placeholder {
