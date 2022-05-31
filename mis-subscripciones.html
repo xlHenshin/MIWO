@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="./css/mis-subscripciones.css" />
+  <link rel="stylesheet" type="text/css" href="./css/styleguide.css" />
+  <link rel="stylesheet" type="text/css" href="./css/globals.css" />
+</head>
+
+<body style="margin: 0; background: #ffffff">
+  <input type="hidden" id="anPageName" name="page" value="mis-subscripciones" />
+  <div class="container-center-horizontal">
+    <div class="mis-subscripciones screen">
+      <div class="flex-row">
+        <div class="volver-a-inicio-subscripciones">
+          <img class="vector-1"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62717421b69d2fcf4c28629b/img/vector-4@2x.png" />
+          <div class="volver-a-inicio niveaugrotesk-bold-purple-heart-15px">Volver a Inicio</div>
+        </div>
+        <div class="overlap-group-container">
+          <div class="overlap-group-2">
+            <div class="group-1404">
+              <img class="ufilter"
+                src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6270b862884b6e85169759a3/img/u-filter@2x.png" />
+            </div>
+            <img class="icon-notifications"
+              src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62711a8cdc2db8dc5f0ff170/img/vector-4@2x.png" />
+          </div>
+          <div class="overlap-group5">
+            <div class="group-1404-1 border-0-2px-white">
+              <img class="ufilter"
+                src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/6270b862884b6e85169759a3/img/u-filter@2x.png" />
+            </div>
+            <img class="icon-notifications"
+              src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62711a8cdc2db8dc5f0ff170/img/vector-4@2x.png" />
+          </div>
+        </div>
+      </div>
+      <h1 class="title niveaugrotesk-bold-smashed-pumpkin-24px">Mis Suscripciones</h1>
+      <div class="en-menos-de-una-semana niveaugrotesk-medium-purple-heart-20px">En menos de una semana</div>
+      <div class="group-1968" id="disney">
+        <div class="overlap-group1">
+          <img class="group-1"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/group-1718@2x.png" />
+          <div class="frame-1903" onclick="eliminar('disney')">
+            <img class="vector-2"
+              src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/vector-9@2x.png" />
+          </div>
+          <img class="group-1-1"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/group-1661-5@2x.png" />
+          <img class="mask-group"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/mask-group-10@2x.png" />
+          <div class="price niveaugrotesk-regular-normal-shark-15px2">$30.000,00</div>
+          <div class="date niveaugrotesk-regular-normal-suva-gray-12px">27/04/21</div>
+          <div class="mensual niveaugrotesk-bold-smashed-pumpkin-14px">Mensual</div>
+          <div class="disney niveaugrotesk-bold-purple-heart-16px">Disney+</div>
+          <div class="overlap-group">
+            <div class="pago-en niveaugrotesk-regular-normal-white-12px2">Pago en 3 días</div>
+          </div>
+        </div>
+      </div>
+      <div class="group-19" id="spotify">
+        <div class="overlap-group-1">
+          <img class="group-1" onclick="eliminar('disney')"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/group-1832@2x.png" />
+          <img class="group-1-1"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/group-1661-5@2x.png" />
+          <img class="mask-group"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/mask-group-11@2x.png" />
+          <div class="price niveaugrotesk-regular-normal-shark-15px2">$15.900,00</div>
+          <div class="date niveaugrotesk-regular-normal-suva-gray-12px">27/04/21</div>
+          <div class="anual niveaugrotesk-bold-smashed-pumpkin-14px">Anual</div>
+          <div class="spotify niveaugrotesk-bold-purple-heart-16px">Spotify</div>
+          <div class="overlap-group">
+            <div class="pago-en niveaugrotesk-regular-normal-white-12px2">Pago en 5 días</div>
+          </div>
+        </div>
+      </div>
+      <div class="group-19" id="netflix">
+        <div class="overlap-group-1">
+          <img class="group-1"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/group-1718@2x.png" />
+          <img class="vector"
+          onclick="eliminar('disney')"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/vector-9@2x.png" />
+          <img class="group-1-1"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/group-1661-5@2x.png" />
+          <img class="mask-group"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/mask-group-12@2x.png" />
+          <div class="price niveaugrotesk-regular-normal-shark-15px2">$30.000,00</div>
+          <div class="date niveaugrotesk-regular-normal-suva-gray-12px">27/04/21</div>
+          <div class="mensual niveaugrotesk-bold-smashed-pumpkin-14px">Mensual</div>
+          <div class="netflix niveaugrotesk-bold-purple-heart-16px">Netflix</div>
+          <div class="overlap-group">
+            <div class="pago-en niveaugrotesk-regular-normal-white-12px2">Pago en 5 días</div>
+          </div>
+        </div>
+      </div>
+      <div class="group-1971" id="ellipse">
+        <div class="overlap-group-1">
+          <img class="group-1"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/group-1718@2x.png" />
+          <img class="vector"
+          onclick="eliminar('disney')"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/vector-9@2x.png" />
+          <img class="group-1-1"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/group-1661-5@2x.png" />
+          <div class="price niveaugrotesk-regular-normal-shark-15px2">$15.000,00</div>
+          <div class="date niveaugrotesk-regular-normal-suva-gray-12px">27/04/21</div>
+          <div class="mensual niveaugrotesk-bold-smashed-pumpkin-14px">Mensual</div>
+          <div class="ellipse niveaugrotesk-bold-purple-heart-16px">Ellipse</div>
+          <div class="overlap-group">
+            <div class="pago-en niveaugrotesk-regular-normal-white-12px2">Pago en 7 días</div>
+          </div>
+          <div class="group-1715">
+            <img class="vector-3"
+              src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/vector-14@2x.png" />
+          </div>
+        </div>
+      </div>
+      <div class="falta-un-mes-o-ms niveaugrotesk-medium-purple-heart-20px">Falta un mes o más</div>
+      <div class="overlap-group9" id="youtube">
+        <div class="price-1 niveaugrotesk-regular-normal-shark-15px2">$10.900,00</div>
+        <div class="overlap-group6">
+          <img class="group-1"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/group-1718@2x.png" />
+          <img class="vector"
+          onclick="eliminar('disney')"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/vector-9@2x.png" />
+          <img class="group-1-1"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/group-1661-5@2x.png" />
+          <div class="date niveaugrotesk-regular-normal-suva-gray-12px">27/05/21</div>
+          <div class="mensual-1 niveaugrotesk-bold-smashed-pumpkin-14px">Mensual</div>
+          <div class="you-tube niveaugrotesk-bold-purple-heart-16px">YouTube</div>
+          <div class="overlap-group-3">
+            <div class="ests-al-da niveaugrotesk-regular-normal-white-12px2">Estás al día</div>
+          </div>
+          <img class="image-170"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/image-170@2x.png" />
+        </div>
+      </div>
+      <div class="navegador-principal">
+        <div class="overlap-group7">
+          <div class="group-1624">
+            <a href="./home-subscripciones.html">
+              <div class="group-1623">
+                <img class="icon-home"
+                  src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/iconly-light-outline-home-4@2x.png" />
+                <div class="inicio niveaugrotesk-medium-smashed-pumpkin-10px">Inicio</div>
+              </div>
+            </a>
+            <div class="frame-1622">
+              <img class="iconly-light-outline-wallet"
+                src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62717421b69d2fcf4c28629b/img/iconly-light-outline-wallet@2x.png" />
+              <div class="movimientos niveaugrotesk-medium-shady-lady-10px">Movimientos</div>
+            </div>
+            <a href="./parches-principal.html">
+              <div class="frame-1621">
+                <img class="iconly-light-outline3-user"
+                  src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62717421b69d2fcf4c28629b/img/iconly-light-outline-3-user-1@2x.png" />
+                <div class="parches niveaugrotesk-medium-shady-lady-10px">Parches</div>
+              </div>
+            </a>
+            <div class="frame-1620" id="url">
+              <img class="icon-play"
+                src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62717421b69d2fcf4c28629b/img/iconly-light-outline-play@2x.png" />
+              <div class="aprende niveaugrotesk-medium-shady-lady-10px">Aprende</div>
+            </div>
+            <div class="frame-1619">
+              <img class="combined-shape"
+                src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62717421b69d2fcf4c28629b/img/combined-shape@2x.png" />
+              <div class="perfil niveaugrotesk-medium-shady-lady-10px">Perfil</div>
+            </div>
+          </div>
+          <div class="rectangle-589 border-0-5px-negroni"></div>
+          <img class="icon-home-1"
+            src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/62962fbb92b84e5d991ac5af/img/group-1623@2x.png" />
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+<script src="./utils/all.js"></script>
+<script>
+  const array = ['disney', 'spotify', 'netflix', 'ellipse', 'youtube'];
+
+  array.forEach((e) => {
+    const compare = window.localStorage.getItem(e);
+    if (compare === 'true') {
+      const cancel = document.getElementById(e);
+      cancel.style.display = 'none';
+    }
+  })
+
+  eliminar = (id) => {
+    var respuesta = confirm("¿Seguro quieres cancelar tu suscripción?")
+
+    if (respuesta) {
+      alert("¡Hemos cancelado tu subscripción con exito!");
+      const cancel = document.getElementById(id);
+      window.localStorage.setItem(id, true);
+      cancel.style.display = 'none';
+
+    } else {
+      alert("¡Sigue disfrutando de esta subscripción!");
+    }
+  };
+</script>
+
+</html>

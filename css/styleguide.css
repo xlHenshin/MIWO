@@ -1,6 +1,6 @@
 :root {
   --rolling-stone-2: #7379824c;
-
+  --tulip: #ff8b91;
   --black: 
   rgba(0, 0, 0, 1);
     --haiti: 
@@ -69,6 +69,22 @@
   --font-family-niveau_grotesk-regular: "Niveau Grotesk-Regular";
   --font-family-poppins: "Poppins";
   --font-family-nunito: "Nunito", Helvetica;
+}
+
+.niveaugrotesk-regular-normal-white-12px2 {
+  color: var(--blue);
+  font-family: var(--font-family-niveau_grotesk-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.niveaugrotesk-medium-purple-heart-20px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 500;
 }
 
 .border-1px-smashed-pumpkin {

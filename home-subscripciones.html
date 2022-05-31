@@ -27,7 +27,7 @@
                   href="./home-mi-dinero.html" class="niveaugrotesk-medium-rolling-stone-14px">Mi dinero</a>
 
               </div>
-              <div class="subscripciones valign-text-middle niveaugrotesk-bold-purple-heart-18px">        Subscripciones
+              <div class="subscripciones valign-text-middle niveaugrotesk-bold-purple-heart-18px"> Subscripciones
               </div>
               <div class="amiwos valign-text-middle niveaugrotesk-medium-rolling-stone-14px"><a
                   href="./home-amiwos.html" class="niveaugrotesk-medium-rolling-stone-14px">Amiwos</a></div>
@@ -67,10 +67,12 @@
           </div>
           <div class="flex-row">
             <div class="mis-subscripciones niveaugrotesk-bold-smashed-pumpkin-24px">Mis Subscripciones</div>
-            <div class="ver-todas niveaugrotesk-bold-purple-heart-15px">Ver Todas</div>
+            <a href="./mis-subscripciones.html">
+              <div class="ver-todas niveaugrotesk-bold-purple-heart-15px">Ver Todas</div>
+            </a>
           </div>
           <div class="overlap-group-container">
-            <div class="group-container-1">
+            <div class="group-container-1" id="disney">
               <img class="mask-group"
                 src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ffa9ed38d8a1dea406b65/img/mask-group-11@2x.svg" />
               <div class="group-1680">
@@ -82,7 +84,7 @@
                 </div>
               </div>
             </div>
-            <div class="group-container-2">
+            <div class="group-container-2" id="netflix">
               <img class="mask-group"
                 src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ffa9ed38d8a1dea406b65/img/mask-group-12@2x.svg" />
               <div class="group-1680">
@@ -94,7 +96,7 @@
                 </div>
               </div>
             </div>
-            <div class="group-container-3">
+            <div class="group-container-3" id="spotify">
               <img class="mask-group"
                 src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ffa9ed38d8a1dea406b65/img/mask-group-13@2x.svg" />
               <div class="group-1680">
@@ -106,7 +108,7 @@
                 </div>
               </div>
             </div>
-            <div class="group-container-4">
+            <div class="group-container-4" id="ellipse">
               <div class="group-1715">
                 <img class="vector-1"
                   src="https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ffa9ed38d8a1dea406b65/img/vector-3@2x.svg" />
@@ -164,6 +166,21 @@
   </div>
 </body>
 <script type="module" src="./js/home.js"></script>
+<script> const array = ['disney', 'spotify', 'netflix', 'ellipse', 'youtube'];
+
+  array.forEach((e) => {
+    const compare = window.localStorage.getItem(e);
+    if (compare === 'true') {
+      const cancel = document.getElementById(e);
+      cancel.style.display = 'none';
+      if (e == 'disney') {
+        document.getElementById('netflix').style.top = '1px';
+      }
+      if (e == 'spotify') {
+        document.getElementById('ellipse').style.top = '1px';
+      }
+    }
+
+  })</script>
 
 </html>
-
