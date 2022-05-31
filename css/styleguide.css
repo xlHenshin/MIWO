@@ -70,6 +70,15 @@
   --font-family-poppins: "Poppins";
   --font-family-nunito: "Nunito", Helvetica;
 }
+
+.niveaugrotesk-medium-haiti-21-2px {
+  color: var(--haiti);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: 21.2px;
+  font-style: normal;
+  font-weight: 500;
+}
+
 .niveaugrotesk-medium-red-14px {
   color: var(--red);
   font-family: var(--font-family-niveau_grotesk-medium);
