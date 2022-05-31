@@ -129,6 +129,122 @@
   min-width: 371px;
 }
 
+.home-amiwos .overlap-group-5 {
+  height: 174px;
+  margin-bottom: -5.81px;
+  position: relative;
+  width: 394px;
+}
+
+.home-amiwos .rectangle-590 {
+  background-color: var(--miwo10);
+  border-radius: 20px;
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.home-amiwos .mask-group-2g {
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.home-amiwos .group-container {
+  height: 169px;
+  left: 166px;
+  position: absolute;
+  top: 5px;
+  width: 228px;
+}
+
+.home-amiwos .group-1811 {
+  align-items: flex-start;
+  display: flex;
+  height: 109px;
+  left: 19px;
+  min-width: 179px;
+  position: absolute;
+  top: 24px;
+  transform: rotate(-8.06deg);
+}
+
+.home-amiwos .group-1301 {
+  height: 190px;
+  margin-left: -30px;
+  margin-top: -37.07px;
+  transform: rotate(8.06deg);
+  width: 238px;
+}
+
+.home-amiwos .group-1301-1 {
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 228px;
+}
+
+.home-amiwos .saldo-disponible {
+  left: 34px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 88px;
+  width: 135px;
+}
+
+.home-amiwos .price-1 {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+}
+
+.home-amiwos .hola-de-nuevo {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 37px;
+  width: 127px;
+}
+
+.home-amiwos .tarjeta-miwo {
+  color: var(--blue);
+    font-family: var(--font-family-niveau_grotesk-medium);
+    font-size: var(--font-size-s);
+    font-weight: 500;
+    left: 190px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 80px;
+    width: 180px;
+}
+
+.home-amiwos .trailing-icon {
+  align-items: flex-start;
+  display: flex;
+  height: 6px;
+  left: 340px;
+  min-width: 12px;
+  padding: 0 1.6px;
+  position: absolute;
+  top: 83px;
+  transform: rotate(-90.00deg);
+}
+
+.home-amiwos .vectorg {
+  height: 14px;
+  margin-top: -5.0px;
+  transform: rotate(90.00deg);
+  width: 8px;
+}
+
 .home-amiwos .overlap-group-1 {
   height: 191px;
   margin-bottom: -22.57px;
@@ -187,6 +303,7 @@
 }
 
 .home-amiwos .tarjeta-miwo {
+  font-size: var(--font-size-s);
   left: 190px;
   letter-spacing: 0;
   position: absolute;

@@ -70,7 +70,13 @@
   --font-family-poppins: "Poppins";
   --font-family-nunito: "Nunito", Helvetica;
 }
-
+.niveaugrotesk-medium-red-14px {
+  color: var(--red);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 500;
+}
 .niveaugrotesk-regular-normal-white-12px2 {
   color: var(--blue);
   font-family: var(--font-family-niveau_grotesk-regular);
