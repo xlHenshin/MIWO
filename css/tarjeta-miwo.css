@@ -1,0 +1,172 @@
+/* screen - tarjeta-miwo */
+
+.tarjeta-miwo {
+  align-items: flex-start;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.tarjeta-miwo .volver-a-inicio-mi-dinero {
+  align-items: flex-end;
+  display: flex;
+  height: 45px;
+  margin-left: 38px;
+  margin-top: 60px;
+  min-width: 122px;
+}
+
+.tarjeta-miwo .volver-a-inicio-subscripciones {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-bottom: -8px;
+  min-width: 122px;
+}
+
+.tarjeta-miwo .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.tarjeta-miwo .volver-a-inicio {
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 2.0px;
+  min-height: 17px;
+}
+
+.tarjeta-miwo .pide-tu-tarjeta-miwo {
+  letter-spacing: 0;
+  margin-left: 38px;
+  margin-top: 37px;
+  min-height: 28px;
+}
+
+.tarjeta-miwo .disfruta-de-compras-en-lnea-con-miwo {
+  align-self: center;
+  color: var(--purple-heart);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-xl2);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-right: 17.0px;
+  margin-top: 14px;
+  min-height: 23px;
+  width: 337px;
+}
+
+.tarjeta-miwo .saca-ahora-tu-tarjet {
+  align-self: center;
+  letter-spacing: 0;
+  margin-right: 0.11px;
+  margin-top: 22px;
+  min-height: 51px;
+  transform: rotate(-0.02deg);
+  width: 352px;
+}
+
+.tarjeta-miwo .group-container {
+  height: 624px;
+  margin-left: -22.0px;
+  margin-top: 22px;
+  position: relative;
+  width: 472px;
+}
+
+.tarjeta-miwo .mask-group {
+  height: 407px;
+  left: 0;
+  position: absolute;
+  top: 105px;
+  width: 472px;
+}
+
+.tarjeta-miwo .mask-group-1 {
+  height: 463px;
+  left: 22px;
+  position: absolute;
+  top: 161px;
+  width: 428px;
+}
+
+.tarjeta-miwo .overlap-group1 {
+  height: 456px;
+  left: 36px;
+  position: absolute;
+  top: 0;
+  width: 401px;
+}
+
+.tarjeta-miwo .mask-group-container {
+  height: 379px;
+  left: 0;
+  position: absolute;
+  top: 77px;
+  width: 401px;
+}
+
+.tarjeta-miwo .mask-group-2 {
+  height: 347px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 401px;
+}
+
+.tarjeta-miwo .mask-group-3 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/625c46af91fd1ec47148b487/releases/626ee96280d11097cff23a40/img/1-12@2x.png);
+  background-size: 100% 100%;
+  height: 313px;
+  left: 22px;
+  position: absolute;
+  top: 66px;
+  width: 357px;
+}
+
+.tarjeta-miwo .x4-518724 {
+  height: 313px;
+  left: 22px;
+  position: absolute;
+  top: 143px;
+  width: 357px;
+}
+
+.tarjeta-miwo .x4-518724-1 {
+  height: 456px;
+  left: 113px;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.tarjeta-miwo .group-1730 {
+  align-items: flex-start;
+  display: flex;
+  height: 50px;
+  left: 130px;
+  min-width: 214px;
+  position: absolute;
+  top: 491px;
+}
+
+.tarjeta-miwo .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 9px;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 212px;
+  padding: 0 22px;
+}
+
+.tarjeta-miwo .sacar-tarjeta-miwo {
+  height: 50px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 167px;
+}

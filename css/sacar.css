@@ -1,0 +1,342 @@
+/* screen - sacar */
+
+.sacar {
+  align-items: center;
+  background-color: var(--blue);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  padding: 19px 0;
+  width: 428px;
+}
+
+.sacar .group-1689 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  margin-left: 38px;
+  margin-top: 41px;
+  min-width: 153px;
+}
+
+.sacar .vector {
+  height: 23px;
+  margin-top: -0.14px;
+  width: 13px;
+}
+
+.sacar .sacar-tarjeta-miwo {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 0.29px;
+  min-height: 17px;
+  min-width: 121px;
+}
+
+.sacar .title {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 38px;
+  margin-top: 59px;
+  min-height: 28px;
+}
+
+.sacar .disfruta-de-los-bene {
+  letter-spacing: 0;
+  margin-right: 21.94px;
+  margin-top: 20px;
+  min-height: 17px;
+  transform: rotate(-0.02deg);
+  width: 330px;
+}
+
+.sacar .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 23px;
+  margin-right: 23.0px;
+  margin-top: 38px;
+  min-width: 317px;
+}
+
+.sacar .overlap-group2 {
+  align-items: center;
+  background-color: var(--miwo10);
+  border-radius: 3px;
+  display: flex;
+  height: 19px;
+  margin-top: 2.0px;
+  min-width: 19px;
+  padding: 0 2px;
+}
+
+.sacar .iconly-light-outline3-user {
+  height: 11px;
+  width: 15px;
+}
+
+.sacar .parches-miwo {
+  letter-spacing: 0;
+  margin-left: 18px;
+  min-height: 23px;
+  width: 280px;
+}
+
+.sacar .crea-o-unete-a-parch {
+  letter-spacing: 0;
+  margin-left: 43.0px;
+  margin-top: 9px;
+  min-height: 51px;
+  width: 309px;
+}
+
+.sacar .flex-row {
+  align-items: center;
+  display: flex;
+  height: 23px;
+  margin-right: 23.0px;
+  margin-top: 32px;
+  min-width: 317px;
+}
+
+.sacar .overlap-group {
+  align-items: center;
+  background-color: var(--miwo10);
+  border-radius: 3px;
+  display: flex;
+  height: 19px;
+  margin-top: 2.0px;
+  min-width: 19px;
+  padding: 0 3px;
+}
+
+.sacar .icon {
+  height: 13px;
+  width: 13px;
+}
+
+.sacar .convenios-con-marcas {
+  letter-spacing: 0;
+  margin-left: 18px;
+  min-height: 23px;
+  width: 280px;
+}
+
+.sacar .miwo-tiene-convenios {
+  letter-spacing: 0;
+  margin-left: 43.0px;
+  margin-top: 12px;
+  min-height: 34px;
+  width: 309px;
+}
+
+.sacar .personalizable-y-chvere {
+  letter-spacing: 0;
+  margin-left: 18px;
+  min-height: 23px;
+  width: 280px;
+}
+
+.sacar .puedes-personalizar {
+  letter-spacing: 0;
+  margin-left: 21.0px;
+  margin-top: 12px;
+  min-height: 51px;
+  width: 287px;
+}
+
+.sacar .group-871 {
+  align-items: flex-start;
+  box-shadow: 0px 4px 13px #fa6c3970;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 90px;
+  min-width: 184px;
+}
+
+.sacar .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--miwo10);
+  border-radius: 9px;
+  display: flex;
+  min-width: 182px;
+  padding: 0 26px;
+}
+
+.sacar .sacar-tarjeta {
+  height: 46px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 130px;
+}
+
+.sacar .group-868 {
+  display: flex;
+  margin-right: 27.0px;
+  margin-top: 38px;
+  width: 145px;
+}
+
+.sacar .fialert-circle {
+  height: 24px;
+  width: 24px;
+}
+
+.sacar .conoce-ms-aqu {
+  color: var(--lapis-lazuli);
+  font-family: var(--font-family-niveau_grotesk-medium);
+  font-size: var(--font-size-m2);
+  font-weight: 500;
+  height: 17px;
+  letter-spacing: 0;
+  margin-left: 7px;
+  margin-top: 4px;
+  text-decoration: underline;
+  width: 112px;
+}
+
+.sacar .navegador-principal {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  margin-top: 85px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.sacar .navegador-principal-1 {
+  background-color: var(--blue);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0038ff1a;
+  display: flex;
+  overflow: hidden;
+  width: 390px;
+}
+
+.sacar .group-1880 {
+  display: flex;
+  margin-left: 20px;
+  width: 356px;
+}
+
+.sacar .frame-1623 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  width: 55px;
+}
+
+.sacar .icon-home {
+  height: 22.6px;
+  margin-left: 16.5px;
+  margin-top: 20.5px;
+  width: 21.6px;
+}
+
+.sacar .place {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 5.9px;
+  text-align: center;
+  width: 27px;
+}
+
+.sacar .frame-1622 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 6px;
+  width: 78px;
+}
+
+.sacar .iconly-light-outline-wallet {
+  height: 23.12px;
+  margin-left: 27.5px;
+  margin-top: 19.5px;
+  width: 25.2px;
+}
+
+.sacar .movimientos {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 11px;
+  margin-top: 6.4px;
+  text-align: center;
+  width: 56px;
+}
+
+.sacar .frame-1621 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 10px;
+  width: 61px;
+}
+
+.sacar .iconly-light-outline3-user-1 {
+  height: 22px;
+  margin-left: 15px;
+  margin-top: 21px;
+  width: 30px;
+}
+
+.sacar .parches {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: 6px;
+  text-align: center;
+  width: 33px;
+}
+
+.sacar .frame-1620 {
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 15px;
+  width: 63px;
+}
+
+.sacar .icon-play {
+  height: 22.4px;
+  margin-left: 19.5px;
+  margin-top: 20.5px;
+  width: 22.4px;
+}
+
+.sacar .aprende {
+  height: 12px;
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: 6.1px;
+  text-align: center;
+  width: 39px;
+}
+
+.sacar .frame-1624 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 77px;
+  margin-left: 9px;
+  padding: 17px 0;
+  width: 59px;
+}
+
+.sacar .combined-shape {
+  height: 22px;
+  margin-right: 0.52px;
+  margin-top: 4px;
+  width: 18px;
+}
+
+.sacar .perfil {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 12px;
+  min-width: 23px;
+  text-align: center;
+}

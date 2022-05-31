@@ -5,6 +5,7 @@ const url = location.href;
 const line = url.split('/');
 let name = line[3];
 
+
 if( name === 'MIWO'){
      name = line[4];
 }
